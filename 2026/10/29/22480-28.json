@@ -1,0 +1,26 @@
+{
+  "title": "Mistral Large 4 Goes Open-Weight With Big Coding and Cyber Gains",
+  "highlight": "Open-Weight",
+  "dek": "Mistral's 1-trillion-parameter \"Le Chonk\" is now free to download and self-host.",
+  "facts": [
+    {
+      "value": "1T",
+      "label": "Parameters in Mistral Large 4"
+    },
+    {
+      "value": "41%",
+      "label": "Terminal-Bench 4.0, up 13 pts on preview"
+    },
+    {
+      "value": "$0.70",
+      "label": "API price per million input tokens"
+    }
+  ],
+  "caption": "Europe just dropped a trillion-parameter AI model anyone can download 🇪🇺\n\nMistral has released the weights of Mistral Large 4, nicknamed \"Le Chonk.\" The French company says it is now the best open-weight model for coding and defensive cybersecurity, after three extra weeks of reinforcement learning since the preview. It reports first place among open models on FrontierCode 2.0 and 41% on Terminal-Bench 4.0, and says human graders preferred its code over GLM-5.3, Kimi K3 and DeepSeek V4.1 Flash. Only Claude Opus 5.5 ranked higher.\n\nThe security angle is big. Cisco, CrowdStrike and ENISA are testing it, but Mistral admits it sees potential for uplift to real attacks and is tightening guardrails. Once weights are public, they can't be switched off.\n\nAt AI Parabellum we'd say: run your own tests before trusting vendor benchmarks. Still, for developers and companies that want sovereign AI they can self-host, this is a serious new option.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #MistralAI #MistralLarge4 #OpenWeight #OpenSourceAI #Cybersecurity #AICoding #SovereignAI #LLM",
+  "post_caption": "The open-model race isn't just China vs. the US anymore. Mistral Large 4 is a trillion-parameter, multimodal model trained from scratch on European infrastructure, now on Hugging Face under a modified MIT license.\n\nIt claims top open-model results in coding and cyber defense, with API pricing at $0.70 per million input tokens. Mistral's numbers, so independent testing still matters.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #MistralAI #MistralLarge4 #OpenWeight #OpenSourceAI #Cybersecurity #AICoding #SovereignAI #LLM",
+  "seed": 28,
+  "date": "Oct 29, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/mistral-large-4-open-weights-coding-cybersecurity/"
+}

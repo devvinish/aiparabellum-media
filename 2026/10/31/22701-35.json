@@ -1,0 +1,26 @@
+{
+  "title": "Apple Intelligence Finally Lands in China With iOS 27.3",
+  "highlight": "China",
+  "dek": "Testing starts Nov. 4, with Alibaba's Qwen built in but no Siri AI.",
+  "facts": [
+    {
+      "value": "Nov 4",
+      "label": "Developer beta testing begins"
+    },
+    {
+      "value": "Dec",
+      "label": "Public release with iOS 27.3"
+    },
+    {
+      "value": "Qwen",
+      "label": "Alibaba chatbot inside Siri and more"
+    }
+  ],
+  "caption": "After about two years of waiting, iPhone users in China are finally getting Apple Intelligence. 🇨🇳\n\nApple confirmed on its Chinese newsroom that testing starts November 4 in the iOS developer beta, with a public release planned for December in iOS 27.3. The first wave includes Live Translation, Writing Tools, Visual Intelligence, Clean Up in Photos, Genmoji and Type to Siri. Alibaba's Qwen chatbot takes the role ChatGPT plays elsewhere, built into Siri, Writing Tools and Visual Intelligence.\n\nThere are big limits, though: no Siri AI or other WWDC 2026 features, no Image Playground, and it's iPhone-only for now. You'll need an iPhone 15 Pro or newer.\n\nWe're following every step of Apple's AI rollout here at AI Parabellum. Is this enough to win over iPhone buyers in China?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AppleIntelligence #Apple #iOS27 #Alibaba #Qwen #iPhone #China #Siri",
+  "post_caption": "Apple just put a date on the record: Apple Intelligence beta testing in China begins November 4, with iOS 27.3 rolling out to the public in December.\n\nAlibaba's Qwen powers the chatbot side, but the smarter Siri AI is still missing from the China launch. 📱\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AppleIntelligence #Apple #iOS27 #Alibaba #Qwen #iPhone #China #Siri",
+  "seed": 35,
+  "date": "Oct 30, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/apple-intelligence-china-ios-27-3-beta-november/"
+}

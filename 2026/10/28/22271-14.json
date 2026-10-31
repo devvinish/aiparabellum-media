@@ -1,0 +1,26 @@
+{
+  "title": "Casap Raises $56M to Fight Card Dispute Fraud With AI",
+  "highlight": "$56M",
+  "dek": "Cardholders now commit nearly a third of fraudulent card transactions.",
+  "facts": [
+    {
+      "value": "$56M",
+      "label": "Series B led by Base10 Partners"
+    },
+    {
+      "value": "$90M",
+      "label": "Total raised since launching in 2023"
+    },
+    {
+      "value": "96%",
+      "label": "Reported chargeback win rate"
+    }
+  ],
+  "caption": "That \"item never arrived\" dispute? Banks are getting AI to check it. 🕵️\n\nCasap, a startup that uses AI to handle card disputes for banks, just raised a $56 million Series B led by Base10 Partners, with Synchrony and Experian joining as strategic investors. Its target is first-party fraud, where cardholders themselves file false claims. It now makes up nearly a third of fraudulent card transactions.\n\nMany banks simply approve disputes under about $30 because investigating costs too much. Casap's AI checks signals like where a card was used and spending patterns, and a human reviewer can clear a case in one to two minutes. The company reports up to 51% lower fraud losses and disputes resolved in about 8 days instead of up to 90, though those numbers are not independently audited.\n\nWe're following how AI is reshaping banking back offices here at AI Parabellum. Honest cardholders should get faster answers, while \"white lie\" disputes get harder to pass.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Casap #FraudPrevention #Fintech #Chargebacks #Banking #Base10Partners #Synchrony #Experian",
+  "post_caption": "Fraud is not just coming from outside criminals anymore. Cardholders now account for close to a third of fraudulent card transactions, and Casap just landed $56M to help banks push back.\n\nThe AI dispute platform sorts cases so human reviewers can decide quickly, and Casap says it wins 96% of chargebacks versus an industry average near 60%. Next up: customer complaints and collections. 💳\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Casap #FraudPrevention #Fintech #Chargebacks #Banking #Base10Partners #Synchrony #Experian",
+  "seed": 14,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/casap-raises-56m-ai-card-dispute-fraud/"
+}

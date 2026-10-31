@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic Launches Claude Spend Reports to Prove AI ROI",
+  "highlight": "Claude Spend Reports",
+  "dek": "New smart reports show Enterprise teams what Claude costs and delivers.",
+  "facts": [
+    {
+      "value": "28 days",
+      "label": "Max time range each report covers"
+    },
+    {
+      "value": "10/month",
+      "label": "Free reports per organization"
+    },
+    {
+      "value": "900%",
+      "label": "Anthropic's reported net revenue retention"
+    }
+  ],
+  "caption": "Your AI bill keeps climbing. Can you prove what it's buying? 💸\n\nAnthropic is rolling out smart reports for Claude Enterprise. They break down which projects a team used Claude for, what each one cost, the average cost per session by output type, and where work got stuck, like a connector that was never set up. Reports cover up to the last 28 days, and each organization gets 10 free per month.\n\nAnthropic is also adding pooled group budgets for token spending, with privacy guardrails that hide names by default. It's a direct answer to CFOs: Jellyfish data shows spending on Claude Code and similar tools has grown tenfold this year.\n\nWe're following the enterprise AI cost race daily at AI Parabellum. Would your finance team use this?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeEnterprise #ClaudeCode #AIROI #EnterpriseAI #AISpending #FinOps",
+  "post_caption": "Finance teams wanted receipts for AI spend, and Anthropic just delivered them. Claude Enterprise smart reports map spend to workstreams, flag the most expensive sessions, and suggest repeated tasks worth turning into shared skills.\n\nThey're off by default, take a few hours to generate, and show \"User\" instead of names unless an owner opts in. 📊\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeEnterprise #ClaudeCode #AIROI #EnterpriseAI #AISpending #FinOps",
+  "seed": 23,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/anthropic-smart-reports-claude-spend-roi-tools/"
+}

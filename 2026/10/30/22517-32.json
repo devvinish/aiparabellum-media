@@ -1,0 +1,26 @@
+{
+  "title": "Reddit Will Go Logged-In Only as AI Search Cuts Its Traffic",
+  "highlight": "Logged-In Only",
+  "dek": "AI summaries mean fewer clicks, so Reddit wants everyone to sign in.",
+  "facts": [
+    {
+      "value": "1M+",
+      "label": "Weekly search referrals lost in October"
+    },
+    {
+      "value": "$895M",
+      "label": "Q3 2026 revenue, up 53% year over year"
+    },
+    {
+      "value": "2.5M",
+      "label": "US daily users lost in one quarter"
+    }
+  ],
+  "caption": "The days of reading Reddit without an account may be numbered. 👀\n\nReddit says it is moving toward a logged-in only experience, with first tests in select markets outside the US before the end of the year. The reason: AI search. Google's AI summaries and answer engines now answer questions directly, so far fewer people click through to Reddit threads. Search referrals fell by more than 1 million per week in October, and US daily users dropped from 53.2 million to 50.7 million in a single quarter.\n\nCEO Steve Huffman calls it a big change, but the business case is clear: logged-in users mean sharper ad targeting, tougher protection against AI companies scraping its archive for free, and more leverage in data licensing deals. Revenue is still booming at $895 million for Q3, up 53%.\n\nWe're tracking this at AI Parabellum because it's one of the clearest signs yet of how AI is reshaping the open web. Would you make an account just to read Reddit?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Reddit #AISearch #SteveHuffman #GoogleAIOverviews #DataScraping #SEO #GenerativeEngineOptimization #TechNews",
+  "post_caption": "AI ate the search clicks, so Reddit is putting up a wall.\n\nThe platform plans to require accounts for most browsing, starting with tests outside the US this quarter. Fewer drive-by visitors, more ad signals, and less free data for AI scrapers. Expect other big content sites to watch closely.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Reddit #AISearch #SteveHuffman #GoogleAIOverviews #DataScraping #SEO #GenerativeEngineOptimization #TechNews",
+  "seed": 32,
+  "date": "Oct 29, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/reddit-logged-in-only-ai-search-traffic-drop/"
+}

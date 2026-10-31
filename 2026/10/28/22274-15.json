@@ -1,0 +1,26 @@
+{
+  "title": "Nvidia's Nemotron 3.5 Transcribe Does Transcripts, Speakers and Translation",
+  "highlight": "Nemotron 3.5 Transcribe",
+  "dek": "One free open model turns recordings into transcripts, speaker labels and answers.",
+  "facts": [
+    {
+      "value": "40",
+      "label": "Languages it can transcribe"
+    },
+    {
+      "value": "5.33%",
+      "label": "English word error rate, top open model"
+    },
+    {
+      "value": "4B of 30B",
+      "label": "Active parameters, fits on one GPU"
+    }
+  ],
+  "caption": "Nvidia just folded an entire speech pipeline into one free model. 🎙️\n\nNemotron 3.5 Transcribe is an open-weight model that turns recordings into transcripts, speaker labels, translations and even answers like \"what did this meeting decide?\" in a single pass. You steer it with plain-English prompts. It transcribes 40 languages, translates 31, labels up to eight speakers and handles recordings up to an hour long.\n\nIt's a 30B mixture-of-experts model with only about 4B parameters active, so it runs on a single Nvidia GPU, from DGX Spark to Blackwell. Nvidia says it ranks first among open models on the Hugging Face Open ASR Leaderboard for English and ships alongside Granary v2, an open dataset covering 48 languages for fine-tuning on your own jargon.\n\nThe catch: it's built for recorded audio, not live captions, and the benchmarks are Nvidia's own. We're tracking it at AI Parabellum, and it matters most for teams handling medical, legal or support audio they can't send to a third party.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Nvidia #Nemotron #SpeechRecognition #Transcription #OpenSourceAI #HuggingFace #SpeechToText #Granary",
+  "post_caption": "Meeting transcripts, speaker labels and translation, all from one open model you can run yourself. Nvidia's Nemotron 3.5 Transcribe is free to download and fits on a single GPU.\n\nIn a medical test, fine-tuning cut its word error rate from 30.8% to 11.8% in about 14 GPU-hours.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Nvidia #Nemotron #SpeechRecognition #Transcription #OpenSourceAI #HuggingFace #SpeechToText #Granary",
+  "seed": 15,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/nvidia-nemotron-3-5-transcribe-open-speech-model/"
+}

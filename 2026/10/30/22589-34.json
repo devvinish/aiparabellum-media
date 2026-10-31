@@ -1,0 +1,26 @@
+{
+  "title": "Canva Launches Brush, an AI Model That Edits Your Designs",
+  "highlight": "Brush",
+  "dek": "Canva's second in-house AI model in a week targets everyday design edits.",
+  "facts": [
+    {
+      "value": "69%",
+      "label": "Faster on general design edits"
+    },
+    {
+      "value": "46%",
+      "label": "Lower cost per edit task"
+    },
+    {
+      "value": "160",
+      "label": "People in the Canva Research AI lab"
+    }
+  ],
+  "caption": "Changing every header in a 30-slide deck with one prompt? Canva just made that real. 🎨\n\nCanva has launched Brush, a new in-house vision-language model that edits designs you already have. It reads your text, images, layout and spacing first, then writes and runs small bits of code to make changes and checks its own work in a loop. Everything stays fully editable.\n\nCanva says Brush is up to 69% faster and 46% cheaper than its previous design agent, based on internal tests. It arrives just one week after Craft, Canva's first image-generation model. Craft makes the image, Brush refines the design around it.\n\nWe at AI Parabellum think the real story is cost: cheaper AI edits at Canva's scale could reshape the AI design race with Adobe Firefly. Brush is live now for Canva Pro users, with Brand Kit support coming next.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Canva #CanvaBrush #CanvaPro #AIDesign #GenerativeAI #GraphicDesign #CanvaCraft #AdobeFirefly",
+  "post_caption": "Craft creates, Brush refines. Canva's new AI model restyles designs, updates multi-page decks in one go, and remixes slides into Instagram graphics.\n\nIt's available now on Canva Pro, though the speed and cost gains are still Canva's own claims until independent testers weigh in. Would you hand your edits to AI? ✏️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Canva #CanvaBrush #CanvaPro #AIDesign #GenerativeAI #GraphicDesign #CanvaCraft #AdobeFirefly",
+  "seed": 34,
+  "date": "Oct 30, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/canva-launches-brush-ai-design-editing-model/"
+}

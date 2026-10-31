@@ -1,0 +1,26 @@
+{
+  "title": "Solink Raises $100M to Turn Security Cameras Into AI Tools",
+  "highlight": "$100M",
+  "dek": "Ottawa startup adds AI agents to cameras stores already own.",
+  "facts": [
+    {
+      "value": "500,000",
+      "label": "Cameras connected to Solink's platform"
+    },
+    {
+      "value": "35,000+",
+      "label": "Customer locations in 65 countries"
+    },
+    {
+      "value": "40%+",
+      "label": "Yearly revenue growth Solink reports"
+    }
+  ],
+  "caption": "Your store's old security camera is about to start giving orders. 👀\n\nOttawa startup Solink just raised US$100 million in growth funding led by Vertu Capital, with Goldman Sachs Asset Management's growth unit returning and Golub Growth and Comcast Ventures joining. Solink plugs into cameras that restaurants and retailers already have, pairs the video with point-of-sale data, and flags things like suspicious discounts, slow drive-throughs and safety hazards.\n\nThe new money goes into AI agents and vision language models that filter false alarms and turn camera footage into instructions for managers. CEO Mike Matta expects agents to bring in over 40% of revenue within three years, up from under 10% today.\n\nWe're tracking this shift from passive recording to active AI video intelligence at AI Parabellum. Big upside for operators, but also real privacy questions about who can search the footage.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Solink #VideoAnalytics #AIAgents #RetailTech #SecurityCameras #VertuCapital #ComputerVision #StartupFunding",
+  "post_caption": "Over 750 million hours of video a month already flow through Solink. Now a fresh $100M round aims to make that footage smarter.\n\nThe Ottawa company will build AI agents on top of existing security cameras for loss prevention, perimeter security and store operations, with total funding now above $198 million.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Solink #VideoAnalytics #AIAgents #RetailTech #SecurityCameras #VertuCapital #ComputerVision #StartupFunding",
+  "seed": 26,
+  "date": "Oct 29, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/solink-raises-100m-ai-video-security-cameras/"
+}

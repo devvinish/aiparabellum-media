@@ -1,0 +1,26 @@
+{
+  "title": "Microsoft Hits $92.3B Record Quarter as Cloud Growth Speeds Up",
+  "highlight": "$92.3B Record",
+  "dek": "AI demand pushed Microsoft Cloud growth to 30% as capital spending hit a record.",
+  "facts": [
+    {
+      "value": "$92.3B",
+      "label": "Quarterly revenue, up 19%"
+    },
+    {
+      "value": "$677B",
+      "label": "Contract backlog, up 73%"
+    },
+    {
+      "value": "$45.2B",
+      "label": "Record quarterly capital spending"
+    }
+  ],
+  "caption": "Microsoft just posted its tenth straight record quarter, and AI is the reason 📈\n\nFor its fiscal Q1 2027, Microsoft reported $92.3 billion in revenue, up 19%. Microsoft Cloud, which includes Azure and Microsoft 365, brought in $63.9 billion, with growth speeding up to 30%. The commercial backlog of signed future contracts jumped 73% to $677 billion, much of it tied to AI labs like OpenAI and Anthropic buying computing power.\n\nThe catch is cost. Capital spending on data centers and chips topped $45.2 billion, another record. Meanwhile, Windows device revenue fell 22%, so Microsoft's focus is clearly on cloud and AI agents.\n\nWe're tracking this at AI Parabellum. The big question now: can cloud growth stay near 30% while the AI buildout bill keeps climbing?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Microsoft #MicrosoftEarnings #Azure #CloudComputing #OpenAI #Anthropic #AIInfrastructure #BigTech",
+  "post_caption": "A $677 billion backlog shows customers are committed to Microsoft's AI cloud for years to come.\n\nMicrosoft's latest quarter brought $92.3B in revenue and 30% cloud growth, but record spending on data centers means it now has to build fast enough to deliver. 💡\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Microsoft #MicrosoftEarnings #Azure #CloudComputing #OpenAI #Anthropic #AIInfrastructure #BigTech",
+  "seed": 24,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/microsoft-q1-earnings-92-billion-cloud-ai-growth/"
+}

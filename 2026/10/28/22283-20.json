@@ -1,0 +1,26 @@
+{
+  "title": "Chrome Autofill Can Now Pull Details From Your Gmail",
+  "highlight": "Your Gmail",
+  "dek": "A new \"Suggested by Gemini\" option fills forms using info from your inbox.",
+  "facts": [
+    {
+      "value": "US",
+      "label": "Where the rollout is starting"
+    },
+    {
+      "value": "3",
+      "label": "Platforms: desktop, Android and iOS"
+    },
+    {
+      "value": "May",
+      "label": "When Google first previewed it"
+    }
+  ],
+  "caption": "Your browser can now read your inbox to fill out forms for you. 👀\n\nGoogle is rolling out a smarter Chrome autofill that uses details from your Gmail. Instead of digging for a flight confirmation, order number or tracking info, you'll see a \"Suggested by Gemini\" option right in the autofill dropdown. It's powered by Google's Personal Intelligence and is starting in the US on desktop, Android and iOS.\n\nIt's opt-in: you need Gemini in Chrome with Personal Intelligence turned on, nothing gets filled without your tap, and you can switch it off in Chrome settings. Google says sensitive data is encrypted.\n\nWe're following every Gemini move at AI Parabellum. Would you let Chrome read your Gmail to save a few minutes on forms?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Google #Chrome #Gemini #Gmail #GoogleChrome #PersonalIntelligence #Autofill #Privacy",
+  "post_caption": "No more hunting through emails for that booking reference. Chrome's new Gemini-powered autofill pulls flight numbers, order IDs and tracking details straight from Gmail.\n\nIt's rolling out now in the US, it's opt-in, and you can turn it off anytime. Convenience or too close for comfort? ✈️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Google #Chrome #Gemini #Gmail #GoogleChrome #PersonalIntelligence #Autofill #Privacy",
+  "seed": 20,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/chrome-autofill-gmail-suggested-by-gemini/"
+}

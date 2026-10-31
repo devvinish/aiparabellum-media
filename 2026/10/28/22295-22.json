@@ -1,0 +1,26 @@
+{
+  "title": "PyTorch 2.15 Makes Rewritten NCCL Default, Adds FP8 on Apple Silicon",
+  "highlight": "Rewritten NCCL",
+  "dek": "Faster multi-GPU training plus quicker local decoding on Blackwell and Mac.",
+  "facts": [
+    {
+      "value": "3,117",
+      "label": "Commits since PyTorch 2.14"
+    },
+    {
+      "value": "583",
+      "label": "Contributors to the release"
+    },
+    {
+      "value": "8x",
+      "label": "Faster single-row softmax on Apple GPUs"
+    }
+  ],
+  "caption": "The framework behind most of today's AI just got a quiet but major upgrade. ⚡\n\nPyTorch 2.15 is out, and a rewritten NCCL backend now powers every multi-GPU job on NVIDIA hardware by default. A new flight recorder dumps a post-mortem from every GPU when training hangs, so engineers can finally see what froze a run. Teams can roll back with the nccl-legacy backend if needed.\n\nThe release also speeds up 4-bit NVFP4 decoding on NVIDIA Blackwell, brings FP8 support and faster mixture-of-experts decoding to Apple Silicon, and widens AMD (MI450, ROCm 10.0) and Intel GPU support. Heads up: Python 3.10 is dropped, so you'll need 3.11 or newer.\n\nWe're tracking it at AI Parabellum because cheaper, more reliable training and faster local models on a Mac affect nearly every AI app you use.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #PyTorch #NCCL #NVIDIA #AppleSilicon #FP8 #DeepLearning #AMD #MachineLearning",
+  "post_caption": "Running open models on a Mac? PyTorch 2.15 adds FP8, a 1.32x boost for mixture-of-experts decoding on M3 Ultra, and a public torch.mps.Stream API.\n\nOn the NVIDIA side, the rewritten NCCL backend is now the default for multi-GPU training, with a new flight recorder to debug stuck runs. 🛠️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #PyTorch #NCCL #NVIDIA #AppleSilicon #FP8 #DeepLearning #AMD #MachineLearning",
+  "seed": 22,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/pytorch-2-15-release-nccl-default-apple-fp8/"
+}

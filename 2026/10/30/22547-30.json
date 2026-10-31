@@ -1,0 +1,26 @@
+{
+  "title": "Amazon Says AWS Can Hit $1 Trillion as AI Spending Tops $220B",
+  "highlight": "$1 Trillion",
+  "dek": "AWS sales jumped 39% in Q3, but investors balked at the AI price tag.",
+  "facts": [
+    {
+      "value": "39%",
+      "label": "AWS Q3 sales growth to $46.0B"
+    },
+    {
+      "value": "$220B",
+      "label": "Expected 2026 capital spending"
+    },
+    {
+      "value": "$184B",
+      "label": "AWS annualized revenue run-rate"
+    }
+  ],
+  "caption": "No company has ever made $1 trillion in annual revenue. Amazon thinks AWS can get there 🚀\n\nIn its Q3 results, Amazon said AWS sales jumped 39% to $46.0 billion, with operating income up to $17.8 billion. CEO Andy Jassy said AWS could grow over 40% in 2027 and 2028 and become a trillion-dollar revenue business within five to 10 years, calling enterprise AI adoption \"very early days.\"\n\nThe catch is the cost. Amazon still expects about $220 billion in capital spending on AI infrastructure in 2026, and more in 2027. Free cash flow swung to a $42.4 billion outflow, and shares fell about 6% after hours.\n\nAt AI Parabellum we see this as the cloud industry's biggest bet yet. The chatbots and coding assistants you use run on this capacity, but remember a trillion-dollar goal is a forecast, not a result.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Amazon #AWS #AndyJassy #CloudComputing #AIInfrastructure #Anthropic #BigTech #Earnings",
+  "post_caption": "$42.4 billion out the door in a year. That's the free cash flow outflow behind Amazon's AI build-out, even as AWS grew 39% to $46.0 billion last quarter.\n\nAndy Jassy says the spending will \"forever change the size of Amazon.\" Wall Street wasn't convinced yet, sending shares down about 6%.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Amazon #AWS #AndyJassy #CloudComputing #AIInfrastructure #Anthropic #BigTech #Earnings",
+  "seed": 30,
+  "date": "Oct 30, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/amazon-aws-trillion-dollar-goal-220b-ai-capex/"
+}

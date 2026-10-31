@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI, Google, Microsoft & Anthropic Back One AI Training Opt-Out",
+  "highlight": "One AI Training Opt-Out",
+  "dek": "Publishers can soon block AI training with a single robots.txt rule.",
+  "facts": [
+    {
+      "value": "Oct 30",
+      "label": "Date the four companies announced support"
+    },
+    {
+      "value": "Feb 2027",
+      "label": "Microsoft starts honoring the signal"
+    },
+    {
+      "value": "IETF",
+      "label": "Draft standard proposed by Anthropic"
+    }
+  ],
+  "caption": "Website owners just got one switch to say no to AI training. 🛑\n\nOpenAI, Google, Microsoft and Anthropic say they will all respect a shared robots.txt signal, \"__usage_ai-training\", instead of making publishers block every AI crawler one by one. The idea comes from a draft IETF standard written by Anthropic's Kevin Kelley, building on the AI Preferences (AIPREF) working group.\n\nAnthropic has already adopted it, OpenAI follows in the coming months, Google arrives in early 2027 and Microsoft on February 1, 2027. Microsoft is also adding separate page-level controls for grounding, which is when AI tools like Copilot pull live web content into answers.\n\nThere are limits: it's still a draft, it's voluntary, and it only covers future training, not models already built on your content. We're tracking how it plays out at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #Anthropic #Google #Microsoft #robotstxt #AITraining #Publishers #IETF",
+  "post_caption": "Blocking AI crawlers used to mean chasing a growing list of bot names. Soon, one robots.txt line will tell OpenAI, Google, Microsoft and Anthropic not to train on your pages.\n\nCompany-specific rules like Google-Extended still work, so keep them in place until each provider confirms support.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #Anthropic #Google #Microsoft #robotstxt #AITraining #Publishers #IETF",
+  "seed": 36,
+  "date": "Oct 30, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/openai-google-microsoft-anthropic-shared-ai-training-opt-out/"
+}

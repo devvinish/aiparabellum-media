@@ -1,0 +1,26 @@
+{
+  "title": "New York Signs Strict AI Chatbot Child Safety Law",
+  "highlight": "Child Safety Law",
+  "dek": "Chatbots must verify ages and follow strict limits with users under 18.",
+  "facts": [
+    {
+      "value": "$25,000",
+      "label": "Max civil penalty per violation"
+    },
+    {
+      "value": "6 months",
+      "label": "Until the new rules take effect"
+    },
+    {
+      "value": "Under 18",
+      "label": "Users who get extra chatbot protections"
+    }
+  ],
+  "caption": "Chatbots in New York can no longer pretend to be your kid's friend, partner or therapist. 🛑\n\nGovernor Kathy Hochul has signed an AI chatbot child safety law that forces AI companies to verify user ages. At least one verification method can't rely entirely on government ID, and the age data must be deleted after use. Until a user is confirmed as an adult, chatbots can't claim to be a real person, be alive or have human emotions. They also can't promote self harm, eating disorders or drug use, push kids to keep secrets, or produce sexually explicit content.\n\nBreaking the law can cost up to $25,000 per violation, and companies may have to delete unlawfully collected data along with any models trained on it. Common Sense Media called it the strongest kids' AI safety bill in the country. It applies to any public chatbot in the state, not just giants like OpenAI.\n\nWe're tracking how AI regulation for kids is unfolding here at AI Parabellum. With eight states already suing OpenAI over child safety, this New York law could become the template other states copy.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #NewYork #KathyHochul #AIRegulation #ChildSafety #AIChatbots #AgeVerification #OpenAI #CommonSenseMedia",
+  "post_caption": "Age checks are coming to AI chatbots in New York. Under Hochul's new law, chatbots can't form romantic or authority-figure relationships with minors, and the attorney general can fine companies up to $25,000 per violation.\n\nThe rules kick in within six months, and other states are watching closely. 👀\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #NewYork #KathyHochul #AIRegulation #ChildSafety #AIChatbots #AgeVerification #OpenAI #CommonSenseMedia",
+  "seed": 18,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/new-york-signs-ai-chatbot-child-safety-law/"
+}

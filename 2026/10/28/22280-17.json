@@ -1,0 +1,26 @@
+{
+  "title": "Claude for Legal Adds Artifacts for Cite Checks and Contract Review",
+  "highlight": "Claude for Legal",
+  "dek": "Anthropic gives lawyers interactive trackers that link every answer to its source.",
+  "facts": [
+    {
+      "value": "6",
+      "label": "Built-in legal artifacts from Anthropic"
+    },
+    {
+      "value": "60+",
+      "label": "Legal connectors, incl. Bloomberg Law"
+    },
+    {
+      "value": "4",
+      "label": "Partner-built tools at launch"
+    }
+  ],
+  "caption": "Lawyers just got a ready-made AI toolkit, and every answer comes with a receipt. ⚖️\n\nAnthropic has added interactive artifacts to Claude for Legal: trackers, boards and tables for cite checks, contract review, jurisdiction surveys and regulatory monitoring. Claude does the first pass, links each output back to its source, and a lawyer makes the final call. Partners like Harvey, PwC, Goodwin and Foley & Lardner have built their own tools for the shared gallery, with more coming from Legora and Orrick.\n\nWhy it matters: firms no longer need to build AI workflows from scratch. Critics call it convenience more than breakthrough, and it puts Anthropic in direct competition with legal AI startups built on Claude. We're tracking how it plays out at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeForLegal #LegalTech #LegalAI #ContractReview #Harvey #LawFirms",
+  "post_caption": "Cite checking with AI, now with links to every source.\n\nClaude for Legal's new artifacts let legal teams flag contract deviations, compare laws across states and map upcoming regulations, starting from examples instead of a blank page.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeForLegal #LegalTech #LegalAI #ContractReview #Harvey #LawFirms",
+  "seed": 17,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/claude-for-legal-artifacts-cite-check-contract-review/"
+}

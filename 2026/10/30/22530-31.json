@@ -1,0 +1,26 @@
+{
+  "title": "Cohere Chases $5B Round as Canada Buys a Stake",
+  "highlight": "Canada Buys a Stake",
+  "dek": "Ottawa backs Cohere's push to build frontier AI outside the U.S. and China.",
+  "facts": [
+    {
+      "value": "CAD $7B",
+      "label": "Maximum size of Cohere's Series E"
+    },
+    {
+      "value": "CAD $1.6B",
+      "label": "Canada's staged equity commitment"
+    },
+    {
+      "value": "CAD $35.7B",
+      "label": "Valuation if the full round closes"
+    }
+  ],
+  "caption": "A national government just bought into an AI lab. 🇨🇦\n\nCohere has closed the first part of a Series E that could reach CAD $7 billion, about US $5 billion. That would value the Toronto company at CAD $35.7 billion. Schwarz Group leads the round, Nvidia is back, and the Government of Canada is committing up to CAD $1.6 billion in stages. Prime Minister Mark Carney called it a matter of national security.\n\nCohere is pitching sovereign AI: models that democratic countries and companies can inspect, host and control themselves. The money will fund new models, the Aleph Alpha combination, the AISLE deal and a new Cohere Cyber product for classified, air-gapped settings.\n\nWe're tracking the sovereign AI race daily at AI Parabellum. Can Cohere really compete with OpenAI and the Chinese labs?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Cohere #SovereignAI #Canada #Nvidia #AIFunding #AlephAlpha #CohereCyber #AidanGomez",
+  "post_caption": "Canada isn't waiting for the U.S. or China to decide its AI future.\n\nOttawa is taking an equity stake in Cohere as part of a record Series E worth up to CAD $7 billion, backed by Schwarz Group and Nvidia. Cohere says ARR grew 165% and its customer count hit 300, with Bell, RBC and TD Bank among them.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Cohere #SovereignAI #Canada #Nvidia #AIFunding #AlephAlpha #CohereCyber #AidanGomez",
+  "seed": 31,
+  "date": "Oct 29, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/cohere-targets-5b-series-e-canada-stake/"
+}

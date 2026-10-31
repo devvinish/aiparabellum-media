@@ -1,0 +1,26 @@
+{
+  "title": "Google's Gemini 4 Carbon Targets Cybersecurity at the Frontier",
+  "highlight": "Gemini 4 Carbon",
+  "dek": "Only select security defenders get early access while Google tests safeguards.",
+  "facts": [
+    {
+      "value": "59",
+      "label": "Top score on AI Intelligence Index"
+    },
+    {
+      "value": "88.2%",
+      "label": "SEC-bench Pro vulnerability finding"
+    },
+    {
+      "value": "$2/$10",
+      "label": "Intro price per million in/out tokens"
+    }
+  ],
+  "caption": "Google just built an AI that hunts bugs for days, and you can't use it yet. 🔐\n\nGoogle DeepMind announced Gemini 4 Carbon, its strongest frontier model so far, only two weeks after Gemini 4 Argon. It ranks first on the Artificial Analysis Intelligence Index with a score of 59 and posts big numbers on cybersecurity benchmarks: 88.2% on SEC-bench Pro, 54.8% on ExploitGym and 71.0% on CWE-bench. Google says it can find vulnerabilities, check if they're exploitable and write the fix.\n\nFor now, only a small group of cyber defenders gets access, with more trusted partners joining through the Fairwind Program. Google is rolling it out slowly while testing safeguards and joining U.S. government pre-release testing. Intro pricing matches Argon at $2 and $10 per million tokens.\n\nWe're tracking this one at AI Parabellum. Remember these are Google's own benchmarks, so independent tests will be the real verdict.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini4Carbon #GoogleDeepMind #Gemini #Cybersecurity #AISafety #FrontierAI #AICoding",
+  "post_caption": "Security teams get first dibs on Google's newest frontier model. Gemini 4 Carbon leads on vulnerability finding and patching, cuts prompt injection success to 0.0% on Gray Swan, and stays limited to trusted defenders until wider access opens up later.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini4Carbon #GoogleDeepMind #Gemini #Cybersecurity #AISafety #FrontierAI #AICoding",
+  "seed": 19,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/gemini-4-carbon-google-cybersecurity-model-launch/"
+}

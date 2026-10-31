@@ -1,0 +1,26 @@
+{
+  "title": "Google Opens Gemini and Search to Any Developer's Apps",
+  "highlight": "Any Developer's Apps",
+  "dek": "A self-service preview replaces Google's invite-only partner deals.",
+  "facts": [
+    {
+      "value": "50+",
+      "label": "Connected apps already in Gemini"
+    },
+    {
+      "value": "MCP",
+      "label": "Open standard powering every integration"
+    },
+    {
+      "value": "U.S.",
+      "label": "Where the developer preview is open"
+    }
+  ],
+  "caption": "Your next app install might never touch your home screen. 👀\n\nGoogle just launched the Connected Apps Platform, a preview that lets any developer build apps that work inside Gemini and Google Search. Until now, getting an app into Google's AI meant working directly with Google's team. Now it's self-service, built on the Model Context Protocol (MCP), with a cloud MCP server or Android AppFunctions as the two paths in.\n\nUsers link an app once, then @-mention it to book, order or create without leaving the chat. Gemini already supports 50+ apps like Canva, Adobe, Dropbox, Instacart and Ticketmaster, and they're heading to Search in the coming weeks.\n\nWhy it matters: with OpenAI and Meta racing to do the same, the AI assistant is becoming the front door to the web. We're tracking the agentic shift daily at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Google #Gemini #GoogleSearch #MCP #ModelContextProtocol #AIAgents #AgenticWeb #Developers",
+  "post_caption": "Getting your app into Gemini used to take a deal with Google. Now it takes a signup.\n\nThe new Connected Apps Platform lets U.S. developers build one MCP integration and ship it to Gemini, Search, or both, managed through Google Connected Console. Being listed may soon matter as much as SEO. 🚀\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Google #Gemini #GoogleSearch #MCP #ModelContextProtocol #AIAgents #AgenticWeb #Developers",
+  "seed": 21,
+  "date": "Oct 28, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/google-connected-apps-platform-gemini-search-developers/"
+}

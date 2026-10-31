@@ -1,0 +1,26 @@
+{
+  "title": "Deepgram Buys Daily, the Company Behind Pipecat Voice AI",
+  "highlight": "Deepgram Buys Daily",
+  "dek": "Pipecat stays open source, with a new open protocol for voice agents.",
+  "facts": [
+    {
+      "value": "$62M+",
+      "label": "Raised by Daily before the deal"
+    },
+    {
+      "value": "$130M",
+      "label": "Deepgram's Series C, making it a unicorn"
+    },
+    {
+      "value": "RCS",
+      "label": "New open protocol for voice agents"
+    }
+  ],
+  "caption": "One of the most popular open-source voice AI toolkits just changed hands 🎙️\n\nDeepgram is acquiring Daily, the company behind the Pipecat framework that links speech-to-text, LLMs and text-to-speech into low-latency voice agents. No price was shared, but both sides say Pipecat will stay open source and vendor-neutral, backed by an independent Pipecat Foundation.\n\nDeepgram is also launching the Real-Time Context Standard (RCS), an open protocol built with the Pipecat team that lets voice agents use tone, volume and other audio cues to shape how they respond.\n\nAt AI Parabellum we see this as another sign the voice AI market is consolidating, alongside big raises at ElevenLabs, LiveKit and Vapi. If you build on Pipecat, watch how the foundation and roadmap evolve.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Deepgram #Pipecat #DailyCo #VoiceAI #VoiceAgents #OpenSource #SpeechAI #AIAcquisition",
+  "post_caption": "Pipecat has a new home, but its open-source promise stays put. Deepgram's deal for Daily comes with a pledge that developers can keep using any model they want, even non-Deepgram ones, plus a new open protocol called RCS for context-aware voice agents.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Deepgram #Pipecat #DailyCo #VoiceAI #VoiceAgents #OpenSource #SpeechAI #AIAcquisition",
+  "seed": 27,
+  "date": "Oct 29, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/deepgram-buys-daily-pipecat-voice-ai/"
+}

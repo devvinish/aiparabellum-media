@@ -1,0 +1,26 @@
+{
+  "title": "VOLTA Malware Uses AI to Rank Victims by What They're Worth",
+  "highlight": "Rank Victims",
+  "dek": "Cisco Talos found a stealer that sends your data to an LLM for a dossier.",
+  "facts": [
+    {
+      "value": "Claude",
+      "label": "First-choice model for target reports"
+    },
+    {
+      "value": "3 models",
+      "label": "AI fallback chain to dodge refusals"
+    },
+    {
+      "value": "6 slots",
+      "label": "Swappable kit template for each buyer"
+    }
+  ],
+  "caption": "Your stolen passwords aren't just sold anymore. Now an AI writes a report on how much you're worth. ⚠️\n\nCisco Talos uncovered VOLTA, a Windows infostealer that grabs logins, cookies, crypto wallets, Discord, Steam and Roblox sessions, then digs through your Gmail and DoorDash orders to confirm your address. It packs everything into JSON and sends it via OpenRouter to an LLM, asking for a \"target assessment\" ranking your value and security habits. If Anthropic's Claude refuses, it falls back to Kimi K2, then Gemini 2.5 Flash.\n\nIt appears to be sold as a kit, so even unskilled criminals could get ranked victim dossiers sent to Telegram. Here at AI Parabellum we see this as a real shift: AI is now doing the analyst work after a breach.\n\nProtect yourself: skip cracked software and game cheats, use a password manager, turn on passkeys, and watch kids' gaming accounts.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #VOLTA #CiscoTalos #Infostealer #Cybersecurity #Malware #OpenRouter #Claude #AISecurity",
+  "post_caption": "Criminals have found a new job for chatbots: sorting through stolen data to decide which victims to hit first. VOLTA, flagged by Cisco Talos, even retries with other AI models when one says no.\n\nThe old basics still beat it. Avoid shady downloads, keep passwords out of your browser and revoke sessions fast if something feels off. 🔐\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #VOLTA #CiscoTalos #Infostealer #Cybersecurity #Malware #OpenRouter #Claude #AISecurity",
+  "seed": 37,
+  "date": "Oct 31, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/volta-infostealer-uses-ai-to-profile-victims/"
+}
