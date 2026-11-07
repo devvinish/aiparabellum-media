@@ -1,0 +1,26 @@
+{
+  "title": "Airbnb's AI Travel Agent Arrives in First Half of 2027",
+  "highlight": "AI Travel Agent",
+  "dek": "It builds a custom screen for each trip question and helps after you book.",
+  "facts": [
+    {
+      "value": "H1 2027",
+      "label": "Consumer rollout of the AI agent"
+    },
+    {
+      "value": "~40%",
+      "label": "Support issues solved without a human"
+    },
+    {
+      "value": "$4.9B",
+      "label": "Q3 2026 revenue, up 19%"
+    }
+  ],
+  "caption": "Airbnb doesn't want you planning trips in a chatbot. It's building something different ✈️\n\nOn its Q3 earnings call on November 5, Airbnb said its custom AI travel agent will start rolling out to guests in the first half of 2027. Instead of walls of text, the agent assembles a screen on the fly from hundreds of travel pieces like maps, photo comparisons, calendars and itineraries. CEO Brian Chesky called it \"a little bit like generative UI.\"\n\nThe agent also sticks around after you book, helping with reservation changes, payment problems, refunds, rebooking and 24-hour safety support. Airbnb's bet is that travel is too personal for general-purpose AI assistants, and its AI support already solves about 40% of issues without a human.\n\nWe're following how travel companies like Airbnb and Booking Holdings race to build AI agents here at AI Parabellum. Would you let an AI agent plan your next trip?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Airbnb #AITravelAgent #AIAgents #GenerativeUI #TravelTech #BrianChesky #ArtificialIntelligence #TravelPlanning",
+  "post_caption": "Airbnb finally put a date on its AI travel agent: the first half of 2027.\n\nThe tool will build visual, made-for-you screens for trip planning and handle refunds and rebooking right inside your reservation. Will travel-specific agents beat general chatbots? 🧳\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Airbnb #AITravelAgent #AIAgents #GenerativeUI #TravelTech #BrianChesky #ArtificialIntelligence #TravelPlanning",
+  "seed": 74,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/airbnb-ai-travel-agent-launch-first-half-2027/"
+}

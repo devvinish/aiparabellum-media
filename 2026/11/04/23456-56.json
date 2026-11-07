@@ -1,0 +1,26 @@
+{
+  "title": "Claude Marketplace Adds 14 Partner Agents for Security and Work",
+  "highlight": "14 Partner Agents",
+  "dek": "Anthropic's marketplace now lists 25+ tools teams can use alongside Claude.",
+  "facts": [
+    {
+      "value": "14",
+      "label": "New partner listings added"
+    },
+    {
+      "value": "25+",
+      "label": "Partner offerings now on the marketplace"
+    },
+    {
+      "value": "5",
+      "label": "New security agents, the biggest group"
+    }
+  ],
+  "caption": "Your Claude budget can now pay for Datadog, Runway and Asana too. 👀\n\nAnthropic just added 14 partner agents and products to Claude Marketplace, bringing it to more than 25 offerings. Security leads the batch with Chainguard, Checkmarx, Cyera, Rubrik and Tanium, alongside Datadog and Netlify for developers, Runway, Webflow and AirOps for creative work, and Asana, Glean, monday and Zoom for productivity.\n\nThe real hook: eligible enterprise customers can apply part of their committed Anthropic spend to these partner tools. One commitment covers Claude and the agents around it, which skips the slow budget approval step.\n\nWe're tracking how Anthropic is building an ecosystem around Claude here at AI Parabellum. Which of these would your team actually use?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeMarketplace #AIAgents #AISecurity #EnterpriseAI #Datadog #Runway",
+  "post_caption": "Security is where enterprise AI demand is hottest right now, and Claude Marketplace proves it. Five of the 14 new partner listings focus on finding vulnerabilities and governing how Claude is used.\n\nThe rest span agent tracing, video generation, websites and workplace agents from names like Datadog, Runway, Webflow and Zoom. Eligible enterprises can put committed Anthropic spend toward all of them. 🔐\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeMarketplace #AIAgents #AISecurity #EnterpriseAI #Datadog #Runway",
+  "seed": 56,
+  "date": "Nov 4, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/claude-marketplace-adds-security-creative-partner-agents/"
+}

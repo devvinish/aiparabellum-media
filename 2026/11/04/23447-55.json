@@ -1,0 +1,26 @@
+{
+  "title": "Pangram Launches AI Image Detector That Also Checks Video",
+  "highlight": "AI Image Detector",
+  "dek": "Pangram Image 1.0 is out on web, API and Chrome, with a video model too.",
+  "facts": [
+    {
+      "value": "99.96%",
+      "label": "Claimed accuracy on 1,200 AI images"
+    },
+    {
+      "value": "98.7%",
+      "label": "Image Flash 1.0 score on DF26 video test"
+    },
+    {
+      "value": "256px",
+      "label": "New minimum image size, down from 512"
+    }
+  ],
+  "caption": "That rental listing photo might not be real, and now a Chrome extension can tell you 🔍\n\nPangram, the startup known for catching AI-written text, has launched Pangram Image 1.0, an AI image detector now live on its website, API and Chrome extension. A lighter model, Image Flash 1.0, scans videos frame by frame to flag AI-generated footage. It can even show a heatmap of which part of a photo was edited with AI.\n\nPangram claims 99.96% accuracy on 1,200 AI images and 98.7% on the DF26 deepfake video benchmark, about 29 points ahead of the next best detector. These are the company's own tests, so independent reviews will matter.\n\nWhy it matters: deepfakes and fake product or rental photos are fueling scams. At AI Parabellum, we'd treat any detector result as a strong clue, not a final verdict.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Pangram #AIDetection #Deepfakes #AIImageDetector #DeepfakeDetection #GenerativeAI #ChromeExtension",
+  "post_caption": "Deepfake detection just moved into your browser.\n\nPangram Image 1.0 flags AI-made photos, while Image Flash 1.0 checks videos frame by frame. Both are available on the web, via API and in the Pangram Chrome extension, with claimed accuracy above 98% on the company's own tests.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Pangram #AIDetection #Deepfakes #AIImageDetector #DeepfakeDetection #GenerativeAI #ChromeExtension",
+  "seed": 55,
+  "date": "Nov 4, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/pangram-image-1-0-ai-image-video-detector/"
+}

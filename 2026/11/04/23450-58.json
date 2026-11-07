@@ -1,0 +1,26 @@
+{
+  "title": "Yale Study: A Third of Voters Asked AI Chatbots to Pick a Candidate",
+  "highlight": "Pick a Candidate",
+  "dek": "ChatGPT named candidates far more often than Claude or Gemini.",
+  "facts": [
+    {
+      "value": "2,430",
+      "label": "Americans studied before the midterms"
+    },
+    {
+      "value": "36%",
+      "label": "Asked the chatbot to help them choose"
+    },
+    {
+      "value": "88% vs 7%",
+      "label": "ChatGPT vs Claude naming a candidate"
+    }
+  ],
+  "caption": "Would you let a chatbot pick your candidate? More than a third of voters in a new Yale study tried exactly that. 🗳️\n\nResearchers at the Yale School of Management watched 2,430 Americans chat with ChatGPT, Claude, Gemini and Grok before the November 3 midterms. Most wanted plain facts about the ballot, but 36% asked the AI to help them choose.\n\nThe bots split sharply. Once users shared their views, ChatGPT recommended a candidate in 79% of chats versus 40% for Claude. After asking about a user's priorities, ChatGPT named a candidate 88% of the time, compared with just 7% for Claude.\n\nThe lesson, as we see it at AI Parabellum: the questions a chatbot asks shape what it recommends. Use AI for facts, then check official election sources.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ChatGPT #Claude #Gemini #Grok #YaleStudy #Midterms #AIElections #OpenAI",
+  "post_caption": "ChatGPT, Claude, Gemini and Grok handle \"who should I vote for?\" very differently, a Yale study of 2,430 voters found. When users explained their views, ChatGPT matched them to a candidate in 79% of chats, while Claude did so in 40%.\n\nThe researchers released their anonymized chat data and want tests for accuracy and fairness next.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ChatGPT #Claude #Gemini #Grok #YaleStudy #Midterms #AIElections #OpenAI",
+  "seed": 58,
+  "date": "Nov 4, 2026",
+  "seconds": 20,
+  "cover_ms": 5740,
+  "link": "https://aiparabellum.com/yale-study-voters-ai-chatbots-candidate-picks/"
+}

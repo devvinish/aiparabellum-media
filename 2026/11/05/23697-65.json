@@ -1,0 +1,26 @@
+{
+  "title": "Box Builds Nvidia Nemotron Into Context Retrieval for AI Agents",
+  "highlight": "Nvidia Nemotron",
+  "dek": "AI agents get only the passages they need, not whole files.",
+  "facts": [
+    {
+      "value": "4x",
+      "label": "Faster queries, per Nvidia's projection"
+    },
+    {
+      "value": "90%",
+      "label": "Fewer tokens used, per Nvidia's projection"
+    },
+    {
+      "value": "20%",
+      "label": "Fewer errors expected"
+    }
+  ],
+  "caption": "What if your AI agent didn't have to read every file to find the answer? 📂\n\nBox just unveiled Box Context Retrieval, built on Nvidia's open-weight Nemotron embedding models. Instead of feeding entire documents to a model, it returns only the chunks that matter. It pairs keyword search with semantic search and checks live Box permissions on every query, so agents never surface files a user can't open.\n\nNvidia projects about 4x faster queries, 20% fewer errors and 90% fewer tokens. These are company estimates, not independent tests. It works with LangChain, LlamaIndex, Semantic Kernel and MCP, and rolls out to Enterprise Advanced customers early next year.\n\nWe at AI Parabellum see this as a sign the enterprise AI race is shifting from models to who controls the trusted data underneath.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Box #Nvidia #Nemotron #AIAgents #EnterpriseAI #SemanticSearch #MCP #RAG",
+  "post_caption": "Less reading, more finding. Box and Nvidia want AI agents to pull precise passages from contracts, policies and research instead of whole documents.\n\nBox Context Retrieval uses Nemotron embeddings, respects existing permissions and could cut token use by about 90%, according to Nvidia. Arriving early next year. ⚡\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Box #Nvidia #Nemotron #AIAgents #EnterpriseAI #SemanticSearch #MCP #RAG",
+  "seed": 65,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/box-nvidia-nemotron-context-retrieval-ai-agents/"
+}

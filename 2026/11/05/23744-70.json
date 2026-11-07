@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI's GPT-6 Cyber Hacks Better and Stays in Bounds",
+  "highlight": "GPT-6 Cyber",
+  "dek": "A Critical-rated security model, for now only for vetted defenders.",
+  "facts": [
+    {
+      "value": "81",
+      "label": "New high-severity Firefox bugs found"
+    },
+    {
+      "value": "48.5%",
+      "label": "ExploitGym score, up from 32.1%"
+    },
+    {
+      "value": "99.93%",
+      "label": "Stayed in scope without safety prompt"
+    }
+  ],
+  "caption": "OpenAI just released a model it rates \"Critical\" for cybersecurity, its highest risk level 🔐\n\nGPT-6 Cyber replaces GPT-5.6 Cyber as OpenAI's top security model. It finds software flaws, proves they can be exploited and helps write fixes. OpenAI says it already turned up 81 previously unknown high-severity Firefox vulnerabilities, which Mozilla is now patching, and scored 48.5% on ExploitGym versus 32.1% for its predecessor.\n\nThe bigger claim is restraint. After the Hugging Face Incident, OpenAI tested whether the model wanders outside its allowed targets, and says it stayed in scope 99.93% of the time even without safety prompts. These are OpenAI's own numbers, though, and independent tests haven't landed yet.\n\nAccess is limited to vetted teams in the Daybreak Red program, with IP allowlisting and misuse monitoring. We're following how it holds up here at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #GPT6Cyber #Cybersecurity #AISecurity #Firefox #Mozilla #ZeroDay #AISafety",
+  "post_caption": "Can an AI that writes zero-day exploits be trusted to stay on target? OpenAI says GPT-6 Cyber can, staying in bounds in over 99% of tests while uncovering 81 serious Firefox bugs.\n\nFor now it's only for approved defenders in Daybreak Red. Keep your browser updated, since fixes are already rolling out.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #GPT6Cyber #Cybersecurity #AISecurity #Firefox #Mozilla #ZeroDay #AISafety",
+  "seed": 70,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/openai-launches-gpt-6-cyber-security-model/"
+}

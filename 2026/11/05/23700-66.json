@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic Reveals How Scientists Really Use Claude for Research",
+  "highlight": "Scientists",
+  "dek": "Data analysis and writing dominate, while AI ideation lags far behind.",
+  "facts": [
+    {
+      "value": "207,049",
+      "label": "Research sessions analyzed"
+    },
+    {
+      "value": "48.1%",
+      "label": "Claude Code sessions on data analysis"
+    },
+    {
+      "value": "4.2%",
+      "label": "Claude sessions spent on ideation"
+    }
+  ],
+  "caption": "Scientists say ideas matter most. So why do they barely use AI for them? 🔬\n\nAnthropic studied 207,049 research sessions on Claude and Claude Code. Data analysis and writing dominate, while idea generation gets just 4.2% of Claude sessions. Computer science is only 4.3% of the world's researchers but drives 32.7% of Claude Code research sessions.\n\nThe report also models how much faster science could move. If AI handled all non-physical research work, computer science and statistics could see up to a 15-fold increase in output, while lab-bound fields like chemistry and biology would rise about three- or fourfold.\n\nWe break down the full study on AI Parabellum. Would you trust AI to come up with your next hypothesis?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeCode #AIResearch #AIinScience #MachineLearning #DataAnalysis #ScientificResearch",
+  "post_caption": "Where does AI actually help researchers? Anthropic's new data says crunching numbers and drafting papers, not dreaming up hypotheses.\n\nSpecialized Claude Science runs over 70% of sessions with high AI autonomy, and about 40% of surveyed researchers expect AI to run full projects on its own by 2030. 📊\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeCode #AIResearch #AIinScience #MachineLearning #DataAnalysis #ScientificResearch",
+  "seed": 66,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/anthropic-study-how-scientists-use-claude-research/"
+}

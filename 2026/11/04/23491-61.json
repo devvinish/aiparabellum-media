@@ -1,0 +1,26 @@
+{
+  "title": "Meta Buys Conductor, the App That Runs Teams of AI Coding Agents",
+  "highlight": "Meta Buys Conductor",
+  "dek": "Conductor Cloud shuts down Nov 20 as the team joins Meta's AI push.",
+  "facts": [
+    {
+      "value": "Nov 20",
+      "label": "Conductor Cloud fully shuts down"
+    },
+    {
+      "value": "10M+",
+      "label": "Users of Meta's Muse agents"
+    },
+    {
+      "value": "2027",
+      "label": "Local Mac app winds down early that year"
+    }
+  ],
+  "caption": "Meta just bought the startup that turns one coding assistant into a whole team 🤖\n\nConductor, founded in 2024, built an app that lets developers run several AI coding agents like Claude and Codex side by side, each in its own workspace. Meta confirmed the acquisition but hasn't shared the price. The team, led by CEO Charlie Holtz, will work with Alexandr Wang and Nat Friedman at Meta Superintelligence Labs.\n\nWhy it matters: the AI coding race is shifting from single assistants to coordinated agent teams. Meta already launched Muse Code in August, and OpenAI is making similar moves to strengthen Codex.\n\nUsing Conductor? Cloud goes read-only Nov 13 and shuts down Nov 20, so export your data now. We're tracking every twist in the AI coding wars at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Meta #Conductor #AICoding #CodingAgents #MetaSuperintelligenceLabs #ClaudeCode #Codex #Acquisition",
+  "post_caption": "Heads up, Conductor users: your cloud workspaces disappear on November 20 ⏳\n\nMeta has acquired the parallel AI agent startup, and while the local Mac app survives until early 2027, Holtz says Meta will have something new for fans early next year.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Meta #Conductor #AICoding #CodingAgents #MetaSuperintelligenceLabs #ClaudeCode #Codex #Acquisition",
+  "seed": 61,
+  "date": "Nov 4, 2026",
+  "seconds": 20,
+  "cover_ms": 5740,
+  "link": "https://aiparabellum.com/meta-acquires-conductor-ai-coding-agents-startup/"
+}

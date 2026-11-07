@@ -1,0 +1,26 @@
+{
+  "title": "Apple Slashes Daily AI Spending Caps for Its Engineers",
+  "highlight": "AI Spending Caps",
+  "dek": "Some limits fell from $300 to $200 a day, with deeper cuts reportedly planned.",
+  "facts": [
+    {
+      "value": "$200/day",
+      "label": "New engineer cap, down from $300"
+    },
+    {
+      "value": "$25/day",
+      "label": "Possible cap for non-engineering groups"
+    },
+    {
+      "value": "$45.8B",
+      "label": "Apple R&D spend, up 32% this year"
+    }
+  ],
+  "caption": "Even Apple is starting to count its AI tokens. 💸\n\nAccording to a Bloomberg report, Apple quietly cut the daily AI budget for some engineering teams from $300 to $200 per person in October. More cuts are reportedly on the table: engineers could drop to $100 a day, and some non-engineering groups may go as low as $25. Apple employees reportedly use tools like Claude, ChatGPT and Gemini, and teams are being nudged toward cheaper or on-device models.\n\nThis isn't Apple backing away from AI. Its R&D spending just jumped 32% to $45.8 billion. It's about controlling how the money is used after a year of \"tokenmaxxing\" across the tech industry. Apple hasn't confirmed the changes publicly.\n\nWe're tracking how companies rethink AI budgets every day at AI Parabellum. Would your team survive on $25 a day of AI?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Apple #AISpending #AITokens #Claude #ChatGPT #Gemini #EnterpriseAI #Tokenmaxxing",
+  "post_caption": "The era of unlimited AI at work may be ending. Apple reportedly trimmed some engineers' daily AI allowance to $200 and is weighing caps as low as $25 for other staff.\n\nExemptions now go through senior leaders, and cheaper models are being encouraged. Use AI where it pays off. 🍎\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Apple #AISpending #AITokens #Claude #ChatGPT #Gemini #EnterpriseAI #Tokenmaxxing",
+  "seed": 62,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/apple-cuts-engineer-daily-ai-spending-caps/"
+}

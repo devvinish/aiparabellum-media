@@ -1,0 +1,26 @@
+{
+  "title": "Claude Helps Anthropic Map the First Bacterial Vault Particle",
+  "highlight": "Bacterial Vault",
+  "dek": "AI cracked part of a 40-year biology mystery in under four months.",
+  "facts": [
+    {
+      "value": "96",
+      "label": "Protein copies in the phage vault"
+    },
+    {
+      "value": "90 min",
+      "label": "Purification that usually takes 3 days"
+    },
+    {
+      "value": "34 hours",
+      "label": "To a first full structural model"
+    }
+  ],
+  "caption": "A protein barrel in nearly every human cell has puzzled scientists since 1986. Claude just helped map its bacterial cousin 🔬\n\nAnthropic's biology lab says Claude worked on almost every step, with human scientists directing. It searched about 15 billion predicted proteins, designed DNA for candidates, and ran cryo-EM processing. The result is the first 3D structure of a vault particle from prokaryotes: 96 protein copies, about 25% more inner volume than the mammalian version.\n\nThe speed is striking. A three-day purification took roughly 90 minutes, and a first model was ready in 34 hours instead of weeks. Claude also made mistakes, including a bad protocol ingredient that cost two weeks and a mirror-image map error.\n\nAt AI Parabellum we think the takeaway is clear: AI can stretch a lab's skills, but expert humans still need to steer. What vaults actually do is still unknown.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #AIinScience #StructuralBiology #CryoEM #VaultParticle #Biotech #AIResearch",
+  "post_caption": "Seven bacterial proteins formed vault-like particles, and Claude helped Anthropic solve the structure of one in under four months.\n\nThe phage vault L05 is shorter and wider than the human version and hides an unknown molecule resembling coenzyme A, an early hint at what these mysterious barrels might do.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #AIinScience #StructuralBiology #CryoEM #VaultParticle #Biotech #AIResearch",
+  "seed": 59,
+  "date": "Nov 4, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/claude-helps-anthropic-map-first-bacterial-vault-particle/"
+}

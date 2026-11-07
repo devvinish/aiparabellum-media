@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI to Buy Pierre Computer to Power Codex Git Tools",
+  "highlight": "Pierre Computer",
+  "dek": "Codex is moving beyond writing code into storing and reviewing it.",
+  "facts": [
+    {
+      "value": "Nov 4",
+      "label": "Date OpenAI announced the deal"
+    },
+    {
+      "value": "3",
+      "label": "Open-source Pierre libraries staying open"
+    },
+    {
+      "value": "Undisclosed",
+      "label": "Price OpenAI paid for Pierre"
+    }
+  ],
+  "caption": "OpenAI just made a move straight into GitHub territory 👀\n\nOpenAI says it will acquire Pierre Computer Company, the startup behind Code Storage and the Trees and Diffs libraries that already power file browsing and code review inside Codex. The plan: make Codex handle everything from an agent's first branch to deployment, not just code generation.\n\nWhy it matters: as AI coding agents work in parallel, Git systems face far more branches, changes and reviews. That puts OpenAI closer to competing with Microsoft's GitHub, even though Microsoft is one of its closest partners.\n\nPierre's open-source projects stay open, and Code Storage customers can keep using the service. The deal still needs regulatory approval. We're tracking the AI coding race daily at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #Codex #PierreComputer #GitHub #AICoding #CodeReview #Git #DevTools",
+  "post_caption": "The AI coding race is shifting from who writes the best code to where that code lives.\n\nOpenAI is buying Pierre Computer, maker of Code Storage and the review tools already inside Codex, to build out Git, code review and repo features. Pierre's open-source Trees, Diffs and Highlights stay open source.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #Codex #PierreComputer #GitHub #AICoding #CodeReview #Git #DevTools",
+  "seed": 54,
+  "date": "Nov 4, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/openai-to-acquire-pierre-computer-codex-git-tools/"
+}

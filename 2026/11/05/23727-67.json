@@ -1,0 +1,26 @@
+{
+  "title": "Microsoft Brings Claude in Copilot Inside the EU Data Boundary",
+  "highlight": "EU Data Boundary",
+  "dek": "European firms get Anthropic's Claude without giving up data residency.",
+  "facts": [
+    {
+      "value": "End 2026",
+      "label": "Target date for EU processing"
+    },
+    {
+      "value": "10",
+      "label": "EU/EFTA countries with in-country storage"
+    },
+    {
+      "value": "Off",
+      "label": "Claude's default setting in EU and EFTA"
+    }
+  ],
+  "caption": "Europe's biggest objection to using Claude at work is on its way out. 🇪🇺\n\nMicrosoft says Anthropic's Claude models in Microsoft 365 Copilot will process data inside the EU Data Boundary for EU and EFTA customers, targeting the end of 2026. That covers Copilot experiences like Copilot Cowork, and existing Claude users will be moved over automatically with no action needed.\n\nWhy it matters: banks, insurers, healthcare providers and public bodies often can't approve AI that sends data outside the region. Claude stays off by default in Europe, but admins can now switch it on without the data-residency trade-off.\n\nAt AI Parabellum, we see this as a clear signal that Microsoft treats Claude as a core part of Copilot, not a side option.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Microsoft #Anthropic #Claude #Copilot #Microsoft365 #EUDataBoundary #DataResidency #GDPR",
+  "post_caption": "Compliance teams that blocked Claude over data location, this one's for you.\n\nMicrosoft is moving Claude in Copilot inside its EU Data Boundary by the end of 2026, under the same enterprise data protection and admin controls as its other Copilot models.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Microsoft #Anthropic #Claude #Copilot #Microsoft365 #EUDataBoundary #DataResidency #GDPR",
+  "seed": 67,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/claude-models-microsoft-copilot-eu-data-boundary/"
+}

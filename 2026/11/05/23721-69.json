@@ -1,0 +1,26 @@
+{
+  "title": "Dropbox Buys Tigris Data for $350M to Build Storage for AI Agents",
+  "highlight": "$350M",
+  "dek": "Tigris tech will power DBX Agent Cloud, new storage for AI builders.",
+  "facts": [
+    {
+      "value": "$350M",
+      "label": "Reported price, Dropbox's biggest deal"
+    },
+    {
+      "value": "70,000+",
+      "label": "Teams reached by new Dropbox AI actions"
+    },
+    {
+      "value": "$0",
+      "label": "Egress fees on Tigris storage"
+    }
+  ],
+  "caption": "Dropbox just made the biggest bet in its history, and it's not about your files. 💾\n\nDropbox is buying Tigris Data, an S3-compatible cloud storage startup built for AI workloads, in a deal reported at $350 million. Tigris tech will power DBX Agent Cloud, a new standalone object storage platform for businesses and developers building AI models and AI agents. Plans include a filesystem layer for agents and tools that turn documents, images, audio and video into AI-ready inputs.\n\nOn the same day, Dropbox rolled out AI actions that can organize folders, bulk-rename files, convert formats and transcribe recordings after you approve the plan, with connections to ChatGPT, Claude, Gemini, Cursor and Copilot.\n\nWe're tracking this at AI Parabellum because it shows file companies racing to become the place AI agents read from and write to.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Dropbox #TigrisData #DBXAgentCloud #AIAgents #CloudStorage #AIInfrastructure #TechAcquisition",
+  "post_caption": "From file locker to AI infrastructure player? Dropbox is spending a reported $350M on Tigris Data to launch DBX Agent Cloud, storage built for AI agents with zero egress fees.\n\nExisting Tigris customers keep the same product, pricing and API, and the deal is expected to close in Q4 2026.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Dropbox #TigrisData #DBXAgentCloud #AIAgents #CloudStorage #AIInfrastructure #TechAcquisition",
+  "seed": 69,
+  "date": "Nov 5, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/dropbox-acquires-tigris-data-350m-ai-storage/"
+}

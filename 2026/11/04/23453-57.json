@@ -1,0 +1,26 @@
+{
+  "title": "ChatGPT Can Now Make Animated GIFs",
+  "highlight": "Animated GIFs",
+  "dek": "OpenAI's Images 2.6 adds GIFs you can speed up and edit frame by frame.",
+  "facts": [
+    {
+      "value": "4B+",
+      "label": "Images created per week"
+    },
+    {
+      "value": "2.6",
+      "label": "New Images version in ChatGPT"
+    },
+    {
+      "value": "2",
+      "label": "New API models: Flare and Sunburst"
+    }
+  ],
+  "caption": "ChatGPT just became your personal GIF studio 🎬\n\nOpenAI is rolling out Images 2.6, and ChatGPT can now turn a text prompt or an uploaded photo into a looping animated GIF. You can speed it up, slow it down, and edit it frame by frame, all inside the chat. No more stitching frames together in another app.\n\nThe update also makes image generation faster for all ChatGPT and Codex users on web, desktop and mobile. Developers get two new API models, GPT-Image-2.6 Flare and GPT-Image-2.6 Sunburst, built for speed and quality.\n\nDemand is exploding: people now create over 4 billion images a week, up from 3 billion in September. We're tracking every OpenAI image update at AI Parabellum. What GIF are you making first?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ChatGPT #OpenAI #ChatGPTImages #AnimatedGIF #GIFMaker #AIImageGeneration #GPTImage #Codex",
+  "post_caption": "Skip the GIF library search. With Images 2.6, you can describe the exact reaction you want and ChatGPT animates it, then let you fine-tune speed and individual frames.\n\nIt's rolling out to all ChatGPT and Codex users, alongside faster image generation and new Flare and Sunburst models for developers. 🐱\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ChatGPT #OpenAI #ChatGPTImages #AnimatedGIF #GIFMaker #AIImageGeneration #GPTImage #Codex",
+  "seed": 57,
+  "date": "Nov 4, 2026",
+  "seconds": 19,
+  "cover_ms": 4830,
+  "link": "https://aiparabellum.com/chatgpt-images-2-6-animated-gif-maker/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Google's Gemini Omni 1.2 Flash Makes 15-Second AI Videos",
+  "highlight": "15-Second AI Videos",
+  "dek": "Longer clips, steadier characters and a lower price for AI video.",
+  "facts": [
+    {
+      "value": "15 sec",
+      "label": "Max native clip, up from 10 seconds"
+    },
+    {
+      "value": "30%",
+      "label": "Price cut compared with Omni 1.1"
+    },
+    {
+      "value": "$0.07/s",
+      "label": "Cost per second for 720p video"
+    }
+  ],
+  "caption": "A full 15-second AI video ad now costs about $1.05 to generate. 🎬\n\nGoogle just released Gemini Omni 1.2 Flash, an updated AI video model that creates and edits clips up to 15 seconds long, up from 10. It keeps faces, clothing, packaging text and brand colors more consistent across camera angles, and it's 30% cheaper than Omni 1.1 at $0.07 per second for 720p.\n\nThe big new trick is chat-style editing: swap a product, change the background, lighting or weather, or switch the aspect ratio without starting over. It's now generally available in the Gemini API, Google AI Studio, Google Cloud, Google Vids, Flow and Gemini for business, with an invisible SynthID watermark on every output.\n\nGoogle admits fast sports action and complex physics are still hard. But for marketers and creators making social ads and product demos, this is a real upgrade. We're tracking every AI video release at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini #GoogleGemini #GeminiOmni #GoogleDeepMind #AIVideo #GenerativeAI #VideoMarketing #GoogleCloud",
+  "post_caption": "Google's AI video model just got longer, steadier and cheaper at the same time.\n\nGemini Omni 1.2 Flash makes clips from 3 to 15 seconds, lets you refine them by chatting, and drops the price by 30%. Draft at 720p, edit the details, then upscale your best clips to 1080p or 4K. ⚡\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini #GoogleGemini #GeminiOmni #GoogleDeepMind #AIVideo #GenerativeAI #VideoMarketing #GoogleCloud",
+  "seed": 71,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/google-gemini-omni-1-2-flash-15-second-video/"
+}

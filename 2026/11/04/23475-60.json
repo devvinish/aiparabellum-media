@@ -1,0 +1,26 @@
+{
+  "title": "Cognition Launches SWE-2 Flash: 3x Faster, 1/5 the Cost",
+  "highlight": "SWE-2 Flash",
+  "dek": "A smaller Devin coding model built on Thinking Machines' Inkling-Small.",
+  "facts": [
+    {
+      "value": "3x",
+      "label": "Faster than the larger SWE-2 model"
+    },
+    {
+      "value": "1/5",
+      "label": "Price compared with SWE-2"
+    },
+    {
+      "value": "276B",
+      "label": "Base model params, 12B active"
+    }
+  ],
+  "caption": "Your coding agent just got three times faster and five times cheaper. ⚡\n\nCognition has launched SWE-2 Flash, a smaller sibling of its SWE-2 model, now available in Devin Desktop and the Devin CLI. It's built on Inkling-Small from Thinking Machines and tuned for everyday jobs like code review, small features, docs updates and automations. Cognition's own benchmarks show big jumps over the base model, including Terminal-Bench 4.0 rising from 0.9% to 20.0%.\n\nThe twist: the weights stay private for now. Cognition trained the model for cybersecurity defense, but says the same skills could help attackers, so it plans to share weights only with trusted partners and research labs.\n\nWe're tracking the shift toward cheaper, specialized coding models daily at AI Parabellum. Would you trust a Flash model with your routine code?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Cognition #Devin #SWE2Flash #ThinkingMachines #AICoding #CodingAgents #Cybersecurity #OpenWeights",
+  "post_caption": "Not every coding task needs the biggest model, and Cognition is betting on that with SWE-2 Flash for Devin.\n\nIt's billed as a fully American coding model, costs about one-fifth of SWE-2, and keeps its weights closed over cyber risk concerns. Benchmarks are company claims, so independent tests will tell the rest. 🔍\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Cognition #Devin #SWE2Flash #ThinkingMachines #AICoding #CodingAgents #Cybersecurity #OpenWeights",
+  "seed": 60,
+  "date": "Nov 4, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/cognition-swe-2-flash-coding-model-devin/"
+}

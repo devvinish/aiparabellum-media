@@ -1,0 +1,26 @@
+{
+  "title": "DeepMind's AI Agents Find Two Weak Spots in 1024-Bit RSA",
+  "highlight": "1024-Bit RSA",
+  "dek": "Modern 2048-bit keys stay safe, but AI is speeding up codebreaking research.",
+  "facts": [
+    {
+      "value": "30x",
+      "label": "Lower cost per extra 1024-bit key cracked"
+    },
+    {
+      "value": "1,600x",
+      "label": "Better short-fingerprint forgery, in theory"
+    },
+    {
+      "value": "3.5x",
+      "label": "Less CPU time in signature forgery demo"
+    }
+  ],
+  "caption": "Encryption breakthroughs used to take years. Google DeepMind's AI agents did it in weeks. 🔐\n\nGuided by human cryptographers, DeepMind's AI agents found two new weaknesses in legacy 1024-bit RSA. One shows that signature padding offers no extra protection once an attacker controls about half the signed block. The other is a new batch factoring algorithm that cuts the average cost of cracking each additional 1024-bit key by about 30x.\n\nThe good news: modern 2048-bit RSA keys used by banks, websites and messaging apps are not affected. The bigger story is speed. AI can now stress-test the math behind internet security far faster than before, so treating hardness as a fixed fact is getting risky.\n\nWe're tracking how AI is reshaping cybersecurity every day at AI Parabellum. If you still run old 1024-bit keys in servers, VPNs or code signing, this is your sign to upgrade.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #GoogleDeepMind #DeepMind #RSA #Cryptography #Cybersecurity #Encryption #AIAgents #Cryptanalysis",
+  "post_caption": "Still running 1024-bit RSA keys anywhere? Now is the time to replace them.\n\nGoogle DeepMind says its AI agents made bulk key cracking about 30x cheaper and showed padding can fail to protect signatures. 2048-bit keys remain secure, and full papers are out for cryptographers to review. ⚠️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #GoogleDeepMind #DeepMind #RSA #Cryptography #Cybersecurity #Encryption #AIAgents #Cryptanalysis",
+  "seed": 77,
+  "date": "Nov 6, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/deepmind-ai-agents-expose-legacy-rsa-1024-weaknesses/"
+}

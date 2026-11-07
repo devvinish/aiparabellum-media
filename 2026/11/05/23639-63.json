@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI Pledges to Pay Its Own Power Costs at AI Data Centers",
+  "highlight": "Pay Its Own",
+  "dek": "A new community compact also drops broad NDAs and asks lawmakers for rules.",
+  "facts": [
+    {
+      "value": "$4.8M",
+      "label": "Grant for free school meals in Georgia"
+    },
+    {
+      "value": "14,000",
+      "label": "Effingham County students fed for free"
+    },
+    {
+      "value": "$6M",
+      "label": "Childcare commitment in Pike County, Ohio"
+    }
+  ],
+  "caption": "Who pays the power bill when an AI data center moves in next door? OpenAI says it will. ⚡\n\nOpenAI just published a National Community Compact for its future \"compute campuses.\" It promises to cover the full cost of its electricity and grid upgrades, publish site-level water and power use, release noise studies, and stop asking public officials to sign broad NDAs. It also released a policy blueprint urging federal, state and local lawmakers to apply similar rules to every data center developer, including public tax-break terms with clawbacks.\n\nThe timing matters: the pledges landed two days after US voters backed candidates who support limits on data centers. Local fights over power bills, water and noise are now a real obstacle for the AI buildout, from Stargate to beyond.\n\nAt AI Parabellum, we think written numbers and annual reports give residents something concrete to check. The real test is whether those first reports hold up.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #DataCenters #Stargate #AIInfrastructure #AIPolicy #EnergyCosts #ChatGPT",
+  "post_caption": "No more secret deals with town officials, at least at OpenAI's own sites.\n\nThe company's new compact promises public water, power and hiring reports, full payment for its electricity, and a blueprint asking lawmakers to hold every AI data center developer to the same standard.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #DataCenters #Stargate #AIInfrastructure #AIPolicy #EnergyCosts #ChatGPT",
+  "seed": 63,
+  "date": "Nov 5, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/openai-community-compact-ai-data-center-rules/"
+}

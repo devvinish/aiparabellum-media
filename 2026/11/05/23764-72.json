@@ -1,0 +1,26 @@
+{
+  "title": "Claude Can Now Read Your Bank Accounts",
+  "highlight": "Bank Accounts",
+  "dek": "Anthropic's read-only Personal Finance beta sorts spending and flags odd charges.",
+  "facts": [
+    {
+      "value": "2 years",
+      "label": "Of transaction history Claude can see"
+    },
+    {
+      "value": "Plaid",
+      "label": "Handles the bank connection"
+    },
+    {
+      "value": "US",
+      "label": "Beta for Pro, Max and Ultra users"
+    }
+  ],
+  "caption": "What if you could just ask where your money went this month? 💸\n\nAnthropic is rolling out Claude Personal Finance, a new beta that links your bank and credit card accounts through Plaid. Claude can sort your spending into categories, spot double charges and surprise fees, flag bills that crept up, and build charts or due-date calendars. Access is read-only: it can't move, invest or manage a single dollar.\n\nPrivacy is the big question, and Anthropic says chats inside the Personal Finance hub aren't used for model training, with no ads or sponsored card and loan pitches. It arrives months after ChatGPT added similar finance tools in May, so Anthropic is catching up, but its no-sales angle stands out.\n\nWe're tracking this one at AI Parabellum. Would you connect your bank account to an AI assistant?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Claude #Anthropic #ClaudePersonalFinance #PersonalFinance #Plaid #Fintech #ChatGPT #Budgeting",
+  "post_caption": "Claude just got a look at your budget, but it can't touch a cent. 🔒\n\nAnthropic's Personal Finance beta is live for US Pro, Max and Ultra subscribers, offering read-only spending summaries, fee alerts and plain-English money explanations, all without training on your hub chats.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Claude #Anthropic #ClaudePersonalFinance #PersonalFinance #Plaid #Fintech #ChatGPT #Budgeting",
+  "seed": 72,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 4960,
+  "link": "https://aiparabellum.com/claude-personal-finance-connects-bank-accounts-plaid/"
+}

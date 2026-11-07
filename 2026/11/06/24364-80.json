@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic Lets Claude \"Dream\" to Fix Its Own Agent Memory",
+  "highlight": "\"Dream\"",
+  "dek": "Claude reviews old transcripts between tasks to correct and tidy its notes.",
+  "facts": [
+    {
+      "value": "13%→48%",
+      "label": "Graded criteria as dreaming scaled up"
+    },
+    {
+      "value": "72%→100%",
+      "label": "Legal brief criteria met after rewrite"
+    },
+    {
+      "value": "200 lines",
+      "label": "Max MEMORY.md that Claude Code loads"
+    }
+  ],
+  "caption": "Claude now \"dreams\" — and it's making its memory a lot smarter. 🧠\n\nAnthropic published new research on agent memory showing how Claude saves lessons between sessions, then reviews old transcripts between tasks to catch wrong notes, build linked wikis and promote what matters most. In one Pokémon run, dreaming fixed a bad note about a mountain and Claude went straight to the next city.\n\nThe numbers: a wiki built from ~350,000 files jumped from 13% to 48% of graded criteria as dreaming scaled from 2 to 128 sessions, and a legal brief went from 72% to 100%. A surprising lesson: strict rules like \"record only failures\" actually hurt stronger models like Opus 5.\n\nWe broke down what this means for anyone building AI agents at AI Parabellum. Anthropic admits wikis don't always help and dreaming costs compute, but the takeaway is clear: save the right things, then check them later.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #AIAgents #AgentMemory #ClaudeCode #ClaudeOpus #AIResearch #LLM",
+  "post_caption": "Good AI memory isn't about saving everything — it's about saving the right things and checking them later.\n\nAnthropic's new research shows Claude reviewing its own transcripts to repair notes, with a legal brief task climbing from 72% to 100% and search plus wiki beating search alone, 87% vs 73% on merger questions. 📈\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #AIAgents #AgentMemory #ClaudeCode #ClaudeOpus #AIResearch #LLM",
+  "seed": 80,
+  "date": "Nov 6, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/anthropic-claude-dreaming-agent-memory-research/"
+}

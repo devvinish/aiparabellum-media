@@ -1,0 +1,26 @@
+{
+  "title": "Amazon Now Lets You Text Alexa for Shopping to Buy Stuff",
+  "highlight": "Text Alexa",
+  "dek": "Amazon's AI shopping agent can now search, order and track packages by SMS.",
+  "facts": [
+    {
+      "value": "Nov 6",
+      "label": "Texting launch for invited U.S. users"
+    },
+    {
+      "value": "1 year",
+      "label": "Price history the agent can check"
+    },
+    {
+      "value": "10M",
+      "label": "Downloads for Meta's texting agent Muse"
+    }
+  ],
+  "caption": "You can now buy things from Amazon just by sending a text. 📱\n\nStarting November 6, 2026, a small group of invited U.S. customers can text Alexa for Shopping, Amazon's AI shopping agent, to search for products, build a cart, place orders and get delivery updates. One message can hold several errands, like dog food, a birthday gift and paper towels, and the agent works on all of them. It can also reorder past purchases, add recipe ingredients from a photo, set price-drop alerts and show up to a year of price history.\n\nThe timing matters. Amazon blocked Meta's Muse agent from its site in September, and now it offers its own chat-style agent instead. It's part of a bigger AI shopping race with Google, Walmart and DoorDash all building agents of their own.\n\nWe're tracking the AI shopping agent battle at AI Parabellum. Would you let an AI place orders for you? Tip: review purchases before approving them 👀\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Amazon #Alexa #AlexaForShopping #AIAgents #AIShopping #Ecommerce #HolidayShopping #AgenticAI",
+  "post_caption": "Your next Amazon order might start with a text message instead of an app.\n\nAlexa for Shopping now works over SMS for invited U.S. users, with a wider rollout planned in the coming weeks, just in time for the holiday shopping rush. Reorders, price alerts and package tracking all happen in one chat thread.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Amazon #Alexa #AlexaForShopping #AIAgents #AIShopping #Ecommerce #HolidayShopping #AgenticAI",
+  "seed": 76,
+  "date": "Nov 6, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/amazon-alexa-for-shopping-text-message-agent/"
+}
