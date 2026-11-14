@@ -1,0 +1,26 @@
+{
+  "title": "llama.cpp Hits 1.0 With a Stable API Promise for Local AI",
+  "highlight": "llama.cpp Hits 1.0",
+  "dek": "The open-source local AI engine now follows semantic versioning.",
+  "facts": [
+    {
+      "value": "Nov 13",
+      "label": "llama.cpp and ggml 1.0.0 released"
+    },
+    {
+      "value": "150+",
+      "label": "Model architecture variants supported"
+    },
+    {
+      "value": "3.5 years",
+      "label": "Since the project first started"
+    }
+  ],
+  "caption": "If you've ever run a chatbot on your laptop, this one's for you 💻\n\nllama.cpp, the open-source engine behind a huge share of local AI apps, just hit version 1.0 alongside its ggml library. The headline isn't a flashy feature. It's a promise: breaking changes to the public API now only come with a major version bump, following semantic versioning across all ggml-org projects.\n\nThe release also packs FP8 key-value caches, new text, vision and text-to-speech models, security hardening for llama-server and a redesigned web UI. NVIDIA, AMD, Qualcomm, Arm, IBM and Intel are helping with testing, and installs are easier via Homebrew, Winget, conda-forge and Docker.\n\nAt AI Parabellum, we see this as the moment a hobby tool becomes real infrastructure. Stable foundations mean faster support for new open-weight models in the apps you already use.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #llamacpp #ggml #LocalAI #OpenSource #LocalLLM #OpenWeights #LLM #SemanticVersioning",
+  "post_caption": "Trust is the real feature in llama.cpp 1.0. The local AI engine now guarantees that only major versions will break its API, so developers can update without fear.\n\nRunning llama-server on a network? Update soon for the new SSRF, CORS and DNS rebinding fixes 🔒\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #llamacpp #ggml #LocalAI #OpenSource #LocalLLM #OpenWeights #LLM #SemanticVersioning",
+  "seed": 149,
+  "date": "Nov 13, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/llama-cpp-v1-0-released-stable-api-local-ai/"
+}

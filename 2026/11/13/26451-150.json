@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI Launches ChatGPT Wallet So AI Agents Can Pay for You",
+  "highlight": "ChatGPT Wallet",
+  "dek": "Agents can now check out, but you approve every buy with Face ID or a fingerprint.",
+  "facts": [
+    {
+      "value": "1.2B",
+      "label": "People using ChatGPT every week"
+    },
+    {
+      "value": "Pro",
+      "label": "First plan to get limited access"
+    },
+    {
+      "value": "4",
+      "label": "Fraud partners, incl. Forter and Signifyd"
+    }
+  ],
+  "caption": "Your AI agent can now pay for things. Not just find them. 💳\n\nOpenAI just launched ChatGPT Wallet, letting ChatGPT agents finish a purchase on your behalf. You save a card once, review the items and total, then approve each buy with Face ID or a fingerprint. Stores get a network payment token instead of your real card number, and your usual rewards and dispute protections still apply.\n\nIt's rolling out in limited form to ChatGPT Pro users first, with payment partners Stripe, Adyen and Checkout.com. The catch: many stores still block agents as bots, so OpenAI released a Commerce Partner Playbook to help merchants trust agent checkouts.\n\nWe're tracking the agent commerce race between OpenAI, Google and American Express daily at AI Parabellum. Would you let an AI shop for you?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #ChatGPT #ChatGPTWallet #AIAgents #AgenticCommerce #ChatGPTPro #Fintech #Stripe",
+  "post_caption": "The last step of online shopping just moved inside the chat. ChatGPT Wallet lets OpenAI's agents check out at regular stores, with a biometric approval on every single purchase and a payment token hiding your real card.\n\nPro users get it first. Next up, OpenAI says: optional pre-approved spending with limits and categories. 🛒\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #ChatGPT #ChatGPTWallet #AIAgents #AgenticCommerce #ChatGPTPro #Fintech #Stripe",
+  "seed": 150,
+  "date": "Nov 13, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/openai-launches-chatgpt-wallet-ai-agent-purchases/"
+}

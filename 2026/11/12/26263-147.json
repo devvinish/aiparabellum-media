@@ -1,0 +1,26 @@
+{
+  "title": "Thinking Machines Opens Inkling 2 Small Weights to Everyone",
+  "highlight": "Inkling 2 Small",
+  "dek": "Mira Murati's lab puts its 594B multimodal model on Hugging Face.",
+  "facts": [
+    {
+      "value": "594B",
+      "label": "Total parameters, 17B active per token"
+    },
+    {
+      "value": "1M",
+      "label": "Token context window"
+    },
+    {
+      "value": "Apache 2.0",
+      "label": "License, free for commercial use"
+    }
+  ],
+  "caption": "Mira Murati's Thinking Machines Lab just handed developers a 594-billion-parameter AI model for free. 🔓\n\nInkling 2 Small, the lab's newest multimodal model, is now on Hugging Face under the Apache 2.0 license. It launched on November 5 behind the company's Tinker service, and after outside safety testing and red-teaming wrapped up, the full open weights went live a week later. It's a Mixture-of-Experts model with 17B active parameters per token, takes text and images, and supports up to 1 million tokens of context.\n\nThe catch: you won't run it on a laptop. The main NVFP4 checkpoint needs about 500GB of GPU memory. But it already works with vLLM, SGLang, Unsloth and providers like NVIDIA, Fireworks, Together and Cloudflare, so most people can try it through the cloud.\n\nAt AI Parabellum we see this as another serious contender in open-weight AI, alongside Nvidia's Nemotron and Meta's Muse Spark. More strong open models usually mean lower prices and better engines for smaller AI tools.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ThinkingMachines #Inkling2Small #MiraMurati #OpenWeights #OpenSourceAI #HuggingFace #MixtureOfExperts #MultimodalAI",
+  "post_caption": "One week after launch, Inkling 2 Small is no longer locked away. Thinking Machines Lab has released the full weights under Apache 2.0, so anyone can download, fine-tune and ship it in products.\n\nBuilt for coding, agents and visual tasks, it scored 31 on the Artificial Analysis Intelligence Index. The lab admits it still trails top closed models on alignment, so independent testing will matter. 🧠\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ThinkingMachines #Inkling2Small #MiraMurati #OpenWeights #OpenSourceAI #HuggingFace #MixtureOfExperts #MultimodalAI",
+  "seed": 147,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/"
+}

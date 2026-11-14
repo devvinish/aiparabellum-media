@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic Lets Companies Self-Host Claude Managed Agents",
+  "highlight": "Self-Host",
+  "dek": "The full agent stack can now run inside a company's own cloud or servers.",
+  "facts": [
+    {
+      "value": "Beta",
+      "label": "Self-hosting launches as a private beta"
+    },
+    {
+      "value": "3",
+      "label": "Routing paths for requests to Claude"
+    },
+    {
+      "value": "Bedrock",
+      "label": "One supported cloud, with Foundry & Google"
+    }
+  ],
+  "caption": "Your AI agents, your servers, your rules. 🔒\n\nAnthropic has opened a private beta that lets companies run Claude Managed Agents entirely inside their own cloud or on-premises setup. Before, only the agent sandbox could live on company hardware. Now the agent server, the session history database, the workers and the credentials can all stay behind a company's own security perimeter.\n\nTeams also choose where requests to Claude go: straight to Anthropic, through Amazon Bedrock, Google's Agent Platform or Microsoft Foundry, or through their own gateway. Agent code carries over too, since the core APIs match the hosted version.\n\nThe trade-off is real infrastructure work. But for security-focused enterprises that wanted autonomous agents on sensitive code without the data exposure, this removes a big blocker. We're tracking every Claude agent update here at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeManagedAgents #AIAgents #SelfHosted #AmazonBedrock #EnterpriseAI #AISecurity",
+  "post_caption": "Until now, the only way to keep an entire agent platform in-house was to build one from scratch. Anthropic's new private beta changes that for Claude Managed Agents.\n\nCompanies can now run the control plane, session history and credentials themselves, and route Claude requests via Anthropic, a cloud provider or their own gateway. More control, more to manage. ⚙️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeManagedAgents #AIAgents #SelfHosted #AmazonBedrock #EnterpriseAI #AISecurity",
+  "seed": 124,
+  "date": "Nov 11, 2026",
+  "seconds": 19,
+  "cover_ms": 4960,
+  "link": "https://aiparabellum.com/anthropic-self-hosted-claude-managed-agents-beta/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Ex-Microsoft Kusto Team Raises $70M for AI Agent Data Platform",
+  "highlight": "$70M",
+  "dek": "Edelbyte bets AI agents will query company data far more than humans do.",
+  "facts": [
+    {
+      "value": "$70M",
+      "label": "Seed plus Series A funding"
+    },
+    {
+      "value": "Sequoia",
+      "label": "Co-led the round with Quiet Capital"
+    },
+    {
+      "value": "10x",
+      "label": "More queries on same budget (claimed)"
+    }
+  ],
+  "caption": "Your company's data is about to get a lot more questions, and they won't be coming from people. 🤖\n\nEdelbyte, founded by four ex-Microsoft engineers who helped build Azure Data Explorer (Kusto), just came out of stealth with $70 million in seed and Series A funding led by Sequoia and Quiet Capital, with Greenoaks and Swish Ventures joining. Its pitch: a single unified engine for search, analytics, vector, graph and geospatial queries, built from day one for AI agents.\n\nWhy it matters: an analyst runs a few queries an hour, while an AI agent can fire off far more, pushing up compute costs fast. Edelbyte claims some customers run up to 10x as many queries on the same budget, though that hasn't been independently tested yet. It's taking on Databricks, Snowflake, Oracle and ClickHouse.\n\nWe're following the data side of the AI agent boom closely at AI Parabellum. Would you trust a startup over the big vendors here?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Edelbyte #AIAgents #Sequoia #DataAnalytics #Microsoft #StartupFunding #Snowflake #Databricks",
+  "post_caption": "AI agents don't take coffee breaks, and they don't stop at a few queries an hour. That's the bet behind Edelbyte's $70M debut, backed by Sequoia and built by the team behind Microsoft's Kusto.\n\nThe Tel Aviv and San Francisco startup already runs petabyte-scale deployments with Fortune 500 customers. The big question: can it beat Snowflake and Databricks on cost? 📊\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Edelbyte #AIAgents #Sequoia #DataAnalytics #Microsoft #StartupFunding #Snowflake #Databricks",
+  "seed": 127,
+  "date": "Nov 11, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/edelbyte-raises-70m-data-platform-ai-agents/"
+}

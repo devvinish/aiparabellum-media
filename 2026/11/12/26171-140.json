@@ -1,0 +1,26 @@
+{
+  "title": "AI Chatbots Are Sending Shoppers to Fake Stores",
+  "highlight": "Fake Stores",
+  "dek": "A Podqi study found risky shop links in ChatGPT, Gemini and Perplexity answers.",
+  "facts": [
+    {
+      "value": "15%",
+      "label": "Perplexity answers with risky sites"
+    },
+    {
+      "value": "6,795",
+      "label": "Chatbot answers analyzed in the study"
+    },
+    {
+      "value": "151",
+      "label": "Brands tested, from Lululemon to Stüssy"
+    }
+  ],
+  "caption": "Asked an AI where to buy your favorite brand? It might have sent you to a fake store. 🛑\n\nA new study by anti-counterfeit firm Podqi tested ChatGPT, Gemini and Perplexity with shopping questions about 151 brands. Across 6,795 answers, the chatbots surfaced fake stores, knockoff sellers and hijacked or dead domains. Perplexity did worst at 15%, ChatGPT landed at 8%, and Gemini was lowest at 4%. In one case, Perplexity called a wrong page Stüssy's official store.\n\nSmaller brands and regional store links were the biggest weak spots, and the timing matters: holiday shoppers are leaning on AI to find deals at stores they've never used. We're tracking this one closely at AI Parabellum.\n\nThe takeaway: treat AI store links as a starting point. Type the brand's address yourself, watch for too-good prices and odd domains, and pay with buyer protection.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ChatGPT #Gemini #Perplexity #OnlineScams #AIShopping #Counterfeits #HolidayShopping #CyberSecurity",
+  "post_caption": "Gemini 4%, ChatGPT 8%, Perplexity 15%. That's how often each chatbot showed risky shopping sites in Podqi's new study of 151 brands.\n\nBefore you check out this holiday season, verify the store yourself. A confident AI answer is not proof a site is real. 🔍\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ChatGPT #Gemini #Perplexity #OnlineScams #AIShopping #Counterfeits #HolidayShopping #CyberSecurity",
+  "seed": 140,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/ai-chatbots-recommend-fake-retail-websites-study/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "United Airlines Bans Personal AI Agents From Booking Flights",
+  "highlight": "Bans Personal AI Agents",
+  "dek": "AI tools can still find United fares, but you must finish the purchase",
+  "facts": [
+    {
+      "value": "Nov 11",
+      "label": "Date United announced the restriction"
+    },
+    {
+      "value": "1st",
+      "label": "Major US airline to block AI agents"
+    },
+    {
+      "value": "10M+",
+      "label": "Users on Meta's Muse agent in October"
+    }
+  ],
+  "caption": "Your AI assistant can find the flight. It just can't buy it anymore. ✈️\n\nUnited Airlines is restricting unauthorized personal AI agents from booking tickets on united.com, the United app, and through travel agencies and booking sites. AI tools can still surface United flights and fares, but the final purchase has to come from you or an approved partner. United cites account safety, unintended purchases or MileagePlus spending, and FAA and DOT check-in rules that require a human acknowledgment.\n\nThere's a business angle too. CEO Scott Kirby said plainly: \"I don't want to create another middleman.\" Meanwhile Delta allows authenticated AI assistants to complete bookings, and Southwest offers a ChatGPT plug-in.\n\nWe at AI Parabellum think this is an early sign of how big brands will treat agentic AI shopping: approved integrations welcome, agents that log in as you and click through checkout, not so much.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #UnitedAirlines #AIAgents #AgenticAI #TravelTech #DeltaAirLines #MileagePlus #AIShopping #Cybersecurity",
+  "post_caption": "The first major US airline just drew a hard line on AI agents. United will let assistants research fares, but booking now needs a human click or an approved partner.\n\nDelta is taking the opposite route, so the airline industry is split on whether AI agents are a sales channel or a risk. 🤖\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #UnitedAirlines #AIAgents #AgenticAI #TravelTech #DeltaAirLines #MileagePlus #AIShopping #Cybersecurity",
+  "seed": 130,
+  "date": "Nov 11, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/united-airlines-bans-personal-ai-agents-booking/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Q-CTRL Raises $290M to Make Quantum Computers Actually Useful",
+  "highlight": "$290M",
+  "dek": "Salesforce Ventures leads a round valuing the AI quantum software firm at $1B+",
+  "facts": [
+    {
+      "value": "$290M",
+      "label": "Series C led by Salesforce Ventures"
+    },
+    {
+      "value": "$1B+",
+      "label": "Reported valuation, per Bloomberg"
+    },
+    {
+      "value": "~10 m",
+      "label": "Ironstone Opal GPS-free location accuracy"
+    }
+  ],
+  "caption": "Quantum computers are powerful but painfully noisy. One startup just raised $290 million to fix that with AI. ⚛️\n\nQ-CTRL, the Sydney-founded quantum software company, closed a Series C led by Salesforce Ventures, with Bullhound Capital, Affinity Partners, AMD Ventures, Lockheed Martin Ventures and In-Q-Tel among the backers. Bloomberg reports the round values Q-CTRL at more than $1 billion, putting it in rare unicorn territory for a software-first quantum firm.\n\nIts \"AI for quantum\" control layer works like noise-canceling headphones for quantum hardware, cutting errors across different machines, including IBM Quantum. Its flagship Ironstone Opal quantum navigation system works when GPS is jammed or spoofed and is being deployed with Airbus, Lockheed Martin and on drones.\n\nAt AI Parabellum, we see this as a clear signal: investors are betting the software layer, not just the hardware, will decide when quantum computing gets useful for business.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #QCTRL #QuantumComputing #SalesforceVentures #QuantumNavigation #AIStartups #IBMQuantum #DeepTech #StartupFunding",
+  "post_caption": "GPS jammed? Q-CTRL's quantum navigation can still pinpoint location within about 10 meters, and investors just backed it with $290M.\n\nThe Salesforce Ventures-led Series C reportedly values the AI quantum software maker above $1 billion, with plans to scale globally in finance, energy, autonomy and aerospace. 🛰️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #QCTRL #QuantumComputing #SalesforceVentures #QuantumNavigation #AIStartups #IBMQuantum #DeepTech #StartupFunding",
+  "seed": 135,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/q-ctrl-raises-290m-ai-quantum-software/"
+}

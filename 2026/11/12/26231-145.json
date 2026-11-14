@@ -1,0 +1,26 @@
+{
+  "title": "IBM's New Granite Models Are Built to Resist Prompt Injection",
+  "highlight": "Resist Prompt Injection",
+  "dek": "Open LLMON previews learn to tell instructions apart from untrusted data.",
+  "facts": [
+    {
+      "value": "3B & 8B",
+      "label": "Granite 4.1 LLMON preview sizes"
+    },
+    {
+      "value": "47%",
+      "label": "More attacks avoided vs best frontier model"
+    },
+    {
+      "value": "Apache 2.0",
+      "label": "Open license for both models"
+    }
+  ],
+  "caption": "What if a hidden line in a web page could hijack your AI agent? That's prompt injection, and IBM just shipped models trained to ignore it.\n\nIBM's Granite team released two experimental open models, Granite 4.1 LLMON previews in 3B and 8B sizes. LLMON (pronounced \"lemon\") is an XML-like markup that labels each part of a prompt, so the model knows which instructions to run and which documents or tool results to only read. On the OPI benchmark, IBM says they avoided 47% more attacks than the best frontier model it tested, and 95% more than the best open-source one.\n\nWhy it matters: AI agents now browse the web, read email and work inside business apps, all while touching text written by strangers. IBM is betting that baking the instruction-vs-data rule into training beats bolt-on guardrails. 🍋\n\nThe catch: these are previews, not for production, and multi-turn adaptive attacks are still unsolved. We're following AI agent security closely at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #IBM #Granite #PromptInjection #AIAgents #AISecurity #OpenSourceAI #LLM #Cybersecurity",
+  "post_caption": "Prompt injection is one of the biggest security headaches for AI agents, and IBM is attacking it at the model level.\n\nThe new Apache 2.0 Granite 4.1 LLMON previews separate trusted instructions from untrusted data and come with converters, chat templates and notebooks. Promising for testing, but keep your other safeguards in place.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #IBM #Granite #PromptInjection #AIAgents #AISecurity #OpenSourceAI #LLM #Cybersecurity",
+  "seed": 145,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/ibm-granite-llmon-models-resist-prompt-injection/"
+}

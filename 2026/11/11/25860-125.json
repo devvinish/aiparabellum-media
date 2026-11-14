@@ -1,0 +1,26 @@
+{
+  "title": "Databricks Turns Genie Into an Always-On AI Coworker",
+  "highlight": "Always-On AI Coworker",
+  "dek": "Genie now owns ongoing business jobs, within guardrails set by your company.",
+  "facts": [
+    {
+      "value": "91%",
+      "label": "Correct answers in company-run benchmark"
+    },
+    {
+      "value": "1.6x",
+      "label": "Success rate vs. top frontier agent"
+    },
+    {
+      "value": "Jan 2027",
+      "label": "Genie One free for users until then"
+    }
+  ],
+  "caption": "Your next coworker might never log off. 🤖\n\nDatabricks has relaunched Databricks Genie as an autonomous AI agent that takes on whole jobs instead of answering one question at a time. It can watch metrics, chase missing inputs, run on a schedule or react to triggers, and check in when it needs your approval. Zillow, Unilever, adidas, Atlassian and AstraZeneca already use Genie in production.\n\nNew pieces like Genie Ontology (a map of your business terms) and permission-aware Genie Search give it context, while Unity Gateway lets admins set budgets, spending caps and approval rules. Databricks claims 91% accuracy in a benchmark built with Turing, but that's a company-run test.\n\nAt AI Parabellum we see this as the shift from chatbots to delegated AI workers. Genie One is free for users through January 31, 2027. Would you hand an agent a whole job?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Databricks #DatabricksGenie #AIAgents #AgenticAI #EnterpriseAI #AICoworker #DataAnalytics #FutureOfWork",
+  "post_caption": "Forget asking AI questions. Databricks wants you to hand it the whole job.\n\nThe new Genie monitors metrics, builds dashboards and slide decks, and acts when something changes, all with your identity, your permissions and admin-set spending limits. It plugs into Slack, Microsoft Teams, ChatGPT, Claude and Copilot, and Genie One is free until January 31, 2027.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Databricks #DatabricksGenie #AIAgents #AgenticAI #EnterpriseAI #AICoworker #DataAnalytics #FutureOfWork",
+  "seed": 125,
+  "date": "Nov 11, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/databricks-genie-autonomous-ai-coworker-enterprise/"
+}

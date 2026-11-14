@@ -1,0 +1,26 @@
+{
+  "title": "Google Launches Gemini Decisions API for Fast, Cheap AI Choices",
+  "highlight": "Gemini Decisions API",
+  "dek": "A new model built to pick options in milliseconds, not write paragraphs.",
+  "facts": [
+    {
+      "value": "$0",
+      "label": "Output token price"
+    },
+    {
+      "value": "1,000",
+      "label": "Questions per single request"
+    },
+    {
+      "value": "150-250ms",
+      "label": "End-to-end latency, per Google"
+    }
+  ],
+  "caption": "Google just made AI output free. Well, sort of. ⚡\n\nThe new Gemini Decisions API runs on a model called Gemini Decision 1, and it doesn't write answers at all. It picks them. Yes/no checks, multiple choice with up to 255 options, and rubric scoring, all returned with probabilities and a confidence score. Input costs $0.10 per million tokens, output costs nothing, and you can ask up to 1,000 questions about one text, image, audio, video or PDF input in a single call.\n\nWhy it matters: much of the AI inside apps is just choosing, like which tool an agent should call, whether a post breaks the rules, or which model should answer. Google says it's nearly 5x cheaper than Gemini 3.5 Flash-Lite for this work and already powers routing in Gemini Notebook and safety checks in Google Search.\n\nIt also puts Google head to head with OpenAI's own Decisions API. We're tracking how this race plays out at AI Parabellum. Would you swap your classifier for this?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Google #Gemini #GeminiAPI #GoogleAIStudio #AIAgents #DeveloperTools #OpenAI #LLM",
+  "post_caption": "Not every AI job needs a chatbot. Sometimes it just needs a fast, confident yes or no.\n\nThat's the bet behind Google's Gemini Decision 1: multimodal inputs up to 256K tokens, zero output fees and a free tier in Google AI Studio for testing. Speed and benchmark claims are Google's own, so developers should measure it on real workloads.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Google #Gemini #GeminiAPI #GoogleAIStudio #AIAgents #DeveloperTools #OpenAI #LLM",
+  "seed": 131,
+  "date": "Nov 11, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/google-gemini-decisions-api-gemini-decision-1-launch/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Torus Raises $500M to Put AI Inference Where Spare Power Is",
+  "highlight": "$500M",
+  "dek": "Its Foundry units pack GPUs, power and cooling into factory-built boxes.",
+  "facts": [
+    {
+      "value": "$500M",
+      "label": "Growth round led by Magnetar"
+    },
+    {
+      "value": "12-16 wks",
+      "label": "From signed contract to running compute"
+    },
+    {
+      "value": "47,000+",
+      "label": "GPUs targeted in Foundry units by 2027"
+    }
+  ],
+  "caption": "What if the next AI data center fit in a space the size of a cargo van? ⚡\n\nUtah-based Torus just launched Torus Foundry, a prefabricated modular unit that bundles GPUs, power, energy storage, cooling and networking for AI inference. It's backed by $500 million in growth capital led by Magnetar, with ICONIQ, Origin Ventures, Ridgeline Partners and Trinity Capital joining. Sites range from 1 to 20 megawatts and can go live in 12 to 16 weeks, with no new building needed.\n\nThe trick: Foundry sits behind the meter, using spare capacity at existing transformers instead of waiting years for new grid lines. Each unit pairs with Torus Reserve, a flywheel and battery system that handles demand peaks and outages, and its waterless cooling uses 95% less water than evaporative coolers, per the company.\n\nWhy it matters: inference, the work of answering your prompts, is growing faster than training, and power is now the biggest bottleneck. We at AI Parabellum will be watching whether Torus hits its goal of 47,000+ GPUs by end of 2027.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Torus #TorusFoundry #AIInference #DataCenters #Magnetar #GPUs #AIInfrastructure #EnergyGrid",
+  "post_caption": "Power, not chips, is becoming AI's biggest bottleneck, and Torus thinks the fix is already plugged into the grid. 🔌\n\nThe startup raised $500M led by Magnetar to scale Torus Foundry, modular AI inference units built at its GigaOne factory in Salt Lake City and deployable in as little as 12 weeks using unused transformer capacity.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Torus #TorusFoundry #AIInference #DataCenters #Magnetar #GPUs #AIInfrastructure #EnergyGrid",
+  "seed": 129,
+  "date": "Nov 11, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/torus-raises-500m-foundry-modular-ai-inference/"
+}

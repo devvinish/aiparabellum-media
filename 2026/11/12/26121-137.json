@@ -1,0 +1,26 @@
+{
+  "title": "Mount Thor Raises $45M to Build Mac Data Centers for AI Agents",
+  "highlight": "Mac Data Centers",
+  "dek": "The startup rents macOS fleets so AI agents can use real Apple computers.",
+  "facts": [
+    {
+      "value": "$45M",
+      "label": "Raised across Seed and Series A"
+    },
+    {
+      "value": "CRV",
+      "label": "Co-led Series A with Conviction"
+    },
+    {
+      "value": "512GB",
+      "label": "Unified memory in M5 Ultra Mac Studio"
+    }
+  ],
+  "caption": "The next big Mac user might not be a person at all. It might be an AI agent. 🖥️\n\nMount Thor, a San Francisco startup founded in 2026, just raised $45 million across Seed and Series A rounds to build Mac data centers for AI agents. CRV and Conviction co-led the Series A, with angels from OpenAI, Meta, Cognition and Vercel joining in.\n\nThe idea: computer-use agents need real machines, and many tools only run on macOS. Mount Thor rents bare-metal Macs and macOS virtual machines on Apple silicon for agent sandboxes, reinforcement learning training, app testing and open-source model inference.\n\nWe're tracking how AI infrastructure is reshaping around agents here at AI Parabellum. Would you trust an AI agent with its own Mac?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #MountThor #AIAgents #Apple #macOS #AppleSilicon #AIInfrastructure #ComputerUse #StartupFunding",
+  "post_caption": "Apple hardware is becoming AI infrastructure. Mount Thor's $45M raise funds rentable macOS fleets where AI agents can train, test and work, plus an inference lab for open-source models on Apple silicon.\n\nUnlike AWS or MacStadium, its customers are AI labs and agent platforms, not human developers.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #MountThor #AIAgents #Apple #macOS #AppleSilicon #AIInfrastructure #ComputerUse #StartupFunding",
+  "seed": 137,
+  "date": "Nov 12, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/mount-thor-raises-45m-mac-data-centers-ai-agents/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Nvidia Privately Said AI Chip Tracking Was Possible, Lawmaker Says",
+  "highlight": "Chip Tracking",
+  "dek": "Its industry group publicly called tracking mandates potentially infeasible.",
+  "facts": [
+    {
+      "value": "May 2025",
+      "label": "Chip Security Act introduced in Congress"
+    },
+    {
+      "value": "Mar 2026",
+      "label": "Chip industry group opposed tracking rules"
+    },
+    {
+      "value": "3 bills",
+      "label": "Chip security bills weighed for the NDAA"
+    }
+  ],
+  "caption": "\"Of course they could do it.\" That is how a US lawmaker describes Nvidia's private reaction to tracking where its AI chips end up. 👀\n\nRep. Bill Foster, a cosponsor of the Chip Security Act, says Nvidia staff told him in technical talks that location tracking could be built into advanced GPUs. They never put it in writing, and Nvidia did not respond to requests to confirm or dispute his account. Meanwhile, the Semiconductor Industry Association, which counts Nvidia as a member, publicly called the bill's tracking mandates untested and potentially infeasible.\n\nWhy it matters: the bill aims to stop AI chips from being smuggled into China, and the push has gained momentum after the Megaspeed smuggling investigation and the scandal that led to Jensen Huang's resignation as CEO. The act is one of three chip security bills under consideration for the Senate's National Defense Authorization Act.\n\nWe're following the story at AI Parabellum. Do you think chipmakers should be required to verify where their GPUs end up?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Nvidia #ChipSecurityAct #AIChips #GPU #ExportControls #Semiconductors #JensenHuang #NDAA",
+  "post_caption": "Public line: chip tracking may be unworkable. Private line, according to Rep. Bill Foster: Nvidia could do it. Nvidia hasn't confirmed his account.\n\nThe Chip Security Act would require verifying where advanced AI chips are located, with a ping-based option that a CSET analysis found the most cost-effective. The fight now heads toward the NDAA debate.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Nvidia #ChipSecurityAct #AIChips #GPU #ExportControls #Semiconductors #JensenHuang #NDAA",
+  "seed": 146,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/nvidia-privately-said-chip-tracking-feasible-foster/"
+}

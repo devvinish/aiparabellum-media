@@ -1,0 +1,26 @@
+{
+  "title": "Google's Gemini 4 Hydrogen Beats Argon at a Fraction of the Cost",
+  "highlight": "Gemini 4 Hydrogen",
+  "dek": "A fast everyday model now live in Google Search, the Gemini app and API.",
+  "facts": [
+    {
+      "value": "$1.50",
+      "label": "Per million input tokens"
+    },
+    {
+      "value": "51 vs 50",
+      "label": "Intelligence Index score vs Argon"
+    },
+    {
+      "value": "2.5x",
+      "label": "Faster than Gemini 3.8 Flash"
+    }
+  ],
+  "caption": "Google's new \"cheap\" AI model just outscored its own frontier model. ⚡\n\nGemini 4 Hydrogen is the fast, low-cost tier of the Gemini 4 family, replacing the old Flash naming. Google says it scores 51 on the Artificial Analysis Intelligence Index versus 50 for Gemini 4 Argon, and hits 54 at its new xhigh thinking level, all for $1.50 per million input tokens with a 1 million token context window.\n\nIt's rolling out today to Google Search for everyone, which Google calls its biggest Search model upgrade yet, plus the Gemini app and the Gemini API. Developers also get Orchestrator in Antigravity, which switches between Carbon and Hydrogen to save quota on coding tasks.\n\nWe're following every Gemini 4 release at AI Parabellum. Keep in mind these benchmarks are Google's own, so independent tests will tell the real story.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini4 #GeminiHydrogen #Google #GoogleDeepMind #GoogleSearch #GeminiAPI #AICoding #LLM",
+  "post_caption": "Most of your Google searches are about to run on a new brain.\n\nGemini 4 Hydrogen is live globally in Google Search and the Gemini app, built for everyday questions and routine coding. Google claims it beats Argon on a key index and cuts fabricated claims by over 5x compared with Gemini 3.8 Flash.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini4 #GeminiHydrogen #Google #GoogleDeepMind #GoogleSearch #GeminiAPI #AICoding #LLM",
+  "seed": 142,
+  "date": "Nov 12, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/google-launches-gemini-4-hydrogen-everyday-ai-model/"
+}

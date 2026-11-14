@@ -1,0 +1,26 @@
+{
+  "title": "ChatGPT Wallet Spotted on OpenAI Pages Before Any Announcement",
+  "highlight": "ChatGPT Wallet",
+  "dek": "OpenAI's own pages describe a saved card that lets ChatGPT pay for you.",
+  "facts": [
+    {
+      "value": "Nov 13",
+      "label": "Pages surfaced in OpenAI's sitemap"
+    },
+    {
+      "value": "Pro, US",
+      "label": "Only US Pro users aged 18+ eligible"
+    },
+    {
+      "value": "4 brands",
+      "label": "Amex, Chase, Mastercard and Visa named"
+    }
+  ],
+  "caption": "ChatGPT might soon be able to spend your money. 💳\n\nA feature called ChatGPT Wallet has quietly appeared on OpenAI's own website. Two policy pages and a help article describe saving a payment card in ChatGPT so the assistant can buy things for you, like a new sweater or a weekend hotel. OpenAI hasn't announced it, and there's no launch date.\n\nPer the pages, it's for US Pro users 18+, with eligible American Express, Chase, Mastercard and Visa cards. Every purchase needs your approval plus a Face ID or Touch ID check, and merchants see a payment token instead of your real card number.\n\nThe catch: refunds and disputes go to the merchant and your bank, not OpenAI. We at AI Parabellum think the approval screen is the part to take seriously if AI agents start shopping for you.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ChatGPT #OpenAI #ChatGPTWallet #AgenticCommerce #AIShopping #AIAgents #Fintech #DigitalPayments",
+  "post_caption": "OpenAI's help pages just revealed a feature it hasn't announced yet: ChatGPT Wallet, an AI payment option that buys from merchants on your behalf.\n\nIt's US-only, Pro-only, and requires a biometric check on each purchase, with OpenAI never receiving your full card number. Would you let an AI hit checkout for you? 🛒\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ChatGPT #OpenAI #ChatGPTWallet #AgenticCommerce #AIShopping #AIAgents #Fintech #DigitalPayments",
+  "seed": 148,
+  "date": "Nov 13, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/chatgpt-wallet-appears-openai-policy-pages/"
+}

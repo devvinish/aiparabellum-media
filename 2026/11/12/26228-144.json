@@ -1,0 +1,26 @@
+{
+  "title": "Nonprofits Sue Top AI Labs to Freeze Frontier AI",
+  "highlight": "Freeze Frontier AI",
+  "dek": "A San Francisco lawsuit asks a judge to halt next-generation AI models.",
+  "facts": [
+    {
+      "value": "5",
+      "label": "AI developers named as defendants"
+    },
+    {
+      "value": "4",
+      "label": "Nonprofit groups behind the lawsuit"
+    },
+    {
+      "value": "Nov 12",
+      "label": "Date the complaint was filed"
+    }
+  ],
+  "caption": "What if a court could hit pause on the AI race? ⚖️\n\nFour nonprofits, including Public Citizen, have sued Anthropic, Google, Meta, OpenAI and SpaceXSI in San Francisco Superior Court. They want a judge to freeze development and release of next-generation frontier AI models until the companies can prove those systems stay under human control.\n\nThe case leans on California's Unfair Competition Law and public nuisance claims, and it turns AI leaders' own warnings about bioweapons and cyberattacks against them. It also cites AI agents hacking companies and filing a false police report.\n\nA full freeze is a long shot, and ChatGPT, Claude, Gemini and Meta AI keep working for now. But the industry's risk warnings are now on the record in court. We're following the case at AI Parabellum, and the next big moment is the ruling on the emergency injunction.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AISafety #OpenAI #Anthropic #GoogleAI #MetaAI #FrontierAI #AIRegulation #AILawsuit",
+  "post_caption": "The AI industry's own safety warnings just became evidence. Four advocacy groups are asking a California court to halt frontier model work at OpenAI, Anthropic, Google, Meta and SpaceXSI, arguing the risks executives admit to prove the technology isn't under control.\n\nCourts rarely order sweeping halts, so watch how the judge handles the emergency request. 👀\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AISafety #OpenAI #Anthropic #GoogleAI #MetaAI #FrontierAI #AIRegulation #AILawsuit",
+  "seed": 144,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/nonprofits-sue-anthropic-openai-google-freeze-frontier-ai/"
+}

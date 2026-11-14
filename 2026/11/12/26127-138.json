@@ -1,0 +1,26 @@
+{
+  "title": "Google and Samsung Launch Gemini Smart Glasses From $395",
+  "highlight": "Gemini Smart Glasses",
+  "dek": "Warby Parker and Gentle Monster frames take aim at Meta's AI eyewear lead.",
+  "facts": [
+    {
+      "value": "$395",
+      "label": "Starting price, Warby Parker collection"
+    },
+    {
+      "value": "Dec 10",
+      "label": "First pairs ship and hit stores"
+    },
+    {
+      "value": "70+",
+      "label": "Languages for live speech translation"
+    }
+  ],
+  "caption": "Meta finally has real competition on your face. 👓\n\nGoogle and Samsung just opened pre-orders for Gemini smart glasses, with frames designed by Warby Parker and Gentle Monster. Prices start at $395, they work with Pixel, Galaxy and iPhone, and the first pairs ship December 10. Say \"Hey Gemini\" and the assistant sees what you see: it can translate speech across 70+ languages, give Google Maps walking directions in your ear, and answer questions about what's in front of you.\n\nThe big bet is privacy. The glasses blur bystanders' faces before images reach Gemini, an LED lights up when recording, and Google Play bans apps that use the camera for real-time facial identification.\n\nMeta held roughly 81% of the AI glasses market in the first half of this year, and Apple is expected to follow next year. We're tracking the AI eyewear race daily at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #GeminiSmartGlasses #GoogleGemini #Samsung #WarbyParker #GentleMonster #SmartGlasses #MetaRayBan #Wearables",
+  "post_caption": "Would you trust Gemini to see everything you see? Google's new smart glasses blur strangers' faces automatically, weigh about 41 grams and last up to nine hours on a charge.\n\nThe Warby Parker line starts at $395, Gentle Monster at $449, and both go on sale December 10.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #GeminiSmartGlasses #GoogleGemini #Samsung #WarbyParker #GentleMonster #SmartGlasses #MetaRayBan #Wearables",
+  "seed": 138,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/google-samsung-gemini-smart-glasses-preorders/"
+}

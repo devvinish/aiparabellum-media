@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic Launches Claude for Manufacturing With 17 Factory Skills",
+  "highlight": "Claude for Manufacturing",
+  "dek": "A new plugin drafts quotes and quality reports, with a human sign-off.",
+  "facts": [
+    {
+      "value": "17",
+      "label": "Ready-made skills for factory teams"
+    },
+    {
+      "value": "4",
+      "label": "Connectors incl. Fusion and NetSuite"
+    },
+    {
+      "value": "79%",
+      "label": "Manufacturers still entering data by hand"
+    }
+  ],
+  "caption": "Anthropic just walked onto the factory floor, and it's starting with the paperwork 🏭\n\nClaude for Manufacturing is a new plugin for Claude Team and Enterprise plans. It bundles 17 skills that draft quotes, investigate failed inspections, diagnose breakdowns, compare supplier bids and compile production reports. Connectors for Autodesk Fusion, Infor, Microsoft 365 and Oracle NetSuite let Claude pull from the records plants already keep.\n\nThe key detail: every job stops for human review. Claude drafts and links its evidence, while an estimator releases the quote and a quality engineer verifies the fix. Infor is also shipping its own plugin that can make changes inside Infor, limited by user permissions.\n\nWe're tracking how AI moves into industry at AI Parabellum. Would you trust AI to draft your next quote?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeForManufacturing #Manufacturing #AutodeskFusion #OracleNetSuite #Infor #IndustrialAI",
+  "post_caption": "79% of manufacturers still type data in by hand. Anthropic wants Claude to take that job.\n\nThe new Claude for Manufacturing plugin brings 17 skills and connectors to Autodesk Fusion, Infor, Microsoft 365 and Oracle NetSuite. Claude drafts the reports and quotes, and people make the final call.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeForManufacturing #Manufacturing #AutodeskFusion #OracleNetSuite #Infor #IndustrialAI",
+  "seed": 141,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/anthropic-launches-claude-for-manufacturing-plugin/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Drogue Raises $20M for Floating AI Data Centers Run on Ocean Heat",
+  "highlight": "Floating AI Data Centers",
+  "dek": "A six-month-old startup wants to power AI servers at sea using OTEC.",
+  "facts": [
+    {
+      "value": "$20M",
+      "label": "Raised by six-month-old Drogue"
+    },
+    {
+      "value": "Early 2028",
+      "label": "Target launch of ship-based prototype"
+    },
+    {
+      "value": "1,000 m",
+      "label": "Depth of cold water used to make power"
+    }
+  ],
+  "caption": "What if the next AI data center floated in the middle of the ocean? 🌊\n\nDrogue, a Washington, D.C. startup founded just six months ago, has raised $20 million to build floating AI data centers powered by ocean thermal energy conversion (OTEC). The system uses warm surface water to cool servers and boil ammonia, which spins a turbine, while cold water from about 1,000 meters deep condenses it back. Investors include Toyota Ventures, XYZ Venture Capital and Slow Ventures, and a multi-megawatt prototype is set to sail in early 2028.\n\nWhy it matters: AI power demand is outpacing the grid, and traditional data centers take 8 to 10 years to build. CEO Sam Sipe, a former Navy pilot, wants to move the compute to where the energy is. Corrosion, storms and costs are still big unknowns.\n\nWe're following the AI energy race daily at AI Parabellum. Would you trust your AI workloads to a ship at sea?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Drogue #DataCenters #OTEC #OceanEnergy #AIInfrastructure #AIEnergy #ToyotaVentures #Startups",
+  "post_caption": "Ocean heat might be the next power source for AI. Drogue's $20M round backs ship-based data centers that turn the temperature gap between warm surface water and the cold deep sea into electricity, with servers cooled by the same loop.\n\nThe prototype won't hit the water until early 2028, so this is a bold bet rather than a finished product. Still a striking sign of how far the AI industry will go for power. ⚡\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Drogue #DataCenters #OTEC #OceanEnergy #AIInfrastructure #AIEnergy #ToyotaVentures #Startups",
+  "seed": 151,
+  "date": "Nov 13, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/drogue-raises-20m-floating-ocean-powered-ai-data-centers/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "SE3 Raises $30M to Build Spatial AI for Military Drones",
+  "highlight": "$30M",
+  "dek": "Accel leads the Munich startup's Series A, five months after its seed round.",
+  "facts": [
+    {
+      "value": "$30M",
+      "label": "Series A round led by Accel"
+    },
+    {
+      "value": "$6.1M",
+      "label": "Seed round announced in June"
+    },
+    {
+      "value": "120",
+      "label": "Planned team size, up from about 40"
+    }
+  ],
+  "caption": "Drones that keep flying when GPS goes dark just pulled in $30 million. 🛰️\n\nMunich startup SE3, a spinout from the Technical University of Munich, raised a $30M Series A led by Accel, with Keen Venture Partners, Lakestar and Seedcamp joining. It comes less than five months after a roughly $6.1M seed round. SE3 builds spatial AI that merges video and sensor feeds from many drones and ground vehicles into one 3D map, so soldiers can ask questions in plain language.\n\nThe twist: SE3 doesn't feed raw data to a chatbot. Classical computer vision builds a database, and a swappable language model calls reliable tools like path planners. It runs fully offline, and actions like takeoff can require human approval. Customers include the Bundeswehr and Ukraine.\n\nAt AI Parabellum, we see this as a sign that defense AI money is shifting toward software that works across many drone makers. The voice-driven fleet command layer still needs a year or two, so real-world results will matter most.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #SE3 #Accel #SpatialAI #DefenseTech #MilitaryDrones #ComputerVision #StartupFunding #Autonomy",
+  "post_caption": "One soldier, many drones, and voice commands instead of joysticks. That's the pitch behind SE3's new $30M Series A from Accel.\n\nThe Munich team pairs classical computer vision with a language model to guide drones where GPS is jammed, and plans to grow from about 40 to 120 people.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #SE3 #Accel #SpatialAI #DefenseTech #MilitaryDrones #ComputerVision #StartupFunding #Autonomy",
+  "seed": 133,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/se3-raises-30m-accel-ai-drone-software/"
+}

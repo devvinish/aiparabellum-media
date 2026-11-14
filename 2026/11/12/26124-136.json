@@ -1,0 +1,26 @@
+{
+  "title": "Jensen Huang Resigns as Nvidia CEO After 33 Years",
+  "highlight": "Jensen Huang Resigns",
+  "dek": "CFO Colette Kress steps in as interim CEO after a week of scandal.",
+  "facts": [
+    {
+      "value": "33 years",
+      "label": "Huang's run leading Nvidia since 1993"
+    },
+    {
+      "value": "Kress",
+      "label": "CFO now interim CEO, keeps finance role"
+    },
+    {
+      "value": "Nov 17",
+      "label": "Next earnings report under new leaders"
+    }
+  ],
+  "caption": "The man who built the AI chip empire is out. Jensen Huang has resigned as Nvidia CEO, effective immediately. 😮\n\nNvidia's board announced that Huang is leaving his roles as president, CEO and director after 33 years. CFO Colette Kress becomes interim CEO, and former Synopsys CEO Harvey C. Jones becomes Nvidia's first-ever board chair. The board gave no reason, but the exit follows an investigation into Huang's relationship with a former Megaspeed executive reported to be a Chinese intelligence asset, plus a New York Times report about a relationship with a direct subordinate.\n\nWhy it matters: Nvidia's GPUs power most of today's AI training and inference. The board says the roadmap, including Vera Rubin, continues without interruption, and a search for a permanent CEO is underway. At AI Parabellum we'll be watching the November 17 earnings call closely for clues on strategy and China sales.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Nvidia #JensenHuang #ColetteKress #AIChips #GPU #TechNews #NvidiaCEO",
+  "post_caption": "Nvidia without Jensen Huang? It's happening. The cofounder resigned after a week of reports about his personal relationships, and longtime CFO Colette Kress is now interim CEO while the board hunts for a permanent leader.\n\nNext big moment: Nvidia's earnings report on November 17.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Nvidia #JensenHuang #ColetteKress #AIChips #GPU #TechNews #NvidiaCEO",
+  "seed": 136,
+  "date": "Nov 12, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/nvidia-ceo-jensen-huang-resigns-kress-interim/"
+}

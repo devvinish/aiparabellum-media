@@ -1,0 +1,26 @@
+{
+  "title": "Hatz AI Raises $24M to Bring AI to Small Businesses via MSPs",
+  "highlight": "$24M",
+  "dek": "The startup sells its AI platform through the IT firms small businesses already use.",
+  "facts": [
+    {
+      "value": "$24M",
+      "label": "Series A led by Nadia Partners"
+    },
+    {
+      "value": "15,000+",
+      "label": "AI builder certifications issued"
+    },
+    {
+      "value": "14 → 60",
+      "label": "Team growth in headcount"
+    }
+  ],
+  "caption": "Your IT provider might be the one who brings AI to your small business. 🤖\n\nNew York startup Hatz AI just raised a $24 million Series A led by Nadia Partners, with Vestigo Ventures and The Private Shares Fund joining. Hatz doesn't sell to businesses directly. Instead, managed service providers (MSPs) use its AI control plane to set guardrails, track AI spending, route tasks across frontier models and resell it all under their own brand.\n\nThe pitch: small firms lack the engineers, budgets and security teams to adopt AI safely, but they already trust an MSP with their networks and backups. Hatz offers ready-made agents for jobs like IT ticket triage, sales lead qualification and bookkeeping support, and says its active MSP partners tripled year over year.\n\nWe're tracking this at AI Parabellum because it shows AI moving from big enterprises to Main Street. Would you buy AI from your IT provider?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #HatzAI #SmallBusiness #MSP #ManagedServices #AIAgents #SeriesA #AIGovernance #StartupFunding",
+  "post_caption": "Small businesses rarely have a data scientist on staff, so Hatz AI is betting MSPs will do the AI heavy lifting for them. The startup just closed a $24M Series A to grow its model-routing engine, forward-deployed engineers and AI research teams.\n\nIts partners now reach all 50 U.S. states, and the team grew from 14 to about 60 people. 📈\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #HatzAI #SmallBusiness #MSP #ManagedServices #AIAgents #SeriesA #AIGovernance #StartupFunding",
+  "seed": 134,
+  "date": "Nov 12, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/hatz-ai-raises-24m-series-a-msp-ai-platform/"
+}
