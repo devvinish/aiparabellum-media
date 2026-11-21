@@ -1,0 +1,26 @@
+{
+  "title": "Thinking Machines' Inkling 2 Mini Runs Offline on Your Laptop",
+  "highlight": "Inkling 2 Mini",
+  "dek": "A looped open model that tops sub-100B rivals on agentic coding tests.",
+  "facts": [
+    {
+      "value": "26.4B",
+      "label": "Total parameters, 3.4B active per token"
+    },
+    {
+      "value": "48.2%",
+      "label": "Score on DeepSWE v1.1 coding test"
+    },
+    {
+      "value": "32GB",
+      "label": "Minimum Mac RAM to run it via Ollama"
+    }
+  ],
+  "caption": "A coding agent that lives on your laptop and never needs the cloud. 💻\n\nThinking Machines Lab just released Inkling 2 Mini, a free open-weights model that fits in about 20GB of memory and runs offline on a Mac with 32GB of RAM through Ollama. The company says it beats every open model under 100 billion parameters on agentic coding tests, scoring 48.2% on DeepSWE v1.1.\n\nThe trick is a \"looped\" design: the middle layers run three times per token, so the model thinks deeper without storing extra weights. It still trails Qwen on multi-turn chat and factual recall, so pair it with search when facts matter.\n\nWe're tracking it at AI Parabellum because local AI agents that keep your data on your own machine are getting seriously good. Would you run your coding assistant offline?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ThinkingMachines #Inkling2Mini #OpenSourceAI #LocalAI #LLM #AICoding #Ollama #HuggingFace",
+  "post_caption": "Same weights, used three times over. That's how Inkling 2 Mini squeezes big-model reasoning into a laptop-sized package.\n\nThe new open model from Thinking Machines Lab works with llama.cpp, MLX, vLLM and Ollama, and ships alongside a research model to study how looping affects AI safety. 🧠\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #ThinkingMachines #Inkling2Mini #OpenSourceAI #LocalAI #LLM #AICoding #Ollama #HuggingFace",
+  "seed": 192,
+  "date": "Nov 20, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/thinking-machines-inkling-2-mini-local-laptop-model/"
+}

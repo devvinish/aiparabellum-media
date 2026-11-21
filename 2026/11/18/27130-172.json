@@ -1,0 +1,26 @@
+{
+  "title": "Nvidia Posts $115.8B Quarter as Vera Rubin Ships",
+  "highlight": "$115.8B Quarter",
+  "dek": "First earnings since Jensen Huang stepped down, led by interim CEO Colette Kress",
+  "facts": [
+    {
+      "value": "103%",
+      "label": "Revenue growth vs. a year ago"
+    },
+    {
+      "value": "$107.6B",
+      "label": "Data Center revenue, up 110%"
+    },
+    {
+      "value": "$130B",
+      "label": "Q4 revenue outlook, plus or minus 3%"
+    }
+  ],
+  "caption": "Nvidia just doubled its revenue in a year, and it did it without Jensen Huang at the top. 📈\n\nNvidia reported $115.8 billion for Q3 of fiscal 2027, up 103% year over year and well above the roughly $109.3 billion analysts expected. Data Center sales hit $107.6 billion, net income reached a record $65.3 billion, and Vera Rubin NVL72 racks began shipping in what Nvidia calls its fastest product ramp ever, already running at CoreWeave, Google Cloud, Microsoft Azure and Oracle.\n\nThe quarter also bundled major AI deals: expanded Vera Rubin access for Anthropic, a wider Meta deployment, and an agreement to acquire Hugging Face. Interim CEO Colette Kress says \"our momentum is real\" and guides Q4 to $130 billion.\n\nAt AI Parabellum we think the takeaway is simple: demand for AI compute isn't slowing, which matters for anyone using Claude, ChatGPT or Gemini. The real open question is who leads Nvidia next.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Nvidia #NvidiaEarnings #VeraRubin #JensenHuang #HuggingFace #AIChips #DataCenter #Anthropic",
+  "post_caption": "Record profit, a leadership vacuum and a Hugging Face acquisition, all in one Nvidia report.\n\nThe chipmaker posted $115.8 billion in revenue and $65.3 billion in net income as Vera Rubin shipments ramped, then guided Q4 to $130 billion. Demand is clearly there; now the board has to pick a CEO. 🔥\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Nvidia #NvidiaEarnings #VeraRubin #JensenHuang #HuggingFace #AIChips #DataCenter #Anthropic",
+  "seed": 172,
+  "date": "Nov 17, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/nvidia-q3-revenue-115-8-billion-vera-rubin/"
+}

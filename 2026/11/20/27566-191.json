@@ -1,0 +1,26 @@
+{
+  "title": "Signal Blocks Screenshots to Keep Gemini and Siri Out of Your Chats",
+  "highlight": "Blocks Screenshots",
+  "dek": "Signal calls OS-level AI agents an \"existential threat\" to app privacy.",
+  "facts": [
+    {
+      "value": "Nov 20",
+      "label": "Date Signal announced the change"
+    },
+    {
+      "value": "iOS 27",
+      "label": "Screenshots blocked by default"
+    },
+    {
+      "value": "macOS 27",
+      "label": "No block yet, manual workaround needed"
+    }
+  ],
+  "caption": "Your phone's AI assistant might be reading your private messages. Signal just drew a line. 🔒\n\nOn November 20, 2026, Signal started blocking screenshots inside its app so built-in AI agents like Google Gemini Intelligence on Android and Onscreen Awareness with Siri AI on Apple devices can't read your chats. iOS 27 gets the block by default, and Android turns on Screen security when it detects an assistant trying to read the screen. Mac users still need to add Signal to Siri's Excluded Apps list manually.\n\nWhy it matters: encryption only protects messages in transit. Once a message is on your screen, an OS agent can capture it and send it elsewhere. Signal president Meredith Whittaker is now asking Apple, Google and Microsoft for a real, documented way for apps to opt out of AI data access.\n\nWe're following this privacy fight closely at AI Parabellum. Would you turn screenshots back on, knowing it affects your contacts too?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Signal #Privacy #Gemini #Siri #AIAgents #Apple #Google #Encryption",
+  "post_caption": "Encryption means little if the operating system can read your screen. That's Signal's argument as it blocks screenshots to stop Gemini and Siri AI agents from scanning private chats.\n\nThe fix is partial, with gaps on Mac and some Android phones, but the bigger ask is clear: Apple, Google and Microsoft need to let apps opt out of AI data access. 📱\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Signal #Privacy #Gemini #Siri #AIAgents #Apple #Google #Encryption",
+  "seed": 191,
+  "date": "Nov 20, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/signal-blocks-screenshots-stop-ai-agents-reading-chats/"
+}

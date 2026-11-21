@@ -1,0 +1,26 @@
+{
+  "title": "Amazon Textract Insights Makes AI Document Extraction Verifiable",
+  "highlight": "Textract Insights",
+  "dek": "AWS's new AI pulls data from messy files and shows exactly where it came from.",
+  "facts": [
+    {
+      "value": "3,000",
+      "label": "Pages per file in one packet"
+    },
+    {
+      "value": "6",
+      "label": "Languages supported at launch"
+    },
+    {
+      "value": "18",
+      "label": "AWS Regions now running Textract Core"
+    }
+  ],
+  "caption": "What if your AI could prove where every number came from? 📄\n\nAmazon Web Services just made Amazon Textract Insights generally available. Describe the fields you want in plain English, upload a document or a messy packet of up to 3,000 pages, and get structured data back. Every value comes with a confidence score and the exact page and spot it was pulled from.\n\nThat matters for banks, insurers, healthcare groups and government agencies, where auditors need answers they can check. Textract Insights splits mixed files like mortgage applications into separate documents, matches each to a blueprint and extracts the fields in one API call, with no model training and per-page pricing.\n\nWe're tracking every big AWS AI move at AI Parabellum. Would you trust AI to read your loan or claims paperwork?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AWS #AmazonTextract #TextractInsights #DocumentAI #GenerativeAI #IntelligentDocumentProcessing #OCR #Fintech",
+  "post_caption": "Fluent answers aren't enough when an auditor asks where a figure came from. Amazon Textract Insights returns every extracted value with a confidence score and a pointer to its source page.\n\nIt handles W-2s, tax returns, passports and mixed document packets using plain-language blueprints, now generally available on AWS ✅\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AWS #AmazonTextract #TextractInsights #DocumentAI #GenerativeAI #IntelligentDocumentProcessing #OCR #Fintech",
+  "seed": 193,
+  "date": "Nov 20, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/amazon-textract-insights-generative-ai-document-extraction/"
+}

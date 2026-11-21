@@ -1,0 +1,26 @@
+{
+  "title": "Gemini for Mac Can Now Use Your Computer for You",
+  "highlight": "Use Your Computer",
+  "dek": "Google's AI clicks, types and fills forms in its own background window.",
+  "facts": [
+    {
+      "value": "Nov 19",
+      "label": "Computer use rollout begins"
+    },
+    {
+      "value": "macOS 15",
+      "label": "Sequoia or newer, Apple Silicon only"
+    },
+    {
+      "value": "U.S.",
+      "label": "English only, AI Plus, Pro and Ultra plans"
+    }
+  ],
+  "caption": "Your Mac just got a coworker that never gets tired of copy-and-paste. 🖱️\n\nGoogle has added computer use to the Gemini app for Mac. Describe a multi-step job and Gemini will click, type, open menus and fill in forms across your local files, desktop apps and the web. It runs in its own background window with a live preview in chat, so your screen and cursor stay free.\n\nThink pulling data from PDFs into shipping forms or turning dashboard numbers into a Google Slides deck. You pick which apps it can access, can pause it anytime and approve key actions first. It's rolling out to U.S. Google AI Plus, Pro and Ultra subscribers on Apple Silicon Macs running macOS Sequoia 15.0 or newer.\n\nWe're tracking the AI agent race daily at AI Parabellum. Would you let Gemini drive your Mac?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini #GoogleGemini #ComputerUse #AIAgents #MacOS #AppleSilicon #Productivity #Automation",
+  "post_caption": "Gemini is no longer just a chat box on your Mac. Google's new computer use feature lets the AI operate apps like a person, in a separate window, while you keep working.\n\nIt's for paying U.S. users on Apple Silicon Macs for now, with app permissions, a pause button and approval steps built in.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini #GoogleGemini #ComputerUse #AIAgents #MacOS #AppleSilicon #Productivity #Automation",
+  "seed": 186,
+  "date": "Nov 19, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/gemini-mac-app-computer-use-tasks/"
+}

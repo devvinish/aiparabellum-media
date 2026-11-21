@@ -1,0 +1,26 @@
+{
+  "title": "Google Launches Gemini 4 Neon at $3 per Million Tokens",
+  "highlight": "Gemini 4 Neon",
+  "dek": "Near-flagship reasoning built for coding and agents, faster and cheaper.",
+  "facts": [
+    {
+      "value": "1M",
+      "label": "Token context window"
+    },
+    {
+      "value": "32%",
+      "label": "Lower cost per task than Carbon"
+    },
+    {
+      "value": "95%",
+      "label": "Discount on cached input tokens"
+    }
+  ],
+  "caption": "Google just put near-flagship AI on a much cheaper price tag. ⚡\n\nGemini 4 Neon is the newest member of the Gemini 4 family, sitting between Hydrogen (fast everyday tasks) and Carbon (the hardest long projects). It's priced at $3 per million input tokens and $15 per million output, with a 1 million-token context window that handles text, images, audio and video. It's live now in the Gemini app, Gemini for business and Google Antigravity.\n\nGoogle built Neon for coding agents and long tool-heavy sessions. It can even orchestrate parallel Hydrogen subagents. Google says it costs 32% less per task than Carbon at default settings and ranks #1 on the Artificial Analysis Coding Agent Index. Those are Google's own picked benchmarks, so independent testing will tell the real story.\n\nHere at AI Parabellum, we think the bigger signal is the race toward cheaper, smarter agents. Would you switch your coding assistant to Neon? 👇\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini4Neon #Gemini #Google #GoogleDeepMind #AIAgents #AICoding #LLM #GoogleAntigravity",
+  "post_caption": "Carbon-level quality without Carbon-level cost? That's Google's pitch for Gemini 4 Neon.\n\nThe new model offers four thinking levels, a 95% discount on cached input and Google's lowest fabrication rate yet in internal tests. A cyber version is also heading to trusted defenders through the Fairwind Program. 🔐\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini4Neon #Gemini #Google #GoogleDeepMind #AIAgents #AICoding #LLM #GoogleAntigravity",
+  "seed": 181,
+  "date": "Nov 18, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/google-launches-gemini-4-neon-fast-frontier-model/"
+}

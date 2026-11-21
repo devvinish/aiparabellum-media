@@ -1,0 +1,26 @@
+{
+  "title": "Apple Is Hiring to Build Its Own Computer-Use AI Agent",
+  "highlight": "Computer-Use AI Agent",
+  "dek": "A new job post describes an agent that browses, codes and runs apps.",
+  "facts": [
+    {
+      "value": "Nov 18",
+      "label": "Date the Cupertino job listing was posted"
+    },
+    {
+      "value": "$401,700",
+      "label": "Top of the role's base pay range"
+    },
+    {
+      "value": "AFM",
+      "label": "Apple Foundation Models team is a partner"
+    }
+  ],
+  "caption": "Apple just revealed its next big AI move, and it wasn't in a keynote. It was in a job listing. 👀\n\nA new post for a \"Senior Engineering Manager, Agentic AI – Proactive\" in Cupertino describes an Apple AI agent that uses a computer like a person: browsing the web, working across apps, running terminal commands, writing and debugging code, and calling APIs. The team will partner with Siri, UI frameworks and Apple Foundation Models, with a focus on on-device models, sandboxing and strict permissions.\n\nWhy it matters: ChatGPT, Perplexity, Meta's Muse and now Gemini can already control the Mac, while Apple has no agent of its own. The word \"Proactive\" hints at a Siri that acts before you ask. No name, devices or launch date yet, so treat it as an early signal.\n\nWe're tracking every step of the AI agent race at AI Parabellum. Would you trust an agent to run your Mac?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Apple #AIAgents #Siri #AgenticAI #ComputerUse #AppleIntelligence #Mac #OnDeviceAI",
+  "post_caption": "Apple doesn't have an AI agent yet, but its careers page says one is on the way.\n\nThe listing outlines a privacy-first agent that plans multi-step tasks across apps, browsers, code and the command line, built with Siri and Apple's on-device models. Nothing is announced, but the race with ChatGPT and Gemini on the Mac just got more interesting. 🍎\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Apple #AIAgents #Siri #AgenticAI #ComputerUse #AppleIntelligence #Mac #OnDeviceAI",
+  "seed": 189,
+  "date": "Nov 19, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/apple-hiring-engineers-build-computer-use-ai-agent/"
+}

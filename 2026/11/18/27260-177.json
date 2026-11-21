@@ -1,0 +1,26 @@
+{
+  "title": "Humyn Labs Raises $47M to Teach Robots How Humans Work",
+  "highlight": "$47M",
+  "dek": "The Bengaluru startup films real chores and jobs to train robot AI models.",
+  "facts": [
+    {
+      "value": "$26M",
+      "label": "Equity round led by Accel"
+    },
+    {
+      "value": "$21M",
+      "label": "Venture debt led by Lighthouse Canton"
+    },
+    {
+      "value": "20+",
+      "label": "Countries where it collects data"
+    }
+  ],
+  "caption": "Robots can't learn to fold laundry from the internet. So one startup is filming people doing it. 🤖\n\nHumyn Labs, a Bengaluru-based robot training data company founded in early 2026, just raised $47 million in Series A funding: $26M in equity led by Accel plus $21M in venture debt led by Lighthouse Canton. Its head-mounted camera rigs record real workers and household chores across 20+ countries, then label hand positions, object contact and depth so robot models can learn from them.\n\nWhy it matters: physical AI needs data that doesn't exist online, and most of Humyn's customers are US AI labs and humanoid robot makers. The company claims $50M in annualized revenue within six months, though those figures aren't independently verified.\n\nWe're tracking the race to train humanoid robots daily at AI Parabellum. Would you let a camera record your chores for robot training?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #HumynLabs #Robotics #PhysicalAI #HumanoidRobots #Accel #RobotTrainingData #StartupFunding #IndianStartups",
+  "post_caption": "The next big AI data gold rush isn't text, it's footage of human hands at work.\n\nAccel-backed Humyn Labs raised $47M to record everyday jobs in Brazil, India, South Korea and beyond, giving robotics companies the real-world training data their models are missing.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #HumynLabs #Robotics #PhysicalAI #HumanoidRobots #Accel #RobotTrainingData #StartupFunding #IndianStartups",
+  "seed": 177,
+  "date": "Nov 18, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/humyn-labs-raises-47m-robot-training-data/"
+}

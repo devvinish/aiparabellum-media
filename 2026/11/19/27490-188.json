@@ -1,0 +1,26 @@
+{
+  "title": "Databricks Genie ZeroOps Now Fixes Broken Data Pipelines",
+  "highlight": "Genie ZeroOps",
+  "dek": "The AI agent triages pipeline failures and drafts the fix as a pull request.",
+  "facts": [
+    {
+      "value": "80,000+",
+      "label": "Real pipeline issues seen in preview"
+    },
+    {
+      "value": "5 steps",
+      "label": "Detect, investigate, verify, notify, fix"
+    },
+    {
+      "value": "Half+",
+      "label": "Issues needing company-specific knowledge"
+    }
+  ],
+  "caption": "Paged at 2am because a data job failed? Databricks wants an AI agent to take that call. 🚨\n\nDatabricks just opened Genie ZeroOps to every customer as a public beta. The agent watches jobs, pipelines and tables, digs into failures on its own, tests a fix in a sandbox, then sends a summary to Slack, Microsoft Teams or PagerDuty and opens a pre-filled pull request.\n\nThe beta was shaped by more than 80,000 real pipeline issues from a private preview. It adds a shared team inbox, custom agent instructions for your flaky sources and naming rules, and governance through Unity Catalog permissions. Humans still approve every code change.\n\nWe're tracking the shift of AI agents into real data infrastructure here at AI Parabellum. Would you let an agent near your production pipelines?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Databricks #GenieZeroOps #DataEngineering #DataPipelines #AIAgents #UnityCatalog #DataOps",
+  "post_caption": "Over half of broken data pipelines need insider knowledge to fix, and that's exactly what Databricks built Genie ZeroOps around.\n\nNow in public beta, the agent learns your team's rules through custom instructions, diagnoses failures automatically and drafts a one-click pull request, while a person still signs off on every fix.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Databricks #GenieZeroOps #DataEngineering #DataPipelines #AIAgents #UnityCatalog #DataOps",
+  "seed": 188,
+  "date": "Nov 19, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/databricks-genie-zeroops-public-beta-pipeline-agent/"
+}

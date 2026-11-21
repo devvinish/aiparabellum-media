@@ -1,0 +1,26 @@
+{
+  "title": "Workday to Buy Honeydew So AI Agents Agree on the Numbers",
+  "highlight": "Honeydew",
+  "dek": "A semantic layer deal to give every AI agent the same business definitions.",
+  "facts": [
+    {
+      "value": "Nov 18",
+      "label": "Deal announced at Workday Rising EMEA"
+    },
+    {
+      "value": "Undisclosed",
+      "label": "Price of the Honeydew acquisition"
+    },
+    {
+      "value": "Jan 2027",
+      "label": "Expected close, end of fiscal Q4 2027"
+    }
+  ],
+  "caption": "Ask a dashboard, a chatbot and an AI agent for your headcount and you might get three different answers. Workday wants to fix that. 🤖\n\nWorkday plans to acquire Honeydew, a startup building a semantic layer for AI and business intelligence. Honeydew's \"semantic compiler\" will plug into Workday Data Cloud, turning business definitions into exact, governed database queries so agents stop improvising the math behind payroll or revenue.\n\nThe pitch: more consistent answers, fewer tokens per prompt, lower costs, and permissions that block unauthorized requests before any query runs. Terms weren't disclosed and the deal is expected to close by January 31, 2027.\n\nWe're tracking how enterprise AI is getting tighter on governance at AI Parabellum. Would you trust an AI agent with your payroll numbers?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Workday #Honeydew #AIAgents #SemanticLayer #EnterpriseAI #DataGovernance #BusinessIntelligence #Acquisition",
+  "post_caption": "Same question, three different numbers. That's the enterprise AI problem Workday is targeting with its planned Honeydew acquisition.\n\nHoneydew's semantic layer gives every agent and dashboard one governed rulebook for metrics like headcount and revenue, landing in Workday Data Cloud once the deal closes. 📊\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Workday #Honeydew #AIAgents #SemanticLayer #EnterpriseAI #DataGovernance #BusinessIntelligence #Acquisition",
+  "seed": 175,
+  "date": "Nov 18, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/workday-to-acquire-honeydew-ai-semantic-layer/"
+}

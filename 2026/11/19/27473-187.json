@@ -1,0 +1,26 @@
+{
+  "title": "Amazon Polly Can Now Clone a Voice From Minutes of Audio",
+  "highlight": "Clone a Voice",
+  "dek": "AWS launches custom brand voices with consent checks and watermarks.",
+  "facts": [
+    {
+      "value": "7",
+      "label": "Languages supported at launch"
+    },
+    {
+      "value": "5-10 min",
+      "label": "Typical time to build a cloned voice"
+    },
+    {
+      "value": "Free",
+      "label": "Cost to create; usage is pay-as-you-go"
+    }
+  ],
+  "caption": "A few minutes of someone talking is now enough for AWS to build their voice. 🎙️\n\nAmazon Polly voice cloning is generally available as a gated release. Businesses upload 1 to 10 recordings of a consenting speaker, and Polly's generative engine builds a custom text-to-speech voice in about 5 to 10 minutes. It launches in English, Spanish, German, French, Italian, Portuguese and Hindi, and creating a voice costs nothing.\n\nAWS is leaning hard on safeguards: consent must be confirmed for every voice, generated audio is watermarked, recordings aren't kept or used for training, and each voice stays locked to the account that made it.\n\nWe're tracking this at AI Parabellum because it puts brand voices for call centers, audiobooks and accessibility apps right inside the cloud many companies already use, and raises fresh questions about how well voice cloning guardrails hold up at scale.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AmazonPolly #AWS #VoiceCloning #TextToSpeech #GenerativeAI #AIVoice #SyntheticVoice",
+  "post_caption": "One brand voice for your phone lines, apps and ads, with no studio rebooking every time a script changes. That's the pitch behind Amazon Polly's new voice cloning.\n\nIt works in 7 languages, accounts start with 10 cloned voices per region, and every clip carries a watermark. Would you lend your voice to an AI? 🤔\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AmazonPolly #AWS #VoiceCloning #TextToSpeech #GenerativeAI #AIVoice #SyntheticVoice",
+  "seed": 187,
+  "date": "Nov 19, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/amazon-polly-launches-voice-cloning-seven-languages/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "BrightAI Raises $97M to End Scheduled Infrastructure Inspections",
+  "highlight": "$97M",
+  "dek": "Physical AI sensors watch power lines and pipes around the clock instead.",
+  "facts": [
+    {
+      "value": "$97M",
+      "label": "New round led by Smith Point Capital"
+    },
+    {
+      "value": "$750M",
+      "label": "Reported valuation, per Fortune source"
+    },
+    {
+      "value": "51 days",
+      "label": "Average early warning before a failure"
+    }
+  ],
+  "caption": "Utilities still inspect their gear the way the Romans checked roads: on a schedule. BrightAI just raised $97 million to change that. ⚡\n\nThe physical AI startup uses edge sensors, drones, robots and wearable AI copilots to monitor power poles, pipelines, compressors and tanks 24/7. Smith Point Capital, the firm from former Salesforce co-CEO Keith Block, led the round, and GE Vernova joined as both investor and customer. Total funding now sits at $184 million, with a reported $750 million valuation.\n\nWhy it matters: more than half of scheduled inspections find nothing, while failures happen between visits. BrightAI says its Stateful platform runs at 50,000+ locations and spots trouble about 51 days early. Founder Alex Hawkinson, who sold SmartThings to Samsung, plans to spend most of the cash on international growth.\n\nWe're tracking the physical AI boom daily at AI Parabellum. Would you trust sensors over scheduled crew visits?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #BrightAI #PhysicalAI #GEVernova #SmithPointCapital #PredictiveMaintenance #Utilities #Infrastructure #StartupFunding",
+  "post_caption": "What if crews only went out when something was actually about to break? That's the bet behind BrightAI's new $97M round, backed by Smith Point Capital and GE Vernova.\n\nIts always-on sensors and AI models aim to replace fixed inspection calendars for utilities, energy and water companies, catching failures before they happen. 🔧\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #BrightAI #PhysicalAI #GEVernova #SmithPointCapital #PredictiveMaintenance #Utilities #Infrastructure #StartupFunding",
+  "seed": 178,
+  "date": "Nov 18, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/brightai-raises-97m-physical-ai-infrastructure-inspections/"
+}

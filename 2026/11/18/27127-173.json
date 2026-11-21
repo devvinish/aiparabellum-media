@@ -1,0 +1,26 @@
+{
+  "title": "California Bans Waymo Robotaxis From Freeways",
+  "highlight": "Bans Waymo",
+  "dek": "Cars kept driving into active highway construction zones.",
+  "facts": [
+    {
+      "value": "Nov 11",
+      "label": "Date the California DMV issued the order"
+    },
+    {
+      "value": "15",
+      "label": "U.S. metro areas where Waymo operates"
+    },
+    {
+      "value": "500K+",
+      "label": "Weekly Waymo trips on surface streets"
+    }
+  ],
+  "caption": "California just pulled Waymo's robotaxis off every freeway in the state 🚫\n\nThe California DMV called it an \"imminent hazard to public safety\" after Waymo cars repeatedly drove into active construction zones, including three vehicles entering a closure on U.S. Route 101 near Burlingame and one blocking Highway Patrol on Highway 280. Waymo responded by halting freeway rides in all its markets, not just California. City street service keeps running.\n\nThe ban lasts until Waymo proves it has taken effective corrective actions, with no return date set. It follows a May 2026 pause and a June software recall over the same construction zone problem.\n\nAt AI Parabellum we're watching this closely: work zones remain one of the hardest challenges for self-driving AI, and regulators are clearly done waiting for fixes.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Waymo #Robotaxi #SelfDrivingCars #AutonomousVehicles #CaliforniaDMV #DriverlessCars #AISafety",
+  "post_caption": "Waymo riders are staying on surface streets for now. After repeated incursions into highway work zones, California regulators ordered the robotaxis off freeways, and Waymo paused freeway trips nationwide.\n\nExpect longer rides to places like the airport or Silicon Valley until the DMV signs off on a fix.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Waymo #Robotaxi #SelfDrivingCars #AutonomousVehicles #CaliforniaDMV #DriverlessCars #AISafety",
+  "seed": 173,
+  "date": "Nov 17, 2026",
+  "seconds": 19,
+  "cover_ms": 4830,
+  "link": "https://aiparabellum.com/california-dmv-bans-waymo-robotaxis-from-freeways/"
+}

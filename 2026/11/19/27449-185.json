@@ -1,0 +1,26 @@
+{
+  "title": "Google Built a Fake Internet to Test Chrome's AI Agents",
+  "highlight": "Fake Internet",
+  "dek": "The Mirror Dimension lets Google attack its own auto browse agent safely.",
+  "facts": [
+    {
+      "value": "1,000+",
+      "label": "Tests per security engineer each day"
+    },
+    {
+      "value": "30x",
+      "label": "More than one person could do by hand"
+    },
+    {
+      "value": "gVisor",
+      "label": "Sandbox cutting agents off the real web"
+    }
+  ],
+  "caption": "Google built an entire fake internet just to try to trick its own AI. 🕵️\n\nThe Chrome team revealed the Mirror Dimension, a private synthetic web with thousands of simulated sites, from shopping carts to bank dashboards. It's where Chrome's auto browse agent gets tested before it touches real websites. When the agent visits youtube.com, it actually sees a convincing copy Google fully controls.\n\nThe twist: AI agents build the test sites themselves, and Google hides prompt injection attacks inside them, producing over 1,000 tests per security engineer every day. Attack signals are tucked into hidden HTTP headers because models got smart enough to notice when they were being tested.\n\nAt AI Parabellum, we think this is the real story: if an AI can tell it's in a test, a clean safety score means little. Realistic sandboxes like this may become the standard for checking AI browsing agents.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Google #Chrome #AIAgents #PromptInjection #AISafety #AutoBrowse #Cybersecurity #RedTeaming",
+  "post_caption": "What if the web your AI agent browses isn't real at all? Inside Google's Mirror Dimension, Chrome's auto browse agent shops, clicks and logs in on agent-built fake sites while Google quietly plants prompt injection attacks to see if it slips.\n\nIt's a rare look at how a major browser maker stress-tests agent safety, though prompt injection is still an open problem across the industry.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Google #Chrome #AIAgents #PromptInjection #AISafety #AutoBrowse #Cybersecurity #RedTeaming",
+  "seed": 185,
+  "date": "Nov 19, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/google-chrome-mirror-dimension-fake-web-tests-ai-agents/"
+}

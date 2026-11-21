@@ -1,0 +1,26 @@
+{
+  "title": "Superhuman Go Gets a Personal AI Assistant You Can Name",
+  "highlight": "Personal AI Assistant",
+  "dek": "Formerly Grammarly, Superhuman is wiring Go agents into Docs and Mail.",
+  "facts": [
+    {
+      "value": "1M+",
+      "label": "Monthly active users of Superhuman Go"
+    },
+    {
+      "value": "20+",
+      "label": "New partner agents joining Go"
+    },
+    {
+      "value": "Dec. 1",
+      "label": "Go agents in Docs open beta (self-serve)"
+    }
+  ],
+  "caption": "Your inbox might soon have a coworker you get to name. 🤖\n\nSuperhuman, the company formerly known as Grammarly, is upgrading Superhuman Go with a personal AI assistant that works in the background across your tools. It spots tasks, ranks them and suggests what to do next, like replying to an important email or prepping for a meeting. It learns your writing style, and it only acts with your approval.\n\nGo agents are also moving into Superhuman Docs and Mail. You can @-mention an agent in a doc to hand off work, and search 100+ connected tools from your inbox. The Go SDK is now open to partners, with 20+ agents from Databricks, DeepL, Gamma, Blackboard and more.\n\nWe're following this one closely at AI Parabellum: Go already has over 1 million monthly users. The big question is whether people will trust an assistant with their email and documents.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Superhuman #SuperhumanGo #Grammarly #AIAgents #AIAssistant #ProductivityTools #Fathom #EmailAI",
+  "post_caption": "Grammarly's next act is an AI assistant that manages your other AI agents.\n\nSuperhuman Go now drafts in your voice, ranks your tasks and runs agents inside Docs, Mail and Fathom, but you still approve every action. The assistant rolls out over the coming months, and partner agents start arriving now.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Superhuman #SuperhumanGo #Grammarly #AIAgents #AIAssistant #ProductivityTools #Fathom #EmailAI",
+  "seed": 184,
+  "date": "Nov 19, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/superhuman-go-personal-ai-assistant-partner-agents/"
+}

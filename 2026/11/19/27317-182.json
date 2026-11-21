@@ -1,0 +1,26 @@
+{
+  "title": "Gemini 4 Neon Leaks in Google's API Docs Before Launch",
+  "highlight": "Gemini 4 Neon",
+  "dek": "Specs and prices are live, but Google hasn't announced the model yet.",
+  "facts": [
+    {
+      "value": "1M",
+      "label": "Token context window"
+    },
+    {
+      "value": "$3 / $15",
+      "label": "Input / output per 1M tokens"
+    },
+    {
+      "value": "Nov 18",
+      "label": "Date the listing went live"
+    }
+  ],
+  "caption": "Google just published a model it hasn't announced 👀\n\nGemini 4 Neon appeared in the official Gemini API docs with a full model page and pricing, but no blog post, launch event or press release. The docs call it a \"frontier-level\" model for complex software engineering, knowledge work and science, with a 1 million token context window, computer use, function calling and Google Search grounding.\n\nListed pricing is $3 input and $15 output per million tokens, with no free tier. That places Neon between Gemini 4 Hydrogen and the top models like Gemini 4 Carbon. No benchmarks or release date yet.\n\nWe at AI Parabellum suggest developers hold off on changing production code. Treat this as a preview until Google confirms it, since draft pages and prices can still change.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini4Neon #Gemini #GoogleAI #GeminiAPI #GoogleDeepMind #LLM #AIModels #AILeak",
+  "post_caption": "No announcement, no launch event, yet Gemini 4 Neon already has a price tag. Google's Gemini API docs list it at $3 input and $15 output per million tokens, with a 1M token context window and computer use support.\n\nUntil Google confirms it, consider these details unofficial and subject to change.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Gemini4Neon #Gemini #GoogleAI #GeminiAPI #GoogleDeepMind #LLM #AIModels #AILeak",
+  "seed": 182,
+  "date": "Nov 18, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/gemini-4-neon-spotted-google-api-docs/"
+}

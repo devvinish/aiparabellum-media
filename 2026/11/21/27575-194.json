@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI Cuts Reasoning Theft From GPT-6.2 Astra to 0.2%",
+  "highlight": "Reasoning Theft",
+  "dek": "New defenses aim to stop rivals from copying its models' hidden thinking.",
+  "facts": [
+    {
+      "value": "54.0%",
+      "label": "Attack success on GPT-6 Astra before"
+    },
+    {
+      "value": "0.2%",
+      "label": "Attack success on GPT-6.2 Astra now"
+    },
+    {
+      "value": "10,000s",
+      "label": "Accounts actioned weekly, at the high end"
+    }
+  ],
+  "caption": "What if someone could copy an AI's brain but leave its safety rules behind? 🧠\n\nOpenAI just detailed how it fights adversarial distillation, where rivals train their own models on its outputs without permission. With updated safeguards in GPT-6.2 Astra and GPT-6.2 Sol, OpenAI says one key reasoning-extraction attack dropped from 54.0% success to just 0.2%. Its defenses combine adversarial training, input and output classifiers, API controls and bans on whole account networks, with thousands to tens of thousands of accounts hit each week.\n\nWhy it matters: OpenAI's tests suggest hidden reasoning traces can leak cyber skills to copycat models. The company frames this as national security and backs laws to sanction foreign actors, plus the Chip Security Act, AI OVERWATCH Act and MATCH Act. These are OpenAI's own internal numbers, so outside testing would help confirm them.\n\nWe're tracking the fight over model copying every day at AI Parabellum. Should copying AI reasoning be treated like theft?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #GPT6 #ChatGPT #ModelDistillation #AISecurity #Cybersecurity #Anthropic #AIPolicy",
+  "post_caption": "The step-by-step thinking inside ChatGPT is becoming one of OpenAI's most guarded assets.\n\nOpenAI says new safeguards cut reasoning extraction on GPT-6.2 Astra from 54.0% to 0.2%, and it's now asking Congress for tools to punish foreign copycats. Anthropic has described similar Claude distillation defenses. 🔒\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #GPT6 #ChatGPT #ModelDistillation #AISecurity #Cybersecurity #Anthropic #AIPolicy",
+  "seed": 194,
+  "date": "Nov 20, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/openai-adversarial-distillation-defenses-gpt-6-2-astra/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Cloudflare Makes Clairic Open-Weight, Adds Faster Clairic-flash",
+  "highlight": "Open-Weight",
+  "dek": "Two data extraction models now read PDFs, with full weights on Hugging Face.",
+  "facts": [
+    {
+      "value": "27B",
+      "label": "Parameters in the updated Clairic model"
+    },
+    {
+      "value": "$0.10",
+      "label": "Per million input tokens until Dec 1"
+    },
+    {
+      "value": "207 → 0",
+      "label": "Image reading errors on internal test"
+    }
+  ],
+  "caption": "Cloudflare just open-sourced the weights to its data extraction AI. 🔓\n\nThe company released an updated 27-billion-parameter Clairic and a new, lighter 9B Clairic-flash. Both run on Workers AI, with full weights on Hugging Face. They pull clean, typed fields out of messy receipts, invoices, support tickets and documents, and now read PDFs too, up to four pages or images per request.\n\nA rebuilt architecture generates every field in parallel, so Cloudflare says answers arrive in under a second with confidence scores and character spans attached. You only pay for input tokens: $0.10 per million, with the 27B model rising to $0.24 after December 1, 2026.\n\nWe at AI Parabellum see this as part of a bigger shift: small, purpose-built open-weight models replacing pricey LLM calls for narrow tasks. Just remember the accuracy numbers are Cloudflare's own, so test it on your data first.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Cloudflare #Clairic #WorkersAI #OpenWeight #HuggingFace #DataExtraction #DocumentAI #OpenSourceAI",
+  "post_caption": "Turning invoices and receipts into structured data no longer needs a giant chatbot. Cloudflare's Clairic and Clairic-flash are now open-weight, read PDFs, and respond in under a second.\n\nThe 27B Clairic costs the same as the 9B flash model until December 1, so now is the cheapest time to try it. 📄\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Cloudflare #Clairic #WorkersAI #OpenWeight #HuggingFace #DataExtraction #DocumentAI #OpenSourceAI",
+  "seed": 180,
+  "date": "Nov 18, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/cloudflare-releases-open-weight-clairic-clairic-flash-models/"
+}
