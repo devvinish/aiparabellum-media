@@ -1,0 +1,26 @@
+{
+  "title": "Tidal Bans Fully AI-Generated Music Starting December 9",
+  "highlight": "Bans",
+  "dek": "Songs made with AI help can stay if humans did real work on the track.",
+  "facts": [
+    {
+      "value": "29M",
+      "label": "AI songs expected to be deleted"
+    },
+    {
+      "value": "96%",
+      "label": "AI tracks that got zero plays"
+    },
+    {
+      "value": "85,000",
+      "label": "Max new AI tracks rejected per day"
+    }
+  ],
+  "caption": "Tidal is about to delete roughly 29 million songs, and almost nobody will notice. 🎧\n\nStarting December 9, the streaming service is banning fully AI-generated music. Uploaders and distributors can no longer deliver tracks made entirely by AI, and Tidal expects to reject 80,000 to 85,000 new AI songs every day. Music made with AI as a helper is still allowed, as long as a human created real parts of the final track.\n\nWhy now? Labels and royalty blocks didn't stop the flood. About 43% of recent deliveries were fully AI-made, yet 96% of those tracks got zero plays. Tidal will use Ircam Amplify detection, metadata checks and watermarks from tools like Suno and Google's SynthID to catch them.\n\nWe're tracking how this puts pressure on Spotify, YouTube Music and Apple Music here at AI Parabellum. Should every streaming platform follow Tidal's lead?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Tidal #AIMusic #AIGeneratedMusic #MusicStreaming #Suno #Spotify #MusicIndustry #GenerativeAI",
+  "post_caption": "43% of tracks sent to Tidal lately were fully AI-made. Starting December 9, they're out.\n\nTidal will remove about 29 million AI-generated songs and block distributors from delivering more, while still allowing music where AI only assisted human artists. It's one of the toughest AI music policies from any major streaming service so far.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Tidal #AIMusic #AIGeneratedMusic #MusicStreaming #Suno #Spotify #MusicIndustry #GenerativeAI",
+  "seed": 214,
+  "date": "Nov 24, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/tidal-bans-ai-generated-music-december-9/"
+}

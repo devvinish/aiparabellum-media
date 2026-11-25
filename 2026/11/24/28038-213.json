@@ -1,0 +1,26 @@
+{
+  "title": "Claude Enterprise Can Now Block Files by Purview Sensitivity Label",
+  "highlight": "Block Files",
+  "dek": "IT admins can keep Claude away from labeled Microsoft 365 files and email.",
+  "facts": [
+    {
+      "value": "48",
+      "label": "Max labels a tenant can block"
+    },
+    {
+      "value": "30 min",
+      "label": "Typical time for list changes to apply"
+    },
+    {
+      "value": "Beta",
+      "label": "Enterprise plans only, rolling out slowly"
+    }
+  ],
+  "caption": "Your security team now has a kill switch for what Claude can read in Microsoft 365. 🔒\n\nAnthropic quietly added Microsoft Purview sensitivity label blocking to Claude Enterprise. Admins pick up to 48 labels, and Claude refuses to read, move, reply to or forward any file or email carrying them, across the Microsoft 365 connector and the Excel, Word, PowerPoint and Outlook add-ins. People keep their normal access; only Claude is locked out.\n\nThere are real gaps: pasted text, Teams messages, calendar events, SharePoint pages and unlabeled files aren't covered, and Anthropic says it shouldn't replace your own access controls. Still, for companies weighing Claude against Microsoft Copilot, it removes a big objection. We're tracking it at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Claude #Anthropic #ClaudeEnterprise #MicrosoftPurview #Microsoft365 #DataSecurity #EnterpriseAI #Copilot",
+  "post_caption": "Labeled it confidential in Purview? Claude Enterprise can now be told to keep its hands off.\n\nThe beta feature lets admins block up to 48 Microsoft 365 sensitivity labels, with changes landing in about 30 minutes. Just remember: pasted text and Teams content still slip through.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Claude #Anthropic #ClaudeEnterprise #MicrosoftPurview #Microsoft365 #DataSecurity #EnterpriseAI #Copilot",
+  "seed": 213,
+  "date": "Nov 24, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/claude-enterprise-blocks-microsoft-purview-sensitivity-labels/"
+}

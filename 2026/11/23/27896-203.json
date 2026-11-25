@@ -1,0 +1,26 @@
+{
+  "title": "DeepMind's Gemini 4 Agents Make Quantum Algorithms 290x Faster",
+  "highlight": "290x Faster",
+  "dek": "Every gain was proven in the Lean theorem prover, not just trusted.",
+  "facts": [
+    {
+      "value": "290x",
+      "label": "Speedup on an arcsin routine"
+    },
+    {
+      "value": "11.8x",
+      "label": "Lower cost for fusion simulation"
+    },
+    {
+      "value": "481→333",
+      "label": "Qubits needed for drug enzyme P450"
+    }
+  ],
+  "caption": "AI agents just did real quantum research, and they had to prove every answer. 🧠\n\nGoogle DeepMind and Google Quantum AI set teams of Gemini 4 agents loose on known quantum circuits for fusion energy, drug design and core quantum math. Every four hours the teams met at a virtual conference to swap ideas. The results: an 11.8x cheaper fusion simulation, 8x for a light-sensitive molecule, 2.5x for the Cytochrome P450 enzyme, and a 290x speedup on an arcsin routine.\n\nThe twist: these circuits are too big to simulate or run today, so each improvement had to be formally verified in the Lean theorem prover before it counted. DeepMind is open-sourcing the Lean quantum library and verified solutions on GitHub.\n\nThe gains still exceed what early error-corrected quantum computers can handle, but at AI Parabellum we see a bigger story: a working recipe for trustworthy AI-driven science.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #GoogleDeepMind #Gemini4 #QuantumComputing #AIAgents #LeanProver #QuantumAlgorithms #DrugDiscovery #FusionEnergy",
+  "post_caption": "What if AI could do research you can't test, and you could still trust it? DeepMind's answer: make Gemini 4 agents prove every result in Lean.\n\nThe payoff was quantum algorithms for fusion and drug design that run 2.5x to 290x cheaper, with the code going open source.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #GoogleDeepMind #Gemini4 #QuantumComputing #AIAgents #LeanProver #QuantumAlgorithms #DrugDiscovery #FusionEnergy",
+  "seed": 203,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/deepmind-gemini-4-agents-cut-quantum-algorithm-costs/"
+}

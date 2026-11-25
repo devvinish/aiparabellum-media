@@ -1,0 +1,26 @@
+{
+  "title": "Claude's MCP Servers Can Now Ship Skills and Run Background Tasks",
+  "highlight": "Ship Skills",
+  "dek": "Connected apps can now teach Claude, work in the background and ask first.",
+  "facts": [
+    {
+      "value": "700M+",
+      "label": "MCP SDK downloads per month"
+    },
+    {
+      "value": "10,000+",
+      "label": "MCP connectors available in Claude"
+    },
+    {
+      "value": "85%+",
+      "label": "Context saved by tool search"
+    }
+  ],
+  "caption": "Your Claude connectors just got a lot smarter, and they'll ask before doing anything risky. 🧠\n\nAnthropic opened Skills over MCP as a public beta, letting MCP servers ship their own playbooks right next to their tools. Shopify, HubSpot, Atlassian and Carta are early partners. Claude loads a skill only when it needs one, and skills update with the server, so there's nothing to install.\n\nTasks and Elicitation are now generally available too. Tasks lets servers run slow jobs in the background while Claude keeps working. Elicitation pauses to ask for your sign-off, like Supabase confirming costs or GitHub making you type a repo name before deletion. File Uploads is coming soon.\n\nWe're following this at AI Parabellum because it's all part of the open Model Context Protocol, meaning developers can build once and support any compatible AI client, in the Claude apps and Claude Code alike.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #MCP #ModelContextProtocol #ClaudeCode #AIAgents #AgenticAI",
+  "post_caption": "MCP connectors are evolving from simple tools into teammates. Anthropic's latest update lets servers teach Claude their workflows, hand off long-running background work, and stop to get your approval before costly or destructive actions.\n\nSkills over MCP is on by default for Pro, Max and Ultra, while Team admins need to switch it on. ⚙️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #MCP #ModelContextProtocol #ClaudeCode #AIAgents #AgenticAI",
+  "seed": 215,
+  "date": "Nov 24, 2026",
+  "seconds": 19,
+  "cover_ms": 5480,
+  "link": "https://aiparabellum.com/claude-mcp-servers-ship-skills-tasks-elicitation/"
+}

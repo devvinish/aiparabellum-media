@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic Opens Claude Misuse Monitoring With Zero Data Retention",
+  "highlight": "Zero Data Retention",
+  "dek": "Enterprise Frontier Safeguards is now in public beta for businesses.",
+  "facts": [
+    {
+      "value": "100+",
+      "label": "Customers in the private beta"
+    },
+    {
+      "value": "1/4",
+      "label": "Of the Fortune 100 tested EFS"
+    },
+    {
+      "value": "$0",
+      "label": "Anthropic fee for EFS itself"
+    }
+  ],
+  "caption": "Your company's Claude data never sits on Anthropic's servers, yet attacks still get caught. 🔒\n\nAnthropic has opened Enterprise Frontier Safeguards (EFS) to public beta. Prompts and responses go to an Amazon S3 or Google Cloud Storage bucket you own, encrypted with your keys. An automated monitor scans for multi-step misuse across many requests and sends Safety Cases to your own security team, not to reviewers at Anthropic. Your data is never used for training.\n\nWhy it matters: healthcare, finance and legal firms that couldn't let a vendor keep their data now have a path to frontier Claude models. More than 100 customers, including Bridgewater, Salesforce and Stripe, tested it first. We break down stories like this every day at AI Parabellum.\n\nEFS works on the Claude Platform, Amazon Bedrock and Google Cloud, with Microsoft Foundry coming soon. Anthropic charges nothing for it, but you pay your cloud provider for storage.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #AISafety #DataPrivacy #EnterpriseAI #Cybersecurity #AmazonBedrock #ZeroDataRetention",
+  "post_caption": "Privacy or safety? Anthropic says regulated companies no longer have to pick one.\n\nEnterprise Frontier Safeguards keeps Claude logs in your own cloud bucket under your own keys, while automated monitoring flags multi-step attacks for your team to review. Public beta is live now.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #AISafety #DataPrivacy #EnterpriseAI #Cybersecurity #AmazonBedrock #ZeroDataRetention",
+  "seed": 204,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta/"
+}

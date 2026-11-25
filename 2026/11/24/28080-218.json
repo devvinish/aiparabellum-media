@@ -1,0 +1,26 @@
+{
+  "title": "Dell's AI Server Backlog Hits a Record $132 Billion",
+  "highlight": "$132 Billion",
+  "dek": "Record quarter pushes Dell's full-year forecast up to $202 billion.",
+  "facts": [
+    {
+      "value": "$54.9B",
+      "label": "Record Q3 revenue, up 103%"
+    },
+    {
+      "value": "$22.0B",
+      "label": "AI server revenue, up 291%"
+    },
+    {
+      "value": "$202B",
+      "label": "Full-year forecast, raised from $192B"
+    }
+  ],
+  "caption": "Dell isn't really a PC company anymore. 📈\n\nDell just reported record third-quarter revenue of $54.9 billion, up 103% from a year ago, and its backlog of AI server orders reached $132.3 billion. AI-optimized servers alone brought in $22 billion, up 291%, while the PC business grew only about 3%.\n\nOn the back of that demand, Dell raised its full-year forecast to $202 billion, above Wall Street expectations. More than 7,500 customers now run Dell AI Factories, and the company booked $60.2 billion in new AI orders in a single quarter.\n\nWhy it matters: the AI data center buildout behind chatbots and AI agents is speeding up, not cooling off. Power and cash flow are the limits to watch. We're tracking it daily at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Dell #DellTechnologies #AIServers #AIInfrastructure #DataCenter #AIFactory #Nvidia #TechEarnings",
+  "post_caption": "$60.2 billion in new AI orders in one quarter. That's how fast Dell's AI server business is moving.\n\nWith a record $132.3 billion backlog and a full-year forecast raised to $202 billion, Dell now earns most of its money in the data center, not from laptops.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Dell #DellTechnologies #AIServers #AIInfrastructure #DataCenter #AIFactory #Nvidia #TechEarnings",
+  "seed": 218,
+  "date": "Nov 24, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/dell-raises-forecast-202-billion-ai-server-backlog/"
+}

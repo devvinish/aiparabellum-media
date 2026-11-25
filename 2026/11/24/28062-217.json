@@ -1,0 +1,26 @@
+{
+  "title": "GPT-6 Designed Real Proteins With No Biology Models",
+  "highlight": "Real Proteins",
+  "dek": "OpenAI says GPT-6.2 designed proteins that bound targets in lab tests.",
+  "facts": [
+    {
+      "value": "10.9%",
+      "label": "Hit rate: 35 of 322 minibinders bound"
+    },
+    {
+      "value": "128/182",
+      "label": "Antibody loop designs that bound IL-4Ra"
+    },
+    {
+      "value": "0.38",
+      "label": "TM-score vs 0.93 for ESMFold2"
+    }
+  ],
+  "caption": "OpenAI pointed GPT-6 at a wet lab, and some of it actually worked 🧬\n\nIn a new preprint, OpenAI says GPT-6.2 can sketch 3D protein shapes, propose amino acid sequences and predict how molecules fit together using only reasoning and general coding tools, no purpose-built biology models. Lab partner Onava built hundreds of the designs and tested them. Of 322 minibinders aimed at five targets, 35 showed binding, a 10.9% hit rate, with strong results on antibody loop redesigns where 128 of 182 designs bound IL-4Ra.\n\nThe limits are just as loud. Full structure prediction from sequence averaged a TM-score of 0.38 versus 0.93 for the specialized ESMFold2, and models like Boltz-2 still filtered candidates before anything hit the bench. Some benchmark scores may also reflect memorization of public structures, and binding is only step one before specificity, stability and safety.\n\nWe track this kind of shift daily at AI Parabellum, where general models keep creeping into technical work. The real story is prompt-level control over molecular design, not a drug pipeline. Independent replication decides the rest.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #GPT6 #ProteinDesign #Onava #AIinScience #DrugDiscovery #ESMFold #Biotech",
+  "post_caption": "A chatbot family just wrote protein sequences that stuck to their targets in a real lab.\n\nOpenAI's GPT-6.2, tested with Onava, hit 10.9% on minibinder designs and 85% binding on hidden MDM2 redesigns, but still trails dedicated structure predictors badly at 0.38 TM-score against 0.93. Promising, unproven, and worth watching closely.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #GPT6 #ProteinDesign #Onava #AIinScience #DrugDiscovery #ESMFold #Biotech",
+  "seed": 217,
+  "date": "Nov 24, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/openai-gpt-6-protein-design-onava-lab-tests/"
+}

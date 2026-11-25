@@ -1,0 +1,26 @@
+{
+  "title": "Claude Artifacts Can Now Install as Mac and Windows Apps",
+  "highlight": "",
+  "dek": "Anthropic's beta gives artifacts their own icon, window and notifications.",
+  "facts": [
+    {
+      "value": "3",
+      "label": "Permission levels, up to full access"
+    },
+    {
+      "value": "Beta",
+      "label": "Rolling out on all Claude plans"
+    },
+    {
+      "value": "5",
+      "label": "Demo apps built by Anthropic staff"
+    }
+  ],
+  "caption": "Your favorite Claude artifact just became a real desktop app. 🖥️\n\nAnthropic is rolling out \"Install as app\" in beta for Claude on Mac and Windows. Any artifact you use every day can now run outside the chat with its own icon and window, send notifications, and sit in the Mac menu bar or Windows system tray. Apps can call Claude, use your connectors, and update automatically when you edit the artifact. No packaging, code signing or API key needed.\n\nThere are guardrails: three permission levels, from browser-only up to full computer access, which only works for apps you built yourself or, on Team and Enterprise, made inside your org. Every Claude call an app makes counts against your plan's usage limits.\n\nWe at AI Parabellum think this blurs the line between asking an AI for help and building your own software. Would you install one?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Claude #Anthropic #ClaudeArtifacts #AIApps #GenerativeAI #NoCode #MacApps #WindowsApps",
+  "post_caption": "No developer, no build step, just a description. Anthropic's new beta lets Claude users turn artifacts into Mac and Windows apps with notifications, tray icons and tiered permissions.\n\nAnthropic's own staff built examples like an image editor, a file organizer and a terminal with Claude alongside. Which tool would you make first? 🚀\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Claude #Anthropic #ClaudeArtifacts #AIApps #GenerativeAI #NoCode #MacApps #WindowsApps",
+  "seed": 216,
+  "date": "Nov 24, 2026",
+  "seconds": 19,
+  "cover_ms": 4700,
+  "link": "https://aiparabellum.com/claude-artifacts-install-as-mac-windows-apps/"
+}

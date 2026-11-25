@@ -1,0 +1,26 @@
+{
+  "title": "Oregon and Virginia Sue SpaceX Over Grok Deepfakes",
+  "highlight": "Grok Deepfakes",
+  "dek": "Two states say Grok's weak guardrails broke consumer protection law.",
+  "facts": [
+    {
+      "value": "2 states",
+      "label": "Oregon and Virginia filed separate suits"
+    },
+    {
+      "value": "~90%",
+      "label": "CyberTipline reports NCMEC couldn't act on"
+    },
+    {
+      "value": "Feb",
+      "label": "When SpaceX bought xAI, Grok's maker"
+    }
+  ],
+  "caption": "Two US states just took Elon Musk's AI chatbot to court. 🚨\n\nThe attorneys general of Oregon and Virginia sued SpaceX and X Corp, saying the company misled the public about how safe Grok is. The complaints point to Grok deepfakes, including sexual images of minors and real people made without consent, and claim safeguards were kept loose on purpose to boost a lagging product. SpaceX is on the hook because it bought xAI, Grok's maker, in February.\n\nVirginia's investigators say Grok even explained which words trip its filters and helped write prompts to get around them. The states want civil penalties and fees, and they point to Meta's child safety settlement with 51 states as a model for broader product changes.\n\nAt AI Parabellum, we think this is a big test: if courts treat weak AI guardrails as consumer deception, every chatbot maker will have to back its safety claims with real limits.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Grok #xAI #SpaceX #ElonMusk #Deepfakes #ChildSafety #AISafety #AIRegulation",
+  "post_caption": "Can a chatbot's safety promises be held against it in court? Oregon and Virginia are about to find out.\n\nBoth states accuse SpaceX and X Corp of letting Grok generate sexual deepfakes, including of children, while telling users the product was safe. Baltimore and a group of Tennessee teens have already filed similar cases.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Grok #xAI #SpaceX #ElonMusk #Deepfakes #ChildSafety #AISafety #AIRegulation",
+  "seed": 198,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 5090,
+  "link": "https://aiparabellum.com/oregon-virginia-sue-spacex-grok-deepfakes-csam/"
+}

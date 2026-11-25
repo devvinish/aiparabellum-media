@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic's Claude Ship Can Now Approve Your Pull Requests",
+  "highlight": "Claude Ship",
+  "dek": "Three Claude agents take a GitHub PR from review to fixes to approval.",
+  "facts": [
+    {
+      "value": "3",
+      "label": "Agents: Code Review, PR Steward, Approvals"
+    },
+    {
+      "value": "$10,000+",
+      "label": "Credits for eligible Enterprise orgs"
+    },
+    {
+      "value": "40%+",
+      "label": "Drop in reverted changes at Anthropic"
+    }
+  ],
+  "caption": "Your AI just got permission to approve its own code. 👀\n\nAnthropic has launched Claude Ship, a beta toolset for Claude Team and Enterprise that hands a GitHub pull request across three agents. Code Review finds bugs and security issues, PR Steward fixes failing CI checks, merge conflicts and review comments, and Claude Approvals signs off on routine changes when your team's written policy allows it. Developers can also run /ship in Claude Code to push, open, review and fix a PR in one go.\n\nWhy it matters: if AI already writes most of your code, the bottleneck is review and merging. Anthropic says merged PRs on its Claude Code team more than doubled from June to September while reverts fell by over 40%. But it's billed on tokens, GitHub-only for now, and a careless policy could let bot-written code merge with no human looking.\n\nWe've been following the coding-agent race closely at AI Parabellum, and this one shifts the most important file in your repo to the approval policy. Would you let Claude approve your PRs?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeShip #ClaudeCode #GitHub #CodeReview #AIAgents #DevTools",
+  "post_caption": "The slow part of coding isn't writing anymore, it's getting the PR merged. Anthropic's Claude Ship goes after exactly that, with Claude reviewing, fixing and even approving GitHub pull requests under rules your team sets.\n\nStart in observe mode, set spend limits and keep humans on auth, payments and infrastructure code. 🛠️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #ClaudeShip #ClaudeCode #GitHub #CodeReview #AIAgents #DevTools",
+  "seed": 206,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/anthropic-claude-ship-reviews-approves-pull-requests/"
+}

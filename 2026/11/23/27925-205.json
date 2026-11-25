@@ -1,0 +1,26 @@
+{
+  "title": "Embo Raises $110M Seed to Build a Robot Brain on World Models",
+  "highlight": "$110M Seed",
+  "dek": "Ex-DeepMind researcher Danijar Hafner wants humanoids to learn physics from video.",
+  "facts": [
+    {
+      "value": "$110M",
+      "label": "Seed round led by Andreessen Horowitz"
+    },
+    {
+      "value": "70,000",
+      "label": "GPUs the team has trained models across"
+    },
+    {
+      "value": "Nov 2026",
+      "label": "Month the round was announced"
+    }
+  ],
+  "caption": "What if a robot could learn how the world works just by watching videos? 🤖\n\nEmbo, a new startup led by former Google DeepMind researcher Danijar Hafner, has raised a $110 million seed round led by Andreessen Horowitz (a16z). Khosla Ventures, DST Global and Nvidia's NVentures also joined. The goal: a general robot brain that can control humanoid robots in places they've never seen.\n\nInstead of copying human demos, Embo trains world models on internet-scale video and text, then lets the AI practice thousands of imagined scenarios with reinforcement learning before fine-tuning on a real humanoid fleet. Hafner is the mind behind Dreamer 4, which learned to collect diamonds in Minecraft purely through imagined experience.\n\nThere's no product, customer or valuation yet, and the real test is reliable skills outside polished demos. We're tracking the world model race closely at AI Parabellum, and this round shows physical AI is now one of the hottest bets in tech.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Embo #WorldModels #HumanoidRobots #Robotics #PhysicalAI #a16z #Nvidia #ReinforcementLearning",
+  "post_caption": "Humanoid robots that practice in their imagination before touching the real world. That's the pitch behind Embo's $110M seed from a16z, Khosla Ventures, DST Global and NVentures.\n\nThe team, with roots at Google DeepMind, Meta and Nvidia's Cosmos group, now has to prove video-trained world models can hold up in messy, unfamiliar places.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Embo #WorldModels #HumanoidRobots #Robotics #PhysicalAI #a16z #Nvidia #ReinforcementLearning",
+  "seed": 205,
+  "date": "Nov 23, 2026",
+  "seconds": 20,
+  "cover_ms": 5610,
+  "link": "https://aiparabellum.com/embo-raises-110m-seed-robot-brain-world-models/"
+}

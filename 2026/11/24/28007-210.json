@@ -1,0 +1,26 @@
+{
+  "title": "Amazon Bedrock Adds Trusted Access API for Claude Safeguards",
+  "highlight": "Trusted Access API",
+  "dek": "Anthropic's two Claude safety programs now enroll through AWS in one place.",
+  "facts": [
+    {
+      "value": "100+",
+      "label": "Customers who helped design EFS"
+    },
+    {
+      "value": "24 hours",
+      "label": "Until models stop if key access removed"
+    },
+    {
+      "value": "Jun 2027",
+      "label": "Zero data retention through at least"
+    }
+  ],
+  "caption": "Running Claude on AWS just got a new rulebook for your data. 🔐\n\nAmazon Bedrock has launched a generally available trusted access API, one place to see, request and join safety programs run by AI model makers. The first two come from Anthropic: Enterprise Frontier Safeguards, which keeps retained prompts in your own S3 bucket under your own KMS key, and the new Enterprise Data Controls, which uses Amazon-managed storage for an easier setup. Both are in public preview for Claude Fable, Claude Mythos and more.\n\nWhy it matters: automated monitoring looks for misuse across many requests, like offensive cyber operations or agents going beyond what a user asked. Flagged Safety Cases land with your own team, not AWS or Anthropic, and no one uses the data for training.\n\nWe break down which option fits your company on AI Parabellum. Security teams, this review work is now yours.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AmazonBedrock #AWS #Anthropic #Claude #AISafety #EnterpriseAI #DataPrivacy #CloudSecurity",
+  "post_caption": "Your Claude data, your bucket, your reviewers. AWS and Anthropic now offer two ways to meet Anthropic's stricter safety rules for its strongest models on Amazon Bedrock.\n\nPick Enterprise Frontier Safeguards for full control with your own S3 and KMS keys, or Enterprise Data Controls for less setup. Either way, flagged activity is reviewed by your own team. ☁️\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #AmazonBedrock #AWS #Anthropic #Claude #AISafety #EnterpriseAI #DataPrivacy #CloudSecurity",
+  "seed": 210,
+  "date": "Nov 24, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/amazon-bedrock-trusted-access-api-claude-safeguards/"
+}

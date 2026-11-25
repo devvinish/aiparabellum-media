@@ -1,0 +1,26 @@
+{
+  "title": "NHS Tests AI as a Mammogram Reader for 700,000 Women",
+  "highlight": "AI",
+  "dek": "The EDITH trial asks if software can replace one of two human readers.",
+  "facts": [
+    {
+      "value": "700,000",
+      "label": "Women expected to join the EDITH trial"
+    },
+    {
+      "value": "30",
+      "label": "NHS screening sites across the UK"
+    },
+    {
+      "value": "£10M",
+      "label": "Funding from the NIHR for the study"
+    }
+  ],
+  "caption": "Two specialists read every mammogram in the UK. The NHS now wants to know if AI can do the job of one of them. 🩺\n\nThe EDITH trial has started in Cambridgeshire and will expand to 30 screening sites, with nearly 700,000 women expected to take part over about three years. Four AI systems will be tested, either grading images before radiologists see them or checking them afterward. At least one human radiologist still reviews every scan, and all clinical decisions stay with NHS staff.\n\nWhy it matters: more than a fifth of the UK's breast radiology workforce is due to retire by 2030, while demand keeps climbing. Researchers are also watching for overdiagnosis and unnecessary recalls, the hidden risks of catching \"more.\"\n\nWe're following this one closely at AI Parabellum. Would you be comfortable with AI reading your scan?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #NHS #BreastCancerScreening #Mammogram #AIinHealthcare #Radiology #MedicalAI #EDITHTrial #BreastCancerAwareness",
+  "post_caption": "Billed as the world's largest trial of AI-assisted breast cancer screening, EDITH is now underway in the UK.\n\nLed by the University of Warwick, the University of Cambridge and Cambridge University Hospitals, it will test whether one radiologist plus AI can match two radiologists. The NHS says screening will only change if the evidence shows it's just as safe.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #NHS #BreastCancerScreening #Mammogram #AIinHealthcare #Radiology #MedicalAI #EDITHTrial #BreastCancerAwareness",
+  "seed": 197,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/nhs-edith-trial-ai-breast-screening-700000-women/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI Brings GPT-6.2 to ChatGPT's Chat Tab",
+  "highlight": "GPT-6.2",
+  "dek": "A chat-tuned GPT-6.2 Sol replaces GPT-6 for paying ChatGPT users.",
+  "facts": [
+    {
+      "value": "71.7%",
+      "label": "Image understanding score, up from 47.4%"
+    },
+    {
+      "value": "Nov 23",
+      "label": "Global rollout began for paid plans"
+    },
+    {
+      "value": "78.1%",
+      "label": "Hard-prompt instruction following"
+    }
+  ],
+  "caption": "Your ChatGPT just got a new brain, and you didn't have to touch a setting. 🧠\n\nOpenAI is rolling out GPT-6.2 in ChatGPT's everyday Chat tab, replacing GPT-6 for Plus, Pro, Business and Enterprise users. It's a version of GPT-6.2 Sol tuned for conversation, and OpenAI says it handles detailed instructions, web searches and shared images more reliably. On OpenAI's own tests, image understanding jumped from 47.4% to 71.7%.\n\nThere's also a safety angle: OpenAI reports big gains on teen safety evaluations covering emotional reliance, disordered eating and age-restricted goods. ChatGPT Work and Codex aren't changing, and Enterprise access depends on admins.\n\nWe're tracking the full GPT-6.2 rollout at AI Parabellum. Remember these are internal benchmarks, so the real test is how it answers your questions.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #ChatGPT #GPT62 #GPT6 #ChatGPTPlus #AISafety #GenerativeAI",
+  "post_caption": "Screenshots, charts and photos should land better in ChatGPT now. GPT-6.2 is replacing GPT-6 in the Chat tab for paying users, with OpenAI claiming a 24+ point jump in image understanding.\n\nIt also promises sharper instruction following and smarter web research, though all numbers come from OpenAI's own tests.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #ChatGPT #GPT62 #GPT6 #ChatGPTPlus #AISafety #GenerativeAI",
+  "seed": 207,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 4960,
+  "link": "https://aiparabellum.com/openai-gpt-6-2-chatgpt-chat-tab-rollout/"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Amazon Buys Decart's AI Optimization Tech to Supercharge Trainium",
+  "highlight": "Decart",
+  "dek": "Amazon wants AI to train and run faster and cheaper on its own chips.",
+  "facts": [
+    {
+      "value": "$7.5B",
+      "label": "Reported deal value (Amazon didn't say)"
+    },
+    {
+      "value": "Nov 23",
+      "label": "Date Amazon announced the agreement"
+    },
+    {
+      "value": "3",
+      "label": "Decart co-founders joining Amazon"
+    }
+  ],
+  "caption": "Amazon just made a reported $7.5 billion bet on squeezing more out of every AI chip. ⚡\n\nOn November 23, Amazon signed a deal to buy the technology behind the Decart Optimization Stack and bring Decart's three co-founders and research team on board. It isn't a typical company buyout: Amazon is taking the tech and the people who built it. Decart specializes in full-stack performance tuning, and it has worked with Amazon on Trainium since 2025.\n\nWhy it matters: running AI is expensive, and the cost comes down to how much work each chip can do. Better optimization helps Amazon's custom silicon compete with Nvidia, and could mean faster inference and lower costs for AWS customers. Amazon didn't disclose the price, and the deal still needs regulatory clearance.\n\nWe're tracking the AI chip race every day at AI Parabellum. Will custom chips like Trainium ever seriously challenge Nvidia? 👇\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Amazon #AWS #Trainium #Decart #AIChips #Nvidia #AIInference #CustomSilicon",
+  "post_caption": "The AI chip race is now about efficiency, not just raw power. Amazon is acquiring Decart's optimization tech and team to make models train and run faster and cheaper on Trainium.\n\nThe price wasn't disclosed, but earlier reports put it near $7.5 billion. The deal still needs regulatory approval before AWS customers see any gains.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Amazon #AWS #Trainium #Decart #AIChips #Nvidia #AIInference #CustomSilicon",
+  "seed": 201,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/amazon-buys-decart-ai-optimization-tech-trainium/"
+}

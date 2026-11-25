@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI and Cisco Launch Shirudo to Shield Unpatched Linux",
+  "highlight": "Shirudo",
+  "dek": "AI agents draft temporary shields that humans approve, no restart needed.",
+  "facts": [
+    {
+      "value": "Nov 23",
+      "label": "Shirudo announced by OpenAI and Cisco"
+    },
+    {
+      "value": "BSD-2",
+      "label": "Open-source license, BPF code also GPL"
+    },
+    {
+      "value": "Dec 15",
+      "label": "Technical deep-dive webinar scheduled"
+    }
+  ],
+  "caption": "What if your Linux servers could be protected the moment a new vulnerability drops, without waiting days for a patch? 🛡️\n\nOpenAI and Cisco just launched Shirudo, an open-source security runtime built on eBPF. AI agents like OpenAI's Codex investigate a flaw, write a narrow temporary \"shield\" and test it, then a human security team approves it. Shields are cryptographically signed, verified and applied to running systems with no restart. In a company test, a shield stopped a \"Java4Shell\" exploit while Elasticsearch kept running.\n\nWhy it matters: AI is speeding up how fast bugs get found, but patching every machine still takes time. Shirudo aims to close that risky window. It doesn't replace patching, and independent testing is still to come.\n\nWe're following how AI is reshaping cybersecurity every day at AI Parabellum. Would you trust AI-drafted shields on your servers?\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #Cisco #Shirudo #Linux #eBPF #Cybersecurity #OpenSource #Codex",
+  "post_caption": "Agents do the work, people keep the keys. That's the pitch behind Shirudo, the new open-source tool from OpenAI and Cisco that guards Linux systems before a patch lands.\n\nAI-written shields block the exact behavior an exploit needs while normal traffic keeps flowing, and nothing goes live without human sign-off.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #Cisco #Shirudo #Linux #eBPF #Cybersecurity #OpenSource #Codex",
+  "seed": 209,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/openai-cisco-launch-shirudo-open-source-linux-shield/"
+}

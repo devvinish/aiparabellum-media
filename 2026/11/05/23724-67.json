@@ -1,0 +1,26 @@
+{
+  "title": "Visa's AI Shopping Test: Models Fail 43% of Purchases",
+  "highlight": "Fail 43%",
+  "dek": "22 AI models tried real shopping chats. Many still bought the wrong thing.",
+  "facts": [
+    {
+      "value": "57.2%",
+      "label": "Overall pass rate across 22 models"
+    },
+    {
+      "value": "54%",
+      "label": "Failed runs that still bought something"
+    },
+    {
+      "value": "34.2%",
+      "label": "Times a model passed all three tries"
+    }
+  ],
+  "caption": "Would you let an AI spend your money? Visa's new test suggests you shouldn't just yet. 🛒\n\nVisa released the Visa Agentic Commerce Benchmark, which puts AI agents through realistic shopping conversations for TVs, laptops and personal care appliances. To pass, a model has to uncover every hidden customer need and then make the right call: buy the right product, or buy nothing. Across 22 models from 12 AI labs, the overall pass rate was just 57.2%. The best scored 82.2%, the worst 28.9%.\n\nThe bigger worry is consistency and bad purchases. Models passed all three attempts only 34.2% of the time, and about 54% of failed runs still ended with the AI buying something. Pricier models did better, but price didn't guarantee success.\n\nWe're following agentic commerce closely at AI Parabellum. For now, let AI help you research, give it your budget up front, and always check the final pick before you pay.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Visa #AgenticCommerce #AIAgents #AIShopping #AIBenchmark #Ecommerce #Fintech",
+  "post_caption": "Smart enough to chat, not yet smart enough to shop. In Visa's new agentic commerce benchmark, AI models failed 42.8% of realistic shopping tests, and more than half of those failures still ended in a purchase.\n\nThe benchmark is public, so you can try the same challenges and see how AI shopping agents handle tricky requests.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Visa #AgenticCommerce #AIAgents #AIShopping #AIBenchmark #Ecommerce #Fintech",
+  "seed": 67,
+  "date": "Nov 5, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/visa-ai-shopping-benchmark-models-fail-tests/"
+}

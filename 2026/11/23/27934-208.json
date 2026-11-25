@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic: AI Pays Off Most When Companies Reorganize Work",
+  "highlight": "Reorganize Work",
+  "dek": "Interviews at 58 US firms show handing out chatbots isn't enough.",
+  "facts": [
+    {
+      "value": "58",
+      "label": "US companies in Anthropic's study"
+    },
+    {
+      "value": "~2/3",
+      "label": "Firms reporting slower hiring due to AI"
+    },
+    {
+      "value": "4x",
+      "label": "Staff startups say they'd need without AI"
+    }
+  ],
+  "caption": "Handing everyone a chatbot isn't an AI strategy. Anthropic just found out what actually works.\n\nIn its new \"Working with AI\" report, Anthropic's economists interviewed 66 people at 58 US business customers, from AI-native startups to century-old law firms, dentists and manufacturers. The companies getting the most value didn't just automate tasks or buy licenses. They reorganized: broader roles, fewer handoffs, and people moved toward what AI still can't do, like judgment calls, customer conversations and code review.\n\nThe numbers are striking. About two-thirds of firms said AI slowed their hiring, while startups estimated they'd need roughly 4x the staff without it. Coding agents built with Claude showed up everywhere, even in the hands of non-engineers. But new bottlenecks appeared too: floods of AI output to review and teams that can't keep pace. 📊\n\nWe break down the full study at AI Parabellum. The lesson for anyone leading AI adoption: find the new bottleneck, open up your data, and share the gains with your people.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #FutureOfWork #AIAdoption #AIAgents #Automation #WorkingWithAI #EnterpriseAI",
+  "post_caption": "Two-thirds of companies in Anthropic's new study say AI has slowed their hiring, but only 2 saw automation fully eliminate a job.\n\nThe bigger takeaway: firms that redesigned roles around AI, merging duties and pushing people toward judgment and customer work, reported the highest value. 💼\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #Anthropic #Claude #FutureOfWork #AIAdoption #AIAgents #Automation #WorkingWithAI #EnterpriseAI",
+  "seed": 208,
+  "date": "Nov 23, 2026",
+  "seconds": 19,
+  "cover_ms": 5220,
+  "link": "https://aiparabellum.com/anthropic-study-58-companies-reorganize-work-ai/"
+}

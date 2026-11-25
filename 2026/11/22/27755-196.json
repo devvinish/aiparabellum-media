@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI Wants Every AI Lab to Cap Perplexity for Safety",
+  "highlight": "Cap Perplexity",
+  "dek": "Chief scientist Jakub Pachocki shares OpenAI's internal scores and asks rivals to join.",
+  "facts": [
+    {
+      "value": "0.91",
+      "label": "GPT-4's reported log-perplexity"
+    },
+    {
+      "value": "0.68-0.7",
+      "label": "Next window for new abilities"
+    },
+    {
+      "value": "2027",
+      "label": "Possible wave of AI-driven advances"
+    }
+  ],
+  "caption": "OpenAI just handed its rivals a look at its own internal scorecard, and it's asking them to do the same. 👀\n\nChief scientist Jakub Pachocki proposes a shared AI safety standard built on one number: perplexity, a measure of how well a model predicts unseen text. Labs would report it openly, agree on testing and red-teaming norms, and commit to common limits that stay in place until safety tools, like successors to chain-of-thought monitors, catch up.\n\nThe published numbers show GPT-3.5 at about 0.99, GPT-4 at about 0.91, and recent models below 0.8, with major gains in cybersecurity and math. Pachocki warns AI helping build AI could trigger a sudden jump as soon as 2027, and that alignment audits may weaken as models get smarter.\n\nIt's only a proposal, and comparing scores across labs won't be easy. We're following whether Anthropic, Google and others sign on here at AI Parabellum.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #AISafety #Perplexity #JakubPachocki #FrontierAI #ChatGPT #AIAlignment #AIRegulation",
+  "post_caption": "One shared number to decide when AI labs should slow down. That's OpenAI's new pitch.\n\nJakub Pachocki published OpenAI's internal perplexity scores and wants frontier labs to agree on limits until safety research catches up, warning that the next leap could come by 2027.\n\n📰 Full story on AIParabellum.com (link in bio)\n👉 Follow @aiparabellum for daily AI news\n\n#AIParabellum #AINews #OpenAI #AISafety #Perplexity #JakubPachocki #FrontierAI #ChatGPT #AIAlignment #AIRegulation",
+  "seed": 196,
+  "date": "Nov 22, 2026",
+  "seconds": 19,
+  "cover_ms": 5350,
+  "link": "https://aiparabellum.com/openai-proposes-perplexity-limits-ai-safety-standard/"
+}
